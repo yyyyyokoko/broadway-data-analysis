@@ -19,3 +19,6 @@ def getQuote():
 
 def date():
     return None
+
+def jj():
+    return None
