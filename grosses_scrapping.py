@@ -16,3 +16,6 @@ def getQuote():
         else:
             print("getQuote() teminated")
             stop = True
+
+def date():
+    return None
