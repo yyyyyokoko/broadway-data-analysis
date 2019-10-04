@@ -4,7 +4,6 @@ import pandas as pd
 import csv
 import sys
 
-
 # find all the show names
 def find_name_list():
     url='https://www.broadwayworld.com/industry-social.cfm'
