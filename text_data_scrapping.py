@@ -157,8 +157,8 @@ if __name__ == "__main__":
     musical = readData("broadway-shows-all.csv")
     musical_list, total_review = getReviews(musical)
     musical_list_news, musical_list1, clean_review = dataCleaning(musical_list, total_review)
-    musical_list_news.to_csv("Musical_ratings-withNa.csv", index = False) #save to file
-    musical_list1.to_csv("Musical_ratings-withoutNa.csv", index = False)
+    #musical_list_news.to_csv("Musical_ratings-withNa.csv", index = False) #save to file
+    musical_list1.to_csv("Musical_ratings.csv", index = False)
     clean_review.to_csv("clean_review.csv", index = False)
     result = getNews(musical_list_news) 
     result.to_csv("news.csv", index = False)
