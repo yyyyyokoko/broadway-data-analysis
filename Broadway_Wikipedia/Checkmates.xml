@@ -1,0 +1,1001 @@
+
+
+
+
+<p>Checkmate - Wikipedia</p>
+<p>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Checkmate","wgTitle":"Checkmate","wgCurRevisionId":911122677,"wgRevisionId":911122677,"wgArticleId":456612,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Persian-language text","Articles containing Arabic-language text","Articles containing Latin-language text","Articles containing Ancient Greek-language text","All articles with unsourced statements","Articles with unsourced statements from February 2014","Chess rules","Chess checkmates","Chess terminology","Chess endgames","Chess theory"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",</p>
+<p>"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Checkmate","wgRelevantArticleId":456612,"wgRequestId":"XZo1zwpAIDEAAHeZGDUAAABB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Checkmates","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Checkmate","wgWikibaseItemId":"Q20819848","wgCentralAuthMobileDomain":!1,</p>
+<p>"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",</p>
+<p>"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});</p>
+<p>});});</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ref id="top"></ref>
+
+
+
+<p>Checkmate</h1></p>
+
+<p>From Wikipedia, the free encyclopedia</p>
+  (Redirected from <ref class="mw-redirect" href="/w/index.php?title=Checkmates&redirect=no" title="Checkmates">Checkmates</ref>)
+
+<ref class="mw-jump-link" href="#mw-head">Jump to navigation</ref>
+<ref class="mw-jump-link" href="#p-search">Jump to search</ref>
+<p>For other uses, see <ref class="mw-disambig" href="/wiki/Checkmate_(disambiguation)" title="Checkmate (disambiguation)">Checkmate (disambiguation)</ref>.</p>
+<ref class="image" href="/wiki/File:CheckmateProper.jpg"></ref> <ref class="internal" href="/wiki/File:CheckmateProper.jpg" title="Enlarge"></ref><ref target="/wiki/White_and_Black_in_chess" title="White and Black in chess">Black</ref> is checkmated—the game is over.
+<p>Checkmate (often shortened to mate) is a game position in <ref target="/wiki/Chess" title="Chess">chess</ref> and other chess-like games in which a player's <ref target="/wiki/King_(chess)" title="King (chess)">king</ref> is in <ref target="/wiki/Check_(chess)" title="Check (chess)">check</ref> (threatened with <ref target="/wiki/Glossary_of_chess#capture" title="Glossary of chess">capture</ref>) and there is no way to remove the threat. Checkmating the opponent wins the game.</p>
+<p>In chess, the king is never captured—the game ends as soon as the king is checkmated. In formal games, most players <ref target="/wiki/Glossary_of_chess#resign" title="Glossary of chess">resign</ref> an inevitably lost game before being checkmated. It is usually considered bad <ref target="/wiki/Etiquette" title="Etiquette">etiquette</ref> to continue playing in a completely hopeless position.<ref target="#cite_note-1">[1]</ref><ref target="#cite_note-2">[2]</ref></p>
+<p>If a player is not in check but has no legal move, then it is <ref target="/wiki/Stalemate" title="Stalemate">stalemate</ref>, and the game immediately ends in a <ref target="/wiki/Draw_(chess)" title="Draw (chess)">draw</ref>. A checkmating move is recorded in <ref target="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic notation</ref> using the hash symbol "#", for example: 34.Qg7#. </p>
+
+<p>.mw-parser-output .tocleft{float:left;clear:left;width:auto;background:none;padding:.5em .8em 1.4em 0;margin-bottom:.5em}.mw-parser-output .tocleft-clear-left{clear:left}.mw-parser-output .tocleft-clear-both{clear:both}.mw-parser-output .tocleft-clear-none{clear:none}<head>Contents</head></p>
+
+<ref target="#Examples">1 Examples</ref>
+<ref target="#Etymology">2 Etymology</ref>
+<ref target="#History">3 History</ref>
+<ref target="#Two_major_pieces">4 Two major pieces</ref>
+<ref target="#Basic_checkmates">5 Basic checkmates</ref>
+
+<ref target="#King_and_queen">5.1 King and queen</ref>
+<ref target="#King_and_rook">5.2 King and rook</ref>
+<ref target="#King_and_two_bishops">5.3 King and two bishops</ref>
+<ref target="#King,_bishop_and_knight">5.4 King, bishop and knight</ref>
+
+
+<ref target="#Common_checkmates">6 Common checkmates</ref>
+
+<ref target="#Back-rank_mate">6.1 Back-rank mate</ref>
+<ref target="#Scholar's_mate">6.2 Scholar's mate</ref>
+<ref target="#Fool's_mate">6.3 Fool's mate</ref>
+<ref target="#Smothered_mate">6.4 Smothered mate</ref>
+
+
+<ref target="#Rare_checkmates">7 Rare checkmates</ref>
+
+<ref target="#Stamma's_mate">7.1 Stamma's mate</ref>
+<ref target="#Unusual_mates">7.2 Unusual mates</ref>
+<ref target="#Two_and_three_knights">7.3 Two and three knights</ref>
+
+
+<ref target="#See_also">8 See also</ref>
+<ref target="#References">9 References</ref>
+
+
+ 
+
+
+
+<p>This article uses <ref target="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic notation</ref> to describe chess moves.</p>
+
+
+<h2>Examples[<ref target="/w/index.php?title=Checkmate&action=edit&section=1" title="Edit section: Examples">edit</ref>]</h2>
+<p>A checkmate may occur in as few as two moves on one side with all of the <ref target="/wiki/Chess_piece" title="Chess piece">pieces</ref> still on the <ref target="/wiki/Chessboard" title="Chessboard">board</ref> (as in <ref target="/wiki/Fool%27s_mate" title="Fool's mate">Fool's mate</ref>, in the <ref target="/wiki/Chess_opening" title="Chess opening">opening</ref> phase of the game), in a <ref target="/wiki/Chess_middlegame" title="Chess middlegame">middlegame</ref> position (as in the 1956 game called the <ref target="/wiki/The_Game_of_the_Century_(chess)" title="The Game of the Century (chess)">Game of the Century</ref> between <ref target="/wiki/Donald_Byrne" title="Donald Byrne">Donald Byrne</ref> and <ref target="/wiki/Bobby_Fischer" title="Bobby Fischer">Bobby Fischer</ref>),<ref target="#cite_note-3">[3]</ref> or after many moves with as few as three pieces in an <ref target="/wiki/Chess_endgame" title="Chess endgame">endgame</ref> position.</p>
+
+<ref class="mw-redirect" href="/wiki/Fool%27s_Mate" title="Fool's Mate">Fool's Mate</ref>abcdefgh8877665544332211abcdefghWhite has been checkmated.<ref target="#cite_note-4">[4]</ref>
+<p>D. Byrne vs. Fischerabcdefgh8877665544332211abcdefghWhite is checkmated after 41...Rc2#.<ref target="#cite_note-5">[5]</ref></p>
+<p>Checkmate with a rookabcdefgh8877665544332211abcdefghBlack is checkmated.<ref target="#cite_note-6">[6]</ref></p>
+
+<h2>Etymology[<ref target="/w/index.php?title=Checkmate&action=edit&section=2" title="Edit section: Etymology">edit</ref>]</h2>
+
+
+
+<p>Look up <ref class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/checkmate" title="wiktionary:Special:Search/checkmate">checkmate</ref> in Wiktionary, the free dictionary.</p>
+
+<p>The term checkmate is, according to the Barnhart <ref target="/wiki/Etymology" title="Etymology">Etymological</ref> Dictionary, an alteration of the <ref target="/wiki/Persian_language" title="Persian language">Persian</ref> phrase "shāh māt" (شاه مات‎) which means, literally, "the King is helpless".<ref target="#cite_note-7">[7]</ref> Persian "māt" applies to the king but in Sanskrit "māta", also pronounced "māt", applied to his kingdom "traversed, measured across, and meted out" thoroughly by his opponent; "māta" is the past participle of "mā" verbal root.<ref target="#cite_note-8">[8]</ref> Others maintain that it means "the King is dead", as chess reached Europe via the Islamic world, and Arabic māta (مَاتَ‎) means "died" or "is dead".<ref target="#cite_note-9">[9]</ref><ref target="#cite_note-10">[10]</ref> </p>
+<p>Moghadam traced the <ref target="/wiki/Etymology" title="Etymology">etymology</ref> of the word mate. It comes from a Persian verb mandan (ماندن‎), meaning "to remain", which is cognate with the Latin word maneō and the Greek menō (μένω, which means "I remain"). It means "remained" in the sense of "abandoned" and the formal translation is "surprised", in the military sense of "ambushed".<ref target="#cite_note-11">[11]</ref> sheikh (شيخ‎) is the Arabic word for the monarch. Players would announce "Sheikh" when the king was in check. "Māt" (مات‎) is an Arabic adjective for dead "helpless", or "defeated". So the king is in mate when he is ambushed, at a loss, helpless, defeated, or abandoned to his fate.<ref target="#cite_note-12">[12]</ref></p>
+<p>In modern Arabic, the word mate depicts a person who has died open-mouthed, staring, confused and unresponsive. The words "stupefied" or "stunned" bear close correlation. So a possible alternative would be to interpret mate as "unable to respond". A king is mate (sheikh-mat) then means a king is unable to respond, which would correspond to there being no response that a player's king can make to their opponent's final move. This interpretation is much closer to the original intent of the game being not to kill a king but to leave him with no viable response other than surrender, which better matches the <ref target="/wiki/History_of_chess#Iran_.28Persia.29" title="History of chess">origin story detailed in the Shahnameh</ref>.</p>
+<p>In modern parlance, the term checkmate is a <ref target="/wiki/Metaphor" title="Metaphor">metaphor</ref> for an irrefutable and strategic victory.<ref target="#cite_note-13">[13]</ref></p>
+
+<h2>History[<ref target="/w/index.php?title=Checkmate&action=edit&section=3" title="Edit section: History">edit</ref>]</h2>
+<p>In early Sanskrit chess (c. 500–700), the king could be <ref target="/wiki/Glossary_of_chess#captured" title="Glossary of chess">captured</ref> and this ended the game. The <ref class="mw-redirect" href="/wiki/Persian_people" title="Persian people">Persians</ref> (c. 700–800) introduced the idea of warning that the king was under attack (announcing check in modern terminology). This was done to avoid the early and accidental end of a game. Later the Persians added the additional rule that a king could not be moved into check or left in check. As a result, the king could not be captured,<ref target="#cite_note-dav22-14">[14]</ref> and checkmate was the only decisive way of ending a game.<ref target="#cite_note-dav6364-15">[15]</ref></p>
+<p>Before about 1600, the game could also be won by capturing all of the opponent's pieces, leaving just a <ref target="/wiki/Bare_king" title="Bare king">bare king</ref>. This style of play is now called annihilation or robado.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] In <ref class="mw-redirect" href="/wiki/Medieval_times" title="Medieval times">Medieval times</ref>, players began to consider it nobler to win by checkmate, so annihilation became a half-win for a while, until it was abandoned.<ref target="#cite_note-dav6364-15">[15]</ref></p>
+
+<h2>Two major pieces[<ref target="/w/index.php?title=Checkmate&action=edit&section=4" title="Edit section: Two major pieces">edit</ref>]</h2>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_qll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_rll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+<p>Two <ref target="/wiki/Glossary_of_chess#major_pieces" title="Glossary of chess">major pieces</ref> (<ref target="/wiki/Queen_(chess)" title="Queen (chess)">queens</ref> or <ref target="/wiki/Rook_(chess)" title="Rook (chess)">rooks</ref>) can easily <ref target="/wiki/Glossary_of_chess#forced_mate" title="Glossary of chess">force</ref> checkmate on the edge of the board. The process is to put the two pieces on adjacent <ref target="/wiki/Glossary_of_chess#ranks" title="Glossary of chess">ranks</ref> or <ref target="/wiki/Glossary_of_chess#files" title="Glossary of chess">files</ref> and gradually force the king to the side of the board, where one piece keeps the king on the edge of the board while the other delivers checkmate.<ref target="#cite_note-pand1820-16">[16]</ref> In the illustration, white checkmates by forcing the black king to the edge, one row at a time. The same process can also be used to checkmate with two rooks, or with two queens.<ref target="#cite_note-pand1820-16">[16]</ref></p>
+
+<ref class="image" href="/wiki/File:Major-pieces-mate.gif"></ref> <ref class="internal" href="/wiki/File:Major-pieces-mate.gif" title="Enlarge"></ref>Checkmate using a queen and rook. 1.Qg5+ Ke4 2.Rf4+ Ke3 3.Qg3+ Ke2 4.Rf2+ Ke1 5.Qg1#<ref target="#cite_note-17">[17]</ref>
+
+<h2>Basic checkmates[<ref target="/w/index.php?title=Checkmate&action=edit&section=5" title="Edit section: Basic checkmates">edit</ref>]</h2>
+<p>There are four fundamental checkmates when one side has <ref target="/wiki/Bare_king" title="Bare king">only his king</ref> and the other side has only the minimum <ref target="/wiki/Glossary_of_chess#material" title="Glossary of chess">material</ref> needed to force checkmate, i.e. (1) one <ref target="/wiki/Queen_(chess)" title="Queen (chess)">queen</ref>, (2) one <ref target="/wiki/Rook_(chess)" title="Rook (chess)">rook</ref>, (3) two <ref target="/wiki/Bishop_(chess)" title="Bishop (chess)">bishops</ref> on opposite-colored squares, or (4) a bishop and a <ref target="/wiki/Knight_(chess)" title="Knight (chess)">knight</ref>. The king must help in accomplishing all of these checkmates. If the superior side has more material, checkmates are easier.<ref target="#cite_note-18">[18]</ref></p>
+<p>The checkmate with the queen is the most common, and easiest to achieve. It often occurs after a <ref target="/wiki/Pawn_(chess)" title="Pawn (chess)">pawn</ref> has <ref target="/wiki/Promotion_(chess)" title="Promotion (chess)">queened</ref>. A checkmate with the rook is also common, but a checkmate with the two bishops or with a bishop and knight occurs infrequently. The two bishop checkmate is fairly easy to accomplish, but the <ref target="/wiki/Bishop_and_knight_checkmate" title="Bishop and knight checkmate">bishop and knight checkmate</ref> is difficult and requires precision.</p>
+
+<h3>King and queen[<ref target="/w/index.php?title=Checkmate&action=edit&section=6" title="Edit section: King and queen">edit</ref>]</h3>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_qll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+<p>The first two diagrams show representatives of the basic checkmate positions with a <ref target="/wiki/Queen_(chess)" title="Queen (chess)">queen</ref>, which can occur on any edge of the board. Naturally, the exact position can vary from the diagram.</p>
+<p>In the first of the checkmate positions, the queen is directly in front of the opposing king and the white king is protecting its queen. In the second checkmate position, the kings are in <ref target="/wiki/Opposition_(chess)" title="Opposition (chess)">opposition</ref> and the queen mates on the <ref target="/wiki/Glossary_of_chess#rank" title="Glossary of chess">rank</ref> (or <ref target="/wiki/Glossary_of_chess#file" title="Glossary of chess">file</ref>) of the king.</p>
+
+<p>Support mate</p>
+<p>abcdefgh8877665544332211abcdefghThe white king can also be on c5 or c7.<ref target="#cite_note-pand09p22-19">[19]</ref></p>
+
+<p>Right triangle mate</p>
+<p>abcdefgh8877665544332211abcdefghThe white queen can also be on marked squares.<ref target="#cite_note-pand09p23-20">[20]</ref></p>
+
+<p>Cornered mate</p>
+<p>abcdefgh8877665544332211abcdefghThe white queen can also be on marked squares.<ref target="#cite_note-pand09p23-20">[20]</ref></p>
+
+<p>Outer row mate</p>
+<p>abcdefgh8877665544332211abcdefgh<ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 23</p>
+
+
+
+<p>abcdefgh8877665544332211abcdefghWhite checkmates easily.</p>
+
+<p>With the side with the queen to move, checkmate can be forced in at most ten moves from any starting position, with <ref class="mw-redirect" href="/wiki/Optimal_play" title="Optimal play">optimal play</ref> by both sides, but usually fewer moves are required.<ref target="#cite_note-21">[21]</ref><ref target="#cite_note-22">[22]</ref> In positions in which a pawn has just <ref target="/wiki/Promotion_(chess)" title="Promotion (chess)">promoted</ref> to a queen, at most nine moves are required.<ref target="#cite_note-23">[23]</ref></p>
+<p>In the position diagrammed, White checkmates easily by confining the black king to a rectangle and shrinking the rectangle to <ref target="/wiki/Glossary_of_chess#forcing_move" title="Glossary of chess">force</ref> the king to the edge of the board:</p>
+
+ 1. Qf6 Kd5 2. Qe7 Kd4 3. Kc2 Kd5 4. Kc3 Kc6 5. Kc4 Kb6 6. Qd7 Ka6 7. Qb5+ Ka7 8. Kc5 Ka8 9. Kc6 Ka7 10. Qb7<ref target="/wiki/Algebraic_notation_(chess)##" title="Algebraic notation (chess)">#</ref><ref target="#cite_note-24">[24]</ref>
+
+<p>Avoid stalemate</p>
+
+<p>abcdefgh8877665544332211abcdefghStalemate if Black is to move. The white queen blocks off all possible moves for Black, regardless of where the white king is placed on the board.</p>
+<p>abcdefgh8877665544332211abcdefghThis is a stalemate if Black is to move.</p>
+<p>The superior side must be careful to not <ref target="/wiki/Stalemate" title="Stalemate">stalemate</ref> the opposing king, whereas the defender would like to get into such a position. There are two general types of stalemate positions that can occur, which the stronger side must avoid.<ref target="#cite_note-fine03p2-25">[25]</ref></p>
+
+
+<h3>King and rook[<ref target="/w/index.php?title=Checkmate&action=edit&section=7" title="Edit section: King and rook">edit</ref>]</h3>
+
+<p>abcdefgh8877665544332211abcdefghCheckmate with the rook (a right triangle mate)</p>
+
+
+<p>abcdefgh8877665544332211abcdefghA cornered checkmate with the rook<ref target="#cite_note-pand09p36-26">[26]</ref></p>
+
+
+<p>abcdefgh8877665544332211abcdefghWhite checkmates by boxing in the black king. </p>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_rll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+
+<p>The first diagram shows the basic checkmate position with a <ref target="/wiki/Rook_(chess)" title="Rook (chess)">rook</ref>, which can occur on any edge of the board. The black king can be on any square on the edge of the board, the white king is in opposition to it, and the rook can check from any square on the rank or file (assuming that it can not be captured). The second diagram shows a slightly different position where the kings are not in opposition but the defending king must be in a corner.</p>
+<p>With the side with the rook to move, checkmate can be forced in at most sixteen moves from any starting position.<ref target="#cite_note-fine03p2-25">[25]</ref> Again, see <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess/The_Endgame" title="wikibooks:Chess/The Endgame">Wikibooks – Chess/The Endgame</ref> for a demonstration of how the king and rook versus king mate is achieved.</p>
+<p>In the third diagram position, White checkmates by confining the black king to a rectangle and shrinking the rectangle to force the king to the edge of the board:</p>
+
+<p>1. Kd3+ Kd5 2. Re4 Kd6 3. Kc4<ref target="/wiki/Chess_annotation_symbols#!" title="Chess annotation symbols">!</ref> Kc6 4. Re6+ Kc7 5. Kc5 Kd7 6. Kd5 Kc7 7. Rd6 Kb7 8. Rc6 Ka7 9. Kc5 Kb7 10. Kb5 Ka7 11. Rb6 Ka8 12. Kc6 Ka7 13. Kc7 Ka8 14. Ra6# (second checkmate position, rotated).<ref target="#cite_note-27">[27]</ref></p>
+<p>Avoid stalemate</p>
+<p>There are two stalemate positions:<ref target="#cite_note-28">[28]</ref></p>
+
+<p>abcdefgh8877665544332211abcdefghThis is stalemate if Black is to move. The white king can also be on c7 or b6.</p>
+<p>abcdefgh8877665544332211abcdefghThis is stalemate if Black is to move.</p>
+
+<h3>King and two bishops[<ref target="/w/index.php?title=Checkmate&action=edit&section=8" title="Edit section: King and two bishops">edit</ref>]</h3>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_bll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_bld45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+
+<p>Checkmates with two bishops</p>
+
+
+
+
+<p>abcdefgh8877665544332211abcdefgh</p>
+
+
+
+
+<p>abcdefgh8877665544332211abcdefgh</p>
+
+
+
+ 
+
+
+<p>Here are the two basic checkmate positions with two <ref target="/wiki/Bishop_(chess)" title="Bishop (chess)">bishops</ref> (on opposite-colored squares), which can occur in any corner. (Two or more bishops on the same color, which could occur because of pawn <ref class="mw-redirect" href="/wiki/Underpromotion" title="Underpromotion">underpromotion</ref>, cannot checkmate.) The first is a checkmate in the corner. The second position is a checkmate in a side square next to the corner square. With the side with the bishops to move, checkmate can be forced in at most nineteen moves,<ref target="#cite_note-muller01p17-29">[29]</ref> except in some very rare positions (0.03% of the possible positions).<ref target="#cite_note-speel7-30">[30]</ref></p>
+<p>It is not too difficult for two bishops to force checkmate, with the aid of their king. Two principles apply:</p>
+
+<p>The bishops are best when they are near the <ref target="/wiki/Glossary_of_chess#center" title="Glossary of chess">center</ref> of the board and on adjacent diagonals. This cuts off the opposing king.</p>
+<p>The king must be used aggressively, in conjunction with the bishops.</p>
+
+
+
+
+
+
+<p>From Seirawan</p>
+<p>abcdefgh8877665544332211abcdefghTwo bishops and king can force mate. </p>
+
+
+<p>In the position from Seirawan, White wins by first forcing the black king to the side of the board, then to a corner, and then checkmates. It can be any side of the board and any corner. The process is:</p>
+
+<p>1. Ke2 Ke4 (Black tries to keep his king near the center) 2. Be3 Ke5 (forcing the king back, which is done often) 3. Kd3 Kd5 4. Bd4 Ke6 5. Ke4 Kd6 (Black tries a different approach to stay near the center) 6. Bc4 (White has a fine position; the bishops are centralized and the king is active) 6... Kc6 (Black avoids going toward the side) 7. Ke5 Kd7 (Black is trying to avoid the a8-corner) 8. Bd5 (keeping the black king off c6) 8... Kc7 9. Bc5 Kd7 10. Bd6! (an important move that forces the king to the edge of the board) 10... Ke8 (Black is still avoiding the corner) 11. Ke6 (now the black king cannot get off the edge of the board) 11... Kd8 12. Bc6 (forcing the king toward the corner) 12... Kc8 (Black's king is confined to c8 and d8; the white king must cover a7 and b7) 13. Kd5 (13. Ke7<ref target="/wiki/Chess_annotation_symbols#?" title="Chess annotation symbols">?</ref> is <ref target="/wiki/Stalemate" title="Stalemate">stalemate</ref>) 13... Kd8 14. Kc5 Kc8 15. Kb6 Kd8 (now White must allow the king to move into the corner) 16. Bc5 Kc8 17. Be7! (an important move that forces the king toward the corner) 17... Kb8 18. Bd7! (the same principle as the previous move) 18... Ka8 19. Bd8 (White must make a move that gives up a <ref target="/wiki/Tempo_(chess)" title="Tempo (chess)">tempo</ref>; this move is such a move, along with Bc5, Bf8, Be6, or Ka6) 19... Kb8 20. Bc7+ Ka8 21. Bc6# (as the first diagram in this section).<ref target="#cite_note-31">[31]</ref></p>
+<p>Note that this is not the shortest forced checkmate from this position. Müller and Lamprecht give a fifteen-move solution; however, it contains an inaccurate move by Black (according to <ref target="/wiki/Endgame_tablebase" title="Endgame tablebase">endgame tablebases</ref>).<ref target="#cite_note-muller01p17-29">[29]</ref></p>
+<p>Avoid stalemate</p>
+
+<p>From Silman</p>
+<p>abcdefgh8877665544332211abcdefgh1.Kb6 would be stalemate.</p>
+
+<p>One example of a stalemate is this position, where 1. Kb6 (marked with the x) would be stalemate.<ref target="#cite_note-32">[32]</ref></p>
+
+
+<h3>King, bishop and knight[<ref target="/w/index.php?title=Checkmate&action=edit&section=9" title="Edit section: King, bishop and knight">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Bishop_and_knight_checkmate" title="Bishop and knight checkmate">Bishop and knight checkmate</ref></p>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_bll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+<p>Of the basic checkmates, this is the most difficult one to <ref target="/wiki/Glossary_of_chess#forced_mate" title="Glossary of chess">force</ref>, because these two pieces cannot form a linear barrier to the enemy king from a distance. Also, the checkmate can be forced only in a corner that the bishop controls.<ref target="#cite_note-speel7-30">[30]</ref><ref target="#cite_note-33">[33]</ref></p>
+
+
+<p>Checkmates with a bishop and a knight</p>
+
+
+
+
+<p>abcdefgh8877665544332211abcdefgh</p>
+
+
+
+
+<p>abcdefgh8877665544332211abcdefgh</p>
+
+
+<p>Two basic checkmate positions are shown with a <ref target="/wiki/Bishop_(chess)" title="Bishop (chess)">bishop</ref> and a <ref target="/wiki/Knight_(chess)" title="Knight (chess)">knight</ref>, or the <ref target="/wiki/Bishop_and_knight_checkmate" title="Bishop and knight checkmate">bishop and knight checkmate</ref>.<ref target="#cite_note-34">[34]</ref> The first position is a checkmate by the bishop, with the black king in the corner. The bishop can be on other squares along the diagonal, the white king and knight have to be on squares that attack g8 and h7. The second position is a checkmate by the knight, with the black king on a side square next to the corner. The knight can be on other squares that check the black king. The white king must be on a square to protect the bishop and cover a square not covered by the knight.</p>
+<p>With the side with the bishop and knight to move, checkmate can be forced in at most thirty-three moves from any starting position,<ref target="#cite_note-35">[35]</ref> except those in which the defending king is initially <ref target="/wiki/Fork_(chess)" title="Fork (chess)">forking</ref> the bishop and knight and it is not possible to defend both. However, the <ref target="/wiki/Bishop_and_knight_checkmate" title="Bishop and knight checkmate">mating process</ref> requires accurate play, since a few errors could result in a <ref target="/wiki/Draw_(chess)" title="Draw (chess)">draw</ref> either by the <ref target="/wiki/Fifty-move_rule" title="Fifty-move rule">fifty-move rule</ref> or <ref target="/wiki/Stalemate" title="Stalemate">stalemate</ref>.</p>
+
+<p>Opinions differ as to whether or not a player should learn this checkmate procedure. <ref target="/wiki/James_Howell_(chess_player)" title="James Howell (chess player)">James Howell</ref> omits the checkmate with two bishops in his book because it rarely occurs but includes the bishop and knight checkmate. Howell says that he has had it three times (always on the defending side) and that it occurs more often than the checkmate with two bishops.<ref target="#cite_note-36">[36]</ref> On the other hand, <ref target="/wiki/Jeremy_Silman" title="Jeremy Silman">Jeremy Silman</ref> includes the checkmate with two bishops but not the bishop plus knight checkmate because he has had it only once and his friend <ref target="/wiki/John_L._Watson" title="John L. Watson">John Watson</ref> has never had it.<ref target="#cite_note-37">[37]</ref> Silman says: ... mastering it would take a significant chunk of time. Should the chess hopeful really spend many of his precious hours he's put aside for chess study learning an endgame he will achieve (at most) only once or twice in his lifetime?</p>
+
+<p>Avoid stalemate</p>
+
+
+<p>abcdefgh8877665544332211abcdefghAfter 1.Na3+?, 1...Kc1! draws.</p>
+
+<p>This position is an example of a stalemate, from the end of a 1966 <ref target="/wiki/Endgame_study" title="Endgame study">endgame study</ref> by A. H. Branton. White has just moved 1. Na3+? If Black moves 1... Kc1! then White must move his bishop to save it because if the bishop is <ref target="/wiki/Glossary_of_chess#capture" title="Glossary of chess">captured</ref>, the position is a draw because of the <ref target="/wiki/Glossary_of_chess#insufficient_material" title="Glossary of chess">insufficient material</ref> rule. But after any bishop move, the position is a stalemate.<ref target="#cite_note-38">[38]</ref></p>
+
+
+<h2>Common checkmates[<ref target="/w/index.php?title=Checkmate&action=edit&section=10" title="Edit section: Common checkmates">edit</ref>]</h2>
+<h3>Back-rank mate[<ref target="/w/index.php?title=Checkmate&action=edit&section=11" title="Edit section: Back-rank mate">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Back-rank_checkmate" title="Back-rank checkmate">Back-rank checkmate</ref></p>
+<p>From Burgess, p. 16</p>
+<p>abcdefgh8877665544332211abcdefghWhite wins with 1.Rd8#.</p>
+
+
+<p>A <ref target="/wiki/Back-rank_checkmate" title="Back-rank checkmate">back-rank checkmate</ref> is a checkmate delivered by a rook or queen along a back rank (that is, the row on which the pieces [not pawns] stand at the start of the game) in which the mated king is unable to move up the board because the king is blocked by friendly pieces (usually pawns) on the second rank.<ref target="#cite_note-39">[39]</ref> An example of a back-rank checkmate is shown in the diagram. It is also known as the corridor mate.</p>
+
+
+<h3>Scholar's mate[<ref target="/w/index.php?title=Checkmate&action=edit&section=12" title="Edit section: Scholar's mate">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Scholar%27s_mate" title="Scholar's mate">Scholar's mate</ref></p>
+
+
+
+<p>abcdefgh8877665544332211abcdefghScholar's Mate—Black is checkmated.</p>
+
+
+<ref class="image" href="/wiki/File:Scholars_mate_animation.gif"></ref> Animation demonstrating Scholar's Mate
+
+
+<ref class="mw-redirect" href="/wiki/Scholar%27s_Mate" title="Scholar's Mate">Scholar's Mate</ref> (also known as the four-move checkmate) is the checkmate achieved by the moves:
+
+<p>1. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4" title="b:Chess Opening Theory/1. e4">e4</ref> <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5" title="b:Chess Opening Theory/1. e4/1...e5">e5</ref> 2. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Qh5" title="b:Chess Opening Theory/1. e4/1...e5/2. Qh5">Qh5</ref> <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Qh5/2...Nc6" title="b:Chess Opening Theory/1. e4/1...e5/2. Qh5/2...Nc6">Nc6</ref> 3. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Qh5/2...Nc6/3._Bc4" title="b:Chess Opening Theory/1. e4/1...e5/2. Qh5/2...Nc6/3. Bc4">Bc4</ref> <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Qh5/2...Nc6/3._Bc4/3...Nf6" title="b:Chess Opening Theory/1. e4/1...e5/2. Qh5/2...Nc6/3. Bc4/3...Nf6">Nf6?</ref> 4. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._e4/1...e5/2._Qh5/2...Nc6/3._Bc4/Nf6/4._Qxf7" title="b:Chess Opening Theory/1. e4/1...e5/2. Qh5/2...Nc6/3. Bc4/Nf6/4. Qxf7">Qxf7#</ref></p>
+<p>The moves might be played in a different order or in slight variation, but the basic idea is the same: the queen and bishop combine in a simple mating attack on f7 (or f2 if Black is performing the mate).<ref target="#cite_note-40">[40]</ref> There are also other ways to checkmate in four moves.</p>
+
+<h3>Fool's mate[<ref target="/w/index.php?title=Checkmate&action=edit&section=13" title="Edit section: Fool's mate">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Fool%27s_mate" title="Fool's mate">Fool's mate</ref></p>
+
+
+
+<p>abcdefgh8877665544332211abcdefghFool's Mate—White is checkmated.</p>
+
+
+<ref class="image" href="/wiki/File:Fools_mate_animation.gif"></ref> Animation demonstrating Fool's Mate
+
+
+<ref class="mw-redirect" href="/wiki/Fool%27s_Mate" title="Fool's Mate">Fool's Mate</ref>, also known as the "Two-Move Checkmate", is the quickest possible checkmate. A prime example consists of the moves:
+
+<p>1. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._f3" title="b:Chess Opening Theory/1. f3">f3</ref> <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._f3/1...e5" title="b:Chess Opening Theory/1. f3/1...e5">e5</ref> 2. <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._f3/1...e5/2._g4" title="b:Chess Opening Theory/1. f3/1...e5/2. g4">g4</ref> <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess_Opening_Theory/1._f3/1...e5/2._g4/2...Qh4" title="b:Chess Opening Theory/1. f3/1...e5/2. g4/2...Qh4">Qh4#</ref></p>
+<p>resulting in the position shown.<ref target="#cite_note-41">[41]</ref> (The pattern can have slight variations, for example <ref target="/wiki/White_and_Black_in_chess" title="White and Black in chess">White</ref> might play f2–f4 instead of f2–f3 or move the g-<ref target="/wiki/Pawn_(chess)" title="Pawn (chess)">pawn</ref> first, and Black might play ...e7–e6 instead of ...e7–e5.)</p>
+
+<h3>Smothered mate[<ref target="/w/index.php?title=Checkmate&action=edit&section=14" title="Edit section: Smothered mate">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Smothered_mate" title="Smothered mate">Smothered mate</ref></p>
+
+<p>Timman vs. Short, 1990<ref target="#cite_note-42">[42]</ref></p>
+
+
+
+<p>abcdefgh8877665544332211abcdefghSmothered mate after 27.Nf7+ Kg8 28.Nh6+ Kh8 29.Qg8+ Rxg8 30.Nf7#.</p>
+
+
+<p>abcdefgh8877665544332211abcdefghFinal position</p>
+
+<p>A <ref target="/wiki/Smothered_mate" title="Smothered mate">smothered mate</ref> is a checkmate delivered by a <ref target="/wiki/Knight_(chess)" title="Knight (chess)">knight</ref> in which the mated <ref target="/wiki/King_(chess)" title="King (chess)">king</ref> is unable to move because it is surrounded (or smothered) by its own pieces.<ref target="#cite_note-43">[43]</ref></p>
+<p>The mate is usually seen in a corner of the board, since fewer pieces are needed to surround the king there. The most common form of smothered mate is seen in the adjacent diagram. The knight on f7 delivers mate to the king on h8 which is prevented from escaping the <ref target="/wiki/Check_(chess)" title="Check (chess)">check</ref> by the <ref target="/wiki/Rook_(chess)" title="Rook (chess)">rook</ref> on g8 and the pawns on g7 and h7. Similarly, White can be mated with the white king on h1 and the knight on f2. Analogous mates on a1 and a8 are rarer, because <ref target="/wiki/Glossary_of_chess#kingside" title="Glossary of chess">kingside</ref> <ref target="/wiki/Castling" title="Castling">castling</ref> is the more common as it safely places the king closer to the corner than it would had the castling occurred on the <ref target="/wiki/Glossary_of_chess#queenside" title="Glossary of chess">queenside</ref>.</p>
+
+
+<h2>Rare checkmates[<ref target="/w/index.php?title=Checkmate&action=edit&section=15" title="Edit section: Rare checkmates">edit</ref>]</h2>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_pdl45.svg"></ref>
+
+<p>In some rare positions it is possible to force checkmate with a king and knight versus a king and pawn.</p>
+
+<h3>Stamma's mate[<ref target="/w/index.php?title=Checkmate&action=edit&section=16" title="Edit section: Stamma's mate">edit</ref>]</h3>
+<p>Stamma's mateabcdefgh8877665544332211abcdefghWhite wins with either side to move.</p>
+<p>In the diagram showing Stamma's mate (named for <ref target="/wiki/Philipp_Stamma" title="Philipp Stamma">Philipp Stamma</ref>), White to move wins:<ref target="#cite_note-44">[44]</ref></p>
+
+<p>1. Nb4+ Ka1</p>
+<p>2. Kc1 a2</p>
+<p>3. Nc2#</p>
+<p>White also wins if Black is to move first:</p>
+
+<p>1... Ka1</p>
+<p>2. Nc1 a2</p>
+<p>3. Nb3#</p>
+
+<p>Nogueiras vs. Gongora, 2001abcdefgh8877665544332211abcdefghWhite to move wins.</p>
+<p>This checkmate occurred in <ref target="/wiki/Jesus_Nogueiras" title="Jesus Nogueiras">Jesus Nogueiras</ref>–<ref class="new" href="/w/index.php?title=Maikel_Gongora&action=edit&redlink=1" title="Maikel Gongora (page does not exist)">Maikel Gongora</ref>, 2001 <ref target="/wiki/Cuban_Chess_Championship" title="Cuban Chess Championship">Cuban Championship</ref><ref target="#cite_note-45">[45]</ref> (see diagram), which proceeded:</p>
+
+<p>81. Kc2 Ka1</p>
+<p>82. Nc5 Ka2</p>
+<p>If 82...a2 then 83.Nb3#.</p>
+
+<p>83. Nd3</p>
+<p>Reaching the position in the first diagram, with Black to move.</p>
+
+<p>83... Ka1</p>
+<p>84. Nc1 1–0</p>
+<p>Black <ref class="mw-redirect" href="/wiki/Resign_(chess)" title="Resign (chess)">resigned</ref> here; play would have continued 84...a2 85.Nb3#.<ref target="#cite_note-46">[46]</ref></p>
+
+
+<p>abcdefgh8877665544332211abcdefghWhite wins</p>
+<p>A similar position with the knight on d2 is more than 500 years old, identified as "Partito n. 23" by Luca Pacioli, in his MS De ludo scachorum (Latin for "The game of chess"), dated 1498 and recently reprinted (Gli scacchi) by Aboca Museum Edizioni.</p>
+
+<p>1. Nf3 Ka1</p>
+<p>2. Nd4 Ka2</p>
+<p>3. Ne2 Ka1</p>
+<p>4. Nc1 a2</p>
+<p>5. Nb3#</p>
+
+<h3>Unusual mates[<ref target="/w/index.php?title=Checkmate&action=edit&section=17" title="Edit section: Unusual mates">edit</ref>]</h3>
+<p>There are also positions in which a king and a knight can checkmate a king and a bishop, knight, or rook; or a king and a bishop can checkmate a king with a bishop on the other color of squares or with a knight, but the checkmate cannot be forced if there is no other material on the board (see the diagrams for some examples).<ref target="#cite_note-pand09p63-47">[47]</ref> Nevertheless, it keeps these <ref target="/wiki/Glossary_of_chess#material" title="Glossary of chess">material</ref> combinations from being ruled a <ref target="/wiki/Draw_(chess)" title="Draw (chess)">draw</ref> because of "insufficient mating material" or "impossibility of checkmate" under the <ref target="/wiki/FIDE" title="FIDE">FIDE</ref> <ref target="/wiki/Rules_of_chess" title="Rules of chess">rules of chess</ref>. The <ref class="mw-redirect" href="/wiki/U.S._Chess_Federation" title="U.S. Chess Federation">U.S. Chess Federation</ref> rules are different. In a typical position with a <ref target="/wiki/Glossary_of_chess#minor_piece" title="Glossary of chess">minor piece</ref> versus a minor piece, a player would be able to claim a draw if he has a limited amount of time left.<ref target="#cite_note-48">[48]</ref></p>
+
+
+<p>Pandolfini</p>
+<p>abcdefgh8877665544332211abcdefghCheckmate, but cannot be forced</p>
+
+<p>Pandolfiniabcdefgh8877665544332211abcdefghCheckmate, but cannot be forced</p>
+<p>Pandolfiniabcdefgh8877665544332211abcdefghCheckmate, but cannot be forced</p>
+<p>Pandolfiniabcdefgh8877665544332211abcdefghCheckmate, but cannot be forced</p>
+ abcdefgh8877665544332211abcdefghCheckmate, but cannot be forced
+ abcdefgh8877665544332211abcdefghCheckmate, but cannot be forced
+
+<h3>Two and three knights[<ref target="/w/index.php?title=Checkmate&action=edit&section=18" title="Edit section: Two and three knights">edit</ref>]</h3>
+<p>Two knights</p>
+<p>Main article: <ref target="/wiki/Two_knights_endgame" title="Two knights endgame">Two knights endgame</ref></p>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+
+<p>abcdefgh8877665544332211abcdefghCheckmate positions are possible to construct, but they cannot be forced.</p>
+
+
+<p>abcdefgh8877665544332211abcdefghCheckmate cannot be forced. Here, ...Ka8?? allows checkmate (Nbc7#), but ...Kc8! avoids it.</p>
+
+
+<p>abcdefgh8877665544332211abcdefghWhite cannot force checkmate because of stalemate.</p>
+
+
+<p>It is impossible to force checkmate with a king and two knights, although checkmate positions are possible (see the first diagram). In the second diagram, if Black plays 1... Ka8<ref target="/wiki/Chess_annotation_symbols#??" title="Chess annotation symbols">??</ref> White can checkmate with 2. Nbc7#, but Black can play 1... Kc8 and escape the threat. The defender's task is easy – he simply has to avoid moving into a position in which he can be checkmated on the next move, and he always has another move available in such situations.<ref target="#cite_note-49">[49]</ref></p>
+<p>In the third diagram, one knight is guarding c1, leaving the other knight to try to checkmate. After 1. Ndc3+ Ka1, White needs to get the knight on e2 to c2. But if White plays 2. Nd4, Black is <ref target="/wiki/Stalemate" title="Stalemate">stalemated</ref>.<ref target="#cite_note-pand09p59-50">[50]</ref></p>
+<p>Under some circumstances, two knights and a king can force checkmate against a king and pawn (or rarely more pawns). The winning plan, quite difficult to execute in practice, is to blockade the enemy pawn(s) with one of the knights, maneuver the enemy king into a stalemated position, then bring the other knight over to checkmate.<ref target="#cite_note-pand09p59-50">[50]</ref> (See <ref target="/wiki/Two_knights_endgame" title="Two knights endgame">two knights endgame</ref>.)</p>
+
+<p>Three knights</p>
+
+
+<ref class="image" href="/wiki/File:Chess_kll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_nll45.svg"></ref>
+
+<ref class="image" href="/wiki/File:Chess_kdl45.svg"></ref>
+
+<p>Three knights and a king can force checkmate against a lone king within twenty moves (assuming that the lone king cannot quickly win a knight).<ref target="#cite_note-51">[51]</ref> These situations are generally only seen in <ref class="mw-redirect" href="/wiki/Chess_problems" title="Chess problems">chess problems</ref>, since at least one of the knights must be a <ref target="/wiki/Promotion_(chess)" title="Promotion (chess)">promoted piece</ref>, and there is rarely a reason to promote a pawn to a piece other than a queen (see <ref class="mw-redirect" href="/wiki/Underpromotion" title="Underpromotion">underpromotion</ref>).</p>
+
+<h2>See also[<ref target="/w/index.php?title=Checkmate&action=edit&section=19" title="Edit section: See also">edit</ref>]</h2>
+
+
+<ref class="image" href="/wiki/File:Nuvola_apps_package_games_strategy.png"></ref><ref target="/wiki/Portal:Chess" title="Portal:Chess">Chess portal</ref>
+
+<ref target="/wiki/Boden%27s_Mate" title="Boden's Mate">Boden's Mate</ref>
+<ref class="mw-redirect" href="/wiki/Checkmate_patterns" title="Checkmate patterns">Checkmate patterns</ref>
+<ref target="/wiki/Checkmates_in_the_opening" title="Checkmates in the opening">Checkmates in the opening</ref>
+<ref target="/wiki/Chess_problem" title="Chess problem">Chess problem</ref>
+<ref target="/wiki/Chess_theory" title="Chess theory">Chess theory</ref>
+<ref class="mw-redirect" href="/wiki/Hisshi" title="Hisshi">Hisshi</ref> (brinkmate)
+<ref target="/wiki/Ideal_mate" title="Ideal mate">Ideal mate</ref>
+<ref target="/wiki/L%C3%A9gal_Trap" title="Légal Trap">Légal Trap</ref>
+<ref target="/wiki/Model_mate" title="Model mate">Model mate</ref>
+<ref target="/wiki/Pawnless_chess_endgame" title="Pawnless chess endgame">Pawnless chess endgame</ref>
+<ref target="/wiki/Pure_mate" title="Pure mate">Pure mate</ref>
+<ref target="/wiki/Two_knights_endgame" title="Two knights endgame">Two knights endgame</ref>
+
+<h2>References[<ref target="/w/index.php?title=Checkmate&action=edit&section=20" title="Edit section: References">edit</ref>]</h2>
+
+
+<ref target="#cite_ref-1">^</ref> <ref target="#CITEREFBurgess2009">Burgess 2009</ref>, p. 526
+
+<ref target="#cite_ref-2">^</ref> <ref target="#CITEREFHooperWhyld1992">Hooper & Whyld 1992</ref>, p. 336
+
+<ref target="#cite_ref-3">^</ref> <ref class="external text" href="http://www.chessgames.com/perl/chessgame?gid=1008361" rel="nofollow">"D. Byrne vs. Fischer, New York 1956"</ref>. <ref target="/wiki/Chessgames.com" title="Chessgames.com">Chessgames.com</ref>. Retrieved 2012-06-18..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+<ref target="#cite_ref-4">^</ref> <ref target="#CITEREFKurzdorfer2003">Kurzdorfer 2003</ref>, p. 92
+
+<ref target="#cite_ref-5">^</ref> <ref target="#CITEREFBurgessNunnEmms2004">Burgess, Nunn & Emms 2004</ref>, p. 216
+
+<ref target="#cite_ref-6">^</ref> <ref target="#CITEREFKurzdorfer2003">Kurzdorfer 2003</ref>, p. 144
+
+<ref target="#cite_ref-7">^</ref> Harper, Douglas; Dan McCormack. <ref class="external text" href="http://www.etymonline.com/index.php?term=checkmate" rel="nofollow">"Online Etymology Dictionary"</ref>. Retrieved May 29, 2010.
+
+<ref target="#cite_ref-8">^</ref> Monier-Williams Sanskrit Dictionary
+
+<ref target="#cite_ref-9">^</ref> <ref target="#CITEREFHooperWhyld1992">Hooper & Whyld 1992</ref>
+
+<ref target="#cite_ref-10">^</ref> <ref target="#CITEREFDavidson1949">Davidson 1949</ref>, p. 70
+
+<ref target="#cite_ref-11">^</ref> <ref target="#CITEREFDavidson1949">Davidson 1949</ref>, pp. 70–71
+
+<ref target="#cite_ref-12">^</ref> <ref target="#CITEREFMurray2012">Murray 2012</ref>, p. 159
+
+<ref target="#cite_ref-13">^</ref> <ref class="external text" href="http://www.merriam-webster.com/dictionary/checkmate" rel="nofollow">"Checkmate – Definition and More from the Free Merriam-Webster Dictionary"</ref>. Merriam-webster.com. 2010-08-13. Retrieved 2012-06-18.
+
+<ref target="#cite_ref-dav22_14-0">^</ref> <ref target="#CITEREFDavidson1949">Davidson 1949</ref>, p. 22
+
+<p>^ <ref target="#cite_ref-dav6364_15-0">a</ref> <ref target="#cite_ref-dav6364_15-1">b</ref> <ref target="#CITEREFDavidson1949">Davidson 1949</ref>, pp. 63–64</p>
+
+<p>^ <ref target="#cite_ref-pand1820_16-0">a</ref> <ref target="#cite_ref-pand1820_16-1">b</ref> <ref target="#CITEREFPandolfini1988">Pandolfini 1988</ref>, pp. 18–20</p>
+
+<ref target="#cite_ref-17">^</ref> <ref target="#CITEREFSilman2007">Silman 2007</ref>, pp. 7–8
+
+<ref target="#cite_ref-18">^</ref> <ref target="#CITEREFSilman2007">Silman 2007</ref>, p. 33
+
+<ref target="#cite_ref-pand09p22_19-0">^</ref> <ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 22
+
+<p>^ <ref target="#cite_ref-pand09p23_20-0">a</ref> <ref target="#cite_ref-pand09p23_20-1">b</ref> <ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 23</p>
+
+<ref target="#cite_ref-21">^</ref> <ref target="#CITEREFFineBenko2003">Fine & Benko 2003</ref>, pp. 1–2
+
+<ref target="#cite_ref-22">^</ref> <ref target="#CITEREFMüllerLamprecht2001">Müller & Lamprecht 2001</ref>, p. 16
+
+<ref target="#cite_ref-23">^</ref> <ref target="#CITEREFLevyNewborn1991">Levy & Newborn 1991</ref>, p. 144
+
+<ref target="#cite_ref-24">^</ref> <ref target="#CITEREFSeirawan2003">Seirawan 2003</ref>, pp. 4–5
+
+<p>^ <ref target="#cite_ref-fine03p2_25-0">a</ref> <ref target="#cite_ref-fine03p2_25-1">b</ref> <ref target="#CITEREFFineBenko2003">Fine & Benko 2003</ref>, p. 2</p>
+
+<ref target="#cite_ref-pand09p36_26-0">^</ref> <ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 36
+
+<ref target="#cite_ref-27">^</ref> <ref target="#CITEREFSeirawan2003">Seirawan 2003</ref>, pp. 1–4
+
+<ref target="#cite_ref-28">^</ref> <ref target="#CITEREFFineBenko2003">Fine & Benko 2003</ref>, pp. 2–3
+
+<p>^ <ref target="#cite_ref-muller01p17_29-0">a</ref> <ref target="#cite_ref-muller01p17_29-1">b</ref> <ref target="#CITEREFMüllerLamprecht2001">Müller & Lamprecht 2001</ref>, p. 17</p>
+
+<p>^ <ref target="#cite_ref-speel7_30-0">a</ref> <ref target="#cite_ref-speel7_30-1">b</ref> <ref target="#CITEREFSpeelmanTisdallWade1993">Speelman, Tisdall & Wade 1993</ref>, p. 7</p>
+
+<ref target="#cite_ref-31">^</ref> <ref target="#CITEREFSeirawan2003">Seirawan 2003</ref>, pp. 5–7
+
+<ref target="#cite_ref-32">^</ref> <ref target="#CITEREFSilman2007">Silman 2007</ref>, p. 191
+
+<ref target="#cite_ref-33">^</ref> <ref target="#CITEREFMüllerLamprecht2001">Müller & Lamprecht 2001</ref>, p. 18
+
+<ref target="#cite_ref-34">^</ref> <ref target="#CITEREFKurzdorfer2003">Kurzdorfer 2003</ref>, p. 155
+
+<ref target="#cite_ref-35">^</ref> <ref target="#CITEREFMüllerLamprecht2001">Müller & Lamprecht 2001</ref>, p. 19
+
+<ref target="#cite_ref-36">^</ref> <ref target="#CITEREFHowell1997">Howell 1997</ref>, p. 138
+
+<ref target="#cite_ref-37">^</ref> <ref target="#CITEREFSilman2007">Silman 2007</ref>, pp. 33,188
+
+<ref target="#cite_ref-38">^</ref> <ref target="#CITEREFRoycroft1972">Roycroft 1972</ref>, p. 246
+
+<ref target="#cite_ref-39">^</ref> <ref target="#CITEREFBurgess2009">Burgess 2009</ref>, p. 16
+
+<ref target="#cite_ref-40">^</ref> <ref target="#CITEREFHooperWhyld1992">Hooper & Whyld 1992</ref>, pp. 358–59
+
+<ref target="#cite_ref-41">^</ref> <ref target="#CITEREFHooperWhyld1992">Hooper & Whyld 1992</ref>, p. 143
+
+<ref target="#cite_ref-42">^</ref> <ref class="external text" href="http://www.chessgames.com/perl/chessgame?gid=1124489" rel="nofollow">"Timman vs. Short, Tilburg 1990"</ref>. <ref target="/wiki/Chessgames.com" title="Chessgames.com">Chessgames.com</ref>.
+
+<ref target="#cite_ref-43">^</ref> <ref target="#CITEREFHooperWhyld1992">Hooper & Whyld 1992</ref>, p. 376
+
+<ref target="#cite_ref-44">^</ref> <ref target="#CITEREFEmms2004">Emms 2004</ref>, p. 122
+
+<ref target="#cite_ref-45">^</ref> <ref class="external text" href="http://www.chessgames.com/perl/chessgame?gid=1218922" rel="nofollow">"Nogueiras vs. Gongora, Las Tunas 2001"</ref>. <ref target="/wiki/Chessgames.com" title="Chessgames.com">Chessgames.com</ref>. 2005-02-08. Retrieved 2012-06-18.
+
+<ref target="#cite_ref-46">^</ref> <ref target="#CITEREFSnape2003">Snape 2003</ref>, p. 55
+
+<ref target="#cite_ref-pand09p63_47-0">^</ref> <ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 63
+
+<ref target="#cite_ref-48">^</ref> <ref target="#CITEREFJustBurg2003">Just & Burg 2003</ref>, pp. 49, 291
+
+<ref target="#cite_ref-49">^</ref> <ref target="#CITEREFSpeelmanTisdallWade1993">Speelman, Tisdall & Wade 1993</ref>, p. 11
+
+<p>^ <ref target="#cite_ref-pand09p59_50-0">a</ref> <ref target="#cite_ref-pand09p59_50-1">b</ref> <ref target="#CITEREFPandolfini2009">Pandolfini 2009</ref>, p. 59</p>
+
+<ref target="#cite_ref-51">^</ref> <ref target="#CITEREFFine1941">Fine 1941</ref>, pp. 5–6
+
+
+<p>Bibliography</p>
+
+<p>.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</p>
+<ref target="/wiki/Graham_Burgess" title="Graham Burgess">Burgess, Graham</ref>; <ref target="/wiki/John_Nunn" title="John Nunn">Nunn, John</ref>; <ref target="/wiki/John_Emms_(chess_player)" title="John Emms (chess player)">Emms, John</ref> (2004), <ref class="external text" href="https://archive.org/details/mammothbookofwor0000burg" rel="nofollow">The Mammoth Book of the World's Greatest Chess Games</ref> (2nd ed.), Carroll & Graf, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7867-1411-7" title="Special:BookSources/978-0-7867-1411-7">978-0-7867-1411-7</ref>
+<p>Burgess, Graham (2009), The Mammoth Book of Chess (3rd ed.), Running Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7624-3726-9" title="Special:BookSources/978-0-7624-3726-9">978-0-7624-3726-9</ref></p>
+<p>Davidson, Henry (1949), A Short History of Chess, McKay, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-679-14550-8" title="Special:BookSources/0-679-14550-8">0-679-14550-8</ref> (1981 paperback)</p>
+<ref class="mw-redirect" href="/wiki/John_Emms_(chessmaster)" title="John Emms (chessmaster)">Emms, John</ref> (2004), Starting Out: Minor Piece Endgames, <ref target="/wiki/Everyman_Chess" title="Everyman Chess">Everyman Chess</ref>, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/1-85744-359-4" title="Special:BookSources/1-85744-359-4">1-85744-359-4</ref>
+<ref target="/wiki/Reuben_Fine" title="Reuben Fine">Fine, Reuben</ref> (1941), <ref target="/wiki/Basic_Chess_Endings" title="Basic Chess Endings">Basic Chess Endings</ref>, McKay, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-679-14002-6" title="Special:BookSources/0-679-14002-6">0-679-14002-6</ref>
+<p>Fine, Reuben; <ref target="/wiki/Pal_Benko" title="Pal Benko">Benko, Pal</ref> (2003), Basic Chess Endings, McKay, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-8129-3493-8" title="Special:BookSources/0-8129-3493-8">0-8129-3493-8</ref></p>
+<ref target="/wiki/Harry_Golombek" title="Harry Golombek">Golombek, Harry</ref> (1976), Chess: A History, Putnam, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-399-11575-7" title="Special:BookSources/0-399-11575-7">0-399-11575-7</ref>
+<ref target="/wiki/David_Vincent_Hooper" title="David Vincent Hooper">Hooper, David</ref>; <ref class="mw-redirect" href="/wiki/Kenneth_Whyld" title="Kenneth Whyld">Whyld, Kenneth</ref> (1992), <ref target="/wiki/The_Oxford_Companion_to_Chess" title="The Oxford Companion to Chess">The Oxford Companion to Chess</ref> (2nd ed.), Oxford University Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-19-280049-3" title="Special:BookSources/0-19-280049-3">0-19-280049-3</ref>
+<ref target="/wiki/James_Howell_(chess_player)" title="James Howell (chess player)">Howell, James</ref> (1997), Essential Chess Endings: The tournament player's guide, <ref target="/wiki/Batsford" title="Batsford">Batsford</ref>, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-7134-8189-7" title="Special:BookSources/0-7134-8189-7">0-7134-8189-7</ref>
+<p>Just, Tim; Burg, Daniel B. (2003), U.S. Chess Federation's Official Rules of Chess (5th ed.), McKay, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-8129-3559-4" title="Special:BookSources/0-8129-3559-4">0-8129-3559-4</ref></p>
+<p>Kurzdorfer, Peter (2003), The Everything Chess Basics Book, Adams Media, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-58062-586-9" title="Special:BookSources/978-1-58062-586-9">978-1-58062-586-9</ref></p>
+<ref target="/wiki/David_Levy_(chess_player)" title="David Levy (chess player)">Levy, David</ref>; Newborn, Monty (1991), How Computers Play Chess, Computer Science Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-7167-8121-2" title="Special:BookSources/0-7167-8121-2">0-7167-8121-2</ref>
+<ref target="/wiki/Erin_McKean" title="Erin McKean">McKean, Erin</ref> (2005), <ref class="mw-redirect" href="/wiki/The_New_Oxford_American_Dictionary" title="The New Oxford American Dictionary">The New Oxford American Dictionary</ref> (2nd ed.), Oxford University Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-517077-1" title="Special:BookSources/978-0-19-517077-1">978-0-19-517077-1</ref>
+<ref target="/wiki/Karsten_M%C3%BCller" title="Karsten Müller">Müller, Karsten</ref>; <ref target="/wiki/Frank_Lamprecht" title="Frank Lamprecht">Lamprecht, Frank</ref> (2001), Fundamental Chess Endings, <ref target="/wiki/Gambit_Publications" title="Gambit Publications">Gambit Publications</ref>, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/1-901983-53-6" title="Special:BookSources/1-901983-53-6">1-901983-53-6</ref>
+<ref target="/wiki/H._J._R._Murray" title="H. J. R. Murray">Murray, H.J.R.</ref> (2012) [1913], <ref target="/wiki/A_History_of_Chess" title="A History of Chess">A History of Chess</ref>, Skyhorse, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-62087-062-4" title="Special:BookSources/978-1-62087-062-4">978-1-62087-062-4</ref>
+<ref target="/wiki/Bruce_Pandolfini" title="Bruce Pandolfini">Pandolfini, Bruce</ref> (1988), Pandolfini's Endgame Course, Fireside, Simon & Schuster, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-671-65688-1" title="Special:BookSources/978-0-671-65688-1">978-0-671-65688-1</ref>
+<p>Pandolfini, Bruce (2009), Endgame Workshop: Principles for the Practical Player, Russell Enterprises, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-888690-53-8" title="Special:BookSources/978-1-888690-53-8">978-1-888690-53-8</ref></p>
+<ref target="/wiki/John_Roycroft" title="John Roycroft">Roycroft, John</ref> (1972), Test Tube Chess, London: Faber and Faber, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-571-09573-9" title="Special:BookSources/0-571-09573-9">0-571-09573-9</ref>
+<ref target="/wiki/Eric_Schiller" title="Eric Schiller">Schiller, Eric</ref> (1999), <ref class="external text" href="https://archive.org/details/encyclopediaofch00schi" rel="nofollow">Encyclopedia of Chess Wisdom</ref> (1st ed.), <ref class="mw-redirect" href="/wiki/Cardoza_Publishing" title="Cardoza Publishing">Cardoza Publishing</ref>, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-940685-93-0" title="Special:BookSources/0-940685-93-0">0-940685-93-0</ref>
+<ref target="/wiki/Yasser_Seirawan" title="Yasser Seirawan">Seirawan, Yasser</ref> (2003), Winning Chess Endings, Everyman Chess, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/1-85744-348-9" title="Special:BookSources/1-85744-348-9">1-85744-348-9</ref>
+<ref target="/wiki/Jeremy_Silman" title="Jeremy Silman">Silman, Jeremy</ref> (2007), Silman's Complete Endgame Course: From Beginner to Master, Siles Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/1-890085-10-3" title="Special:BookSources/1-890085-10-3">1-890085-10-3</ref>
+<p>Snape, Ian (2003), Chess Endings Made Simple: How to Approach the Endgame with Confidence, Gambit Publications, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/1-901983-97-8" title="Special:BookSources/1-901983-97-8">1-901983-97-8</ref></p>
+<ref target="/wiki/Jon_Speelman" title="Jon Speelman">Speelman, Jon</ref>; <ref target="/wiki/Jonathan_Tisdall" title="Jonathan Tisdall">Tisdall, Jon</ref>; <ref target="/wiki/Robert_Wade_(chess_player)" title="Robert Wade (chess player)">Wade, Bob</ref> (1993), Batsford Chess Endings, B. T. Batsford, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/0-7134-4420-7" title="Special:BookSources/0-7134-4420-7">0-7134-4420-7</ref>
+<ref target="/wiki/Anne_Sunnucks" title="Anne Sunnucks">Sunnucks, Anne</ref> (1970), The Encyclopaedia of Chess, St. Martins Press, <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7091-4697-1" title="Special:BookSources/978-0-7091-4697-1">978-0-7091-4697-1</ref>
+
+
+
+
+<p>Wikibooks has a book on the topic of: <ref class="extiw" href="https://en.wikibooks.org/wiki/Chess/The_Endgame" title="wikibooks:Chess/The Endgame">Chess/The Endgame</ref></p>
+
+<ref target="/wiki/Template:Chess" title="Template:Chess">v</ref><ref target="/wiki/Template_talk:Chess" title="Template talk:Chess">t</ref><ref class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Chess&action=edit">e</ref><ref target="/wiki/Chess" title="Chess">Chess</ref><ref target="/wiki/Outline_of_chess" title="Outline of chess">Outline</ref>
+<ref target="/wiki/Chess_theory" title="Chess theory">Chess theory</ref>
+<ref target="/wiki/Chess_title" title="Chess title">Chess titles</ref>
+<ref target="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmaster</ref>
+<ref target="/wiki/List_of_chess_grandmasters" title="List of chess grandmasters">list of Grandmasters</ref>
+<ref target="/wiki/Computer_chess" title="Computer chess">Computer chess</ref>
+<ref target="/wiki/Glossary_of_computer_chess_terms" title="Glossary of computer chess terms">glossary</ref>
+<ref target="/wiki/Human%E2%80%93computer_chess_matches" title="Human–computer chess matches">matches</ref>
+<ref target="/wiki/Chess_engine" title="Chess engine">engines</ref>
+<ref target="/wiki/List_of_chess_software" title="List of chess software">software</ref>
+<ref target="/wiki/Correspondence_chess" title="Correspondence chess">Correspondence chess</ref>
+<ref target="/wiki/FIDE" title="FIDE">FIDE</ref>
+<ref target="/wiki/Glossary_of_chess" title="Glossary of chess">Glossary</ref>
+<ref target="/wiki/History_of_chess" title="History of chess">History</ref>
+<ref target="/wiki/Timeline_of_chess" title="Timeline of chess">timeline</ref>
+<ref target="/wiki/List_of_chess_games" title="List of chess games">notable games</ref>
+<ref target="/wiki/Chess_rating_system" title="Chess rating system">Rating system</ref>
+<ref target="/wiki/FIDE_world_rankings" title="FIDE world rankings">world rankings</ref>
+<ref target="/wiki/Norm_(chess)" title="Norm (chess)">norms</ref>
+<ref target="/wiki/Chess_variant" title="Chess variant">Variants</ref>
+<ref target="/wiki/List_of_chess_variants" title="List of chess variants">List</ref>
+<ref target="/wiki/List_of_world_records_in_chess" title="List of world records in chess">World records</ref>
+<ref target="/wiki/Chess_equipment" title="Chess equipment">Equipment</ref>
+<ref target="/wiki/Chess_set" title="Chess set">Chess set</ref>
+<ref target="/wiki/Chessboard" title="Chessboard">chessboard</ref>
+<ref target="/wiki/Chess_piece" title="Chess piece">pieces</ref>
+<ref target="/wiki/King_(chess)" title="King (chess)">King</ref>
+<ref target="/wiki/Queen_(chess)" title="Queen (chess)">Queen</ref>
+<ref target="/wiki/Rook_(chess)" title="Rook (chess)">Rook</ref>
+<ref target="/wiki/Bishop_(chess)" title="Bishop (chess)">Bishop</ref>
+<ref target="/wiki/Knight_(chess)" title="Knight (chess)">Knight</ref>
+<ref target="/wiki/Pawn_(chess)" title="Pawn (chess)">Pawn</ref>
+<ref target="/wiki/Chess_box" title="Chess box">Chess box</ref>
+<ref target="/wiki/Chess_clock" title="Chess clock">Chess clock</ref>
+<ref target="/wiki/Chess_table" title="Chess table">Chess table</ref>
+<ref target="/wiki/Glossary_of_chess#score_sheets" title="Glossary of chess">score sheets</ref>
+<ref target="/wiki/Rules_of_chess" title="Rules of chess">Rules</ref>
+<ref target="/wiki/Castling" title="Castling">Castling</ref>
+<ref target="/wiki/Check_(chess)" title="Check (chess)">Check</ref>
+<ref class="mw-selflink selflink">Checkmate</ref>
+<ref target="/wiki/Draw_(chess)" title="Draw (chess)">Draw</ref>
+<ref target="/wiki/Draw_by_agreement" title="Draw by agreement">by agreement</ref>
+<ref target="/wiki/Fifty-move_rule" title="Fifty-move rule">Fifty-move rule</ref>
+<ref target="/wiki/Perpetual_check" title="Perpetual check">Perpetual check</ref>
+<ref target="/wiki/Stalemate" title="Stalemate">Stalemate</ref>
+<ref target="/wiki/Threefold_repetition" title="Threefold repetition">Threefold repetition</ref>
+<ref target="/wiki/En_passant" title="En passant">En passant</ref>
+<ref target="/wiki/Promotion_(chess)" title="Promotion (chess)">Pawn promotion</ref>
+<ref target="/wiki/Time_control" title="Time control">Time control</ref>
+<ref target="/wiki/Fast_chess" title="Fast chess">Fast chess</ref>
+<ref target="/wiki/Touch-move_rule" title="Touch-move rule">Touch-move rule</ref>
+<ref target="/wiki/Glossary_of_chess" title="Glossary of chess">Terms</ref>
+<ref target="/wiki/Blunder_(chess)" title="Blunder (chess)">Blunder</ref>
+<ref target="/wiki/Chess_notation" title="Chess notation">Chess notation</ref>
+<ref target="/wiki/Algebraic_notation_(chess)" title="Algebraic notation (chess)">algebraic</ref>
+<ref target="/wiki/Descriptive_notation" title="Descriptive notation">descriptive</ref>
+<ref target="/wiki/Portable_Game_Notation" title="Portable Game Notation">PGN</ref>
+<ref target="/wiki/Chess_annotation_symbols" title="Chess annotation symbols">annotation symbols</ref>
+<ref target="/wiki/Chess_symbols_in_Unicode" title="Chess symbols in Unicode">symbols in Unicode</ref>
+<ref target="/wiki/Fianchetto" title="Fianchetto">Fianchetto</ref>
+<ref target="/wiki/Gambit" title="Gambit">Gambit</ref>
+<ref target="/wiki/Key_square" title="Key square">Key square</ref>
+<ref target="/wiki/King_walk" title="King walk">King walk</ref>
+<p>Pawns</p>
+<ref target="/wiki/Backward_pawn" title="Backward pawn">backward</ref>
+<ref target="/wiki/Connected_pawns" title="Connected pawns">connected</ref>
+<ref target="/wiki/Doubled_pawns" title="Doubled pawns">doubled</ref>
+<ref target="/wiki/Isolated_pawn" title="Isolated pawn">isolated</ref>
+<ref target="/wiki/Mar%C3%B3czy_Bind" title="Maróczy Bind">Maróczy Bind</ref>
+<ref target="/wiki/Passed_pawn" title="Passed pawn">passed</ref>
+<ref target="/wiki/Open_file" title="Open file">Open file</ref>
+<ref target="/wiki/Half-open_file" title="Half-open file">Half-open file</ref>
+<ref target="/wiki/Outpost_(chess)" title="Outpost (chess)">Outpost</ref>
+<ref target="/wiki/School_of_chess" title="School of chess">School</ref>
+<ref target="/wiki/Romantic_chess" title="Romantic chess">romantic</ref>
+<ref target="/wiki/Hypermodernism_(chess)" title="Hypermodernism (chess)">hypermodern</ref>
+<ref target="/wiki/Swindle_(chess)" title="Swindle (chess)">Swindle</ref>
+<ref target="/wiki/Tempo_(chess)" title="Tempo (chess)">Tempo</ref>
+<ref target="/wiki/Transposition_(chess)" title="Transposition (chess)">Transposition</ref>
+<ref target="/wiki/List_of_chess_traps" title="List of chess traps">Trap</ref>
+<ref target="/wiki/Chess_tactic" title="Chess tactic">Tactics</ref>
+<ref target="/wiki/Battery_(chess)" title="Battery (chess)">Battery</ref>
+<ref target="/wiki/Alekhine%27s_gun" title="Alekhine's gun">Alekhine's gun</ref>
+<ref target="/wiki/Block_(chess)" title="Block (chess)">Block</ref>
+<ref target="/wiki/Checkmate_pattern" title="Checkmate pattern">Checkmate patterns</ref>
+<ref target="/wiki/Combination_(chess)" title="Combination (chess)">Combination</ref>
+<ref target="/wiki/Decoy_(chess)" title="Decoy (chess)">Decoy</ref>
+<ref target="/wiki/Deflection_(chess)" title="Deflection (chess)">Deflection</ref>
+<ref target="/wiki/Desperado_(chess)" title="Desperado (chess)">Desperado</ref>
+<ref target="/wiki/Discovered_attack" title="Discovered attack">Discovered attack</ref>
+<ref target="/wiki/Double_check" title="Double check">Double check</ref>
+<ref target="/wiki/Fork_(chess)" title="Fork (chess)">Fork</ref>
+<ref target="/wiki/Interference_(chess)" title="Interference (chess)">Interference</ref>
+<ref target="/wiki/Overloading_(chess)" title="Overloading (chess)">Overloading</ref>
+<ref target="/wiki/Pin_(chess)" title="Pin (chess)">Pin</ref>
+<ref target="/wiki/Sacrifice_(chess)" title="Sacrifice (chess)">Sacrifice</ref>
+<ref target="/wiki/Skewer_(chess)" title="Skewer (chess)">Skewer</ref>
+<ref target="/wiki/Undermining_(chess)" title="Undermining (chess)">Undermining</ref>
+<ref target="/wiki/Windmill_(chess)" title="Windmill (chess)">Windmill</ref>
+<ref target="/wiki/X-ray_(chess)" title="X-ray (chess)">X-ray</ref>
+<ref target="/wiki/Zwischenzug" title="Zwischenzug">Zwischenzug</ref>
+<ref target="/wiki/Chess_strategy" title="Chess strategy">Strategy</ref>
+<ref target="/wiki/Artificial_castling" title="Artificial castling">Artificial castling</ref>
+<ref target="/wiki/Compensation_(chess)" title="Compensation (chess)">Compensation</ref>
+<ref target="/wiki/Exchange_(chess)" title="Exchange (chess)">Exchange</ref>
+<ref target="/wiki/The_exchange_(chess)" title="The exchange (chess)">the exchange</ref>
+<ref target="/wiki/Initiative_(chess)" title="Initiative (chess)">Initiative</ref>
+<ref target="/wiki/First-move_advantage_in_chess" title="First-move advantage in chess">first-move advantage</ref>
+<ref target="/wiki/Chess_middlegame" title="Chess middlegame">Middlegame</ref>
+<ref target="/wiki/Pawn_storm" title="Pawn storm">Pawn storm</ref>
+<ref target="/wiki/Pawn_structure" title="Pawn structure">Pawn structure</ref>
+<ref target="/wiki/Chess_piece_relative_value" title="Chess piece relative value">Piece values</ref>
+<ref target="/wiki/Prophylaxis_(chess)" title="Prophylaxis (chess)">Prophylaxis</ref>
+<ref target="/wiki/Chess_opening" title="Chess opening">Openings</ref><ref target="/wiki/Flank_opening" title="Flank opening">Flank opening</ref>
+<ref target="/wiki/English_Opening" title="English Opening">English Opening</ref>
+<ref target="/wiki/Zukertort_Opening" title="Zukertort Opening">Zukertort Opening</ref>
+<ref target="/wiki/R%C3%A9ti_Opening" title="Réti Opening">Réti Opening</ref>
+<ref target="/wiki/King%27s_Indian_Attack" title="King's Indian Attack">King's Indian Attack</ref>
+<ref target="/wiki/Larsen%27s_Opening" title="Larsen's Opening">Larsen's Opening</ref>
+<ref target="/wiki/Bird%27s_Opening" title="Bird's Opening">Bird's Opening</ref>
+<ref target="/wiki/Grob%27s_Attack" title="Grob's Attack">Grob's Attack</ref>
+<ref target="/wiki/Dunst_Opening" title="Dunst Opening">Dunst Opening</ref>
+<ref target="/wiki/King%27s_Fianchetto_Opening" title="King's Fianchetto Opening">Benko Opening</ref>
+<ref target="/wiki/King%27s_Pawn_Game" title="King's Pawn Game">King's Pawn Game</ref>
+<ref target="/wiki/Alekhine%27s_Defence" title="Alekhine's Defence">Alekhine's Defence</ref>
+<ref target="/wiki/Caro%E2%80%93Kann_Defence" title="Caro–Kann Defence">Caro–Kann Defence</ref>
+<ref target="/wiki/French_Defence" title="French Defence">French Defence</ref>
+<ref target="/wiki/Modern_Defense" title="Modern Defense">Modern Defence</ref>
+<ref target="/wiki/Nimzowitsch_Defence" title="Nimzowitsch Defence">Nimzowitsch Defence</ref>
+<ref target="/wiki/Open_Game" title="Open Game">Open Game</ref>
+<ref target="/wiki/Italian_Game" title="Italian Game">Italian Game</ref>
+<ref target="/wiki/Semi-Italian_Opening" title="Semi-Italian Opening">Semi-Italian Opening</ref>
+<ref target="/wiki/Giuoco_Piano" title="Giuoco Piano">Giuoco Piano</ref>
+<ref target="/wiki/King%27s_Gambit" title="King's Gambit">King's Gambit</ref>
+<ref target="/wiki/Petrov%27s_Defence" title="Petrov's Defence">Petrov's Defence</ref>
+<ref target="/wiki/Philidor_Defence" title="Philidor Defence">Philidor Defence</ref>
+<ref target="/wiki/Ruy_Lopez" title="Ruy Lopez">Ruy Lopez</ref>
+<ref target="/wiki/Scotch_Game" title="Scotch Game">Scotch Game</ref>
+<ref target="/wiki/Owen%27s_Defence" title="Owen's Defence">Owen's Defence</ref>
+<ref target="/wiki/Pirc_Defence" title="Pirc Defence">Pirc Defence</ref>
+<ref target="/wiki/Scandinavian_Defense" title="Scandinavian Defense">Scandinavian Defense</ref>
+<ref target="/wiki/Tennison_Gambit" title="Tennison Gambit">Tennison Gambit</ref>
+<ref target="/wiki/Sicilian_Defence" title="Sicilian Defence">Sicilian Defence</ref>
+<ref target="/wiki/Sicilian_Defence,_Alapin_Variation" title="Sicilian Defence, Alapin Variation">Alapin</ref>
+<ref target="/wiki/Sicilian_Defence,_Dragon_Variation" title="Sicilian Defence, Dragon Variation">Dragon</ref>/<ref target="/wiki/Sicilian_Defence,_Accelerated_Dragon" title="Sicilian Defence, Accelerated Dragon">Accelerated Dragon</ref>
+<ref target="/wiki/Sicilian_Defence,_Najdorf_Variation" title="Sicilian Defence, Najdorf Variation">Najdorf</ref>
+<ref target="/wiki/Sicilian_Defence,_Scheveningen_Variation" title="Sicilian Defence, Scheveningen Variation">Scheveningen</ref>
+<ref target="/wiki/Queen%27s_Pawn_Game" title="Queen's Pawn Game">Queen's Pawn Game</ref>
+<ref target="/wiki/Dutch_Defence" title="Dutch Defence">Dutch Defence</ref>
+<ref target="/wiki/Indian_Defence" title="Indian Defence">Indian Defence</ref>
+<ref target="/wiki/Benoni_Defense" title="Benoni Defense">Benoni Defence</ref>
+<ref target="/wiki/Modern_Benoni" title="Modern Benoni">Modern Benoni</ref>
+<ref target="/wiki/Bogo-Indian_Defence" title="Bogo-Indian Defence">Bogo-Indian Defence</ref>
+<ref target="/wiki/Gr%C3%BCnfeld_Defence" title="Grünfeld Defence">Grünfeld Defence</ref>
+<ref target="/wiki/King%27s_Indian_Defence" title="King's Indian Defence">King's Indian Defence</ref>
+<ref target="/wiki/Nimzo-Indian_Defence" title="Nimzo-Indian Defence">Nimzo-Indian Defence</ref>
+<ref target="/wiki/Queen%27s_Indian_Defense" title="Queen's Indian Defense">Queen's Indian Defence</ref>
+<ref target="/wiki/Trompowsky_Attack" title="Trompowsky Attack">Trompowsky Attack</ref>
+<ref target="/wiki/London_System" title="London System">London System</ref>
+<ref target="/wiki/Queen%27s_Gambit" title="Queen's Gambit">Queen's Gambit</ref>
+<ref target="/wiki/Queen%27s_Gambit_Accepted" title="Queen's Gambit Accepted">Accepted</ref>
+<ref target="/wiki/Queen%27s_Gambit_Declined" title="Queen's Gambit Declined">Declined</ref>
+<ref target="/wiki/Slav_Defense" title="Slav Defense">Slav Defence</ref>
+<ref target="/wiki/Catalan_Opening" title="Catalan Opening">Catalan Opening</ref>
+<p>Other</p>
+<ref target="/wiki/List_of_chess_openings" title="List of chess openings">List of openings</ref>
+<ref target="/wiki/Chess_opening_theory_table" title="Chess opening theory table">theory table</ref>
+<ref target="/wiki/List_of_chess_gambits" title="List of chess gambits">List of chess gambits</ref>
+<ref target="/wiki/Irregular_chess_opening" title="Irregular chess opening">Irregular</ref>
+<ref target="/wiki/Checkmates_in_the_opening" title="Checkmates in the opening">Quick checkmates</ref>
+<ref target="/wiki/Fool%27s_mate" title="Fool's mate">Fool's mate</ref>
+<ref target="/wiki/Scholar%27s_mate" title="Scholar's mate">Scholar's mate</ref>
+<ref target="/wiki/Chess_endgame" title="Chess endgame">Endgames</ref>
+<ref target="/wiki/Bishop_and_knight_checkmate" title="Bishop and knight checkmate">Bishop and knight checkmate</ref>
+<ref target="/wiki/King_and_pawn_versus_king_endgame" title="King and pawn versus king endgame">King and pawn vs king</ref>
+<ref target="/wiki/Opposite-colored_bishops_endgame" title="Opposite-colored bishops endgame">Opposite-coloured bishops</ref>
+<ref target="/wiki/Pawnless_chess_endgame" title="Pawnless chess endgame">Pawnless endgame</ref>
+<ref target="/wiki/Queen_and_pawn_versus_queen_endgame" title="Queen and pawn versus queen endgame">Queen and pawn vs queen</ref>
+<ref target="/wiki/Queen_versus_pawn_endgame" title="Queen versus pawn endgame">Queen vs pawn</ref>
+<ref target="/wiki/Rook_and_bishop_versus_rook_endgame" title="Rook and bishop versus rook endgame">Rook and bishop vs rook</ref>
+<ref target="/wiki/Rook_and_pawn_versus_rook_endgame" title="Rook and pawn versus rook endgame">Rook and pawn vs rook</ref>
+<ref target="/wiki/Lucena_position" title="Lucena position">Lucena position</ref>
+<ref target="/wiki/Philidor_position" title="Philidor position">Philidor position</ref>
+<p>Strategy</p>
+<ref target="/wiki/Fortress_(chess)" title="Fortress (chess)">fortress</ref>
+<ref target="/wiki/Opposition_(chess)" title="Opposition (chess)">opposition</ref>
+<ref target="/wiki/Tarrasch_rule" title="Tarrasch rule">Tarrasch rule</ref>
+<ref target="/wiki/Triangulation_(chess)" title="Triangulation (chess)">triangulation</ref>
+<ref target="/wiki/Zugzwang" title="Zugzwang">Zugzwang</ref>
+<ref target="/wiki/Endgame_study" title="Endgame study">Study</ref>
+<ref target="/wiki/Endgame_tablebase" title="Endgame tablebase">Tablebase</ref>
+<ref target="/wiki/Two_knights_endgame" title="Two knights endgame">Two knights endgame</ref>
+<ref target="/wiki/Wrong_bishop" title="Wrong bishop">Wrong bishop</ref>
+<ref target="/wiki/Wrong_rook_pawn" title="Wrong rook pawn">Wrong rook pawn</ref>
+<ref target="/wiki/Chess_tournament" title="Chess tournament">Tournaments</ref>
+<ref target="/wiki/List_of_strong_chess_tournaments" title="List of strong chess tournaments">List of strong chess tournaments</ref>
+<ref target="/wiki/Chess_Olympiad" title="Chess Olympiad">Chess Olympiad</ref>
+<ref target="/wiki/Women%27s_Chess_Olympiad" title="Women's Chess Olympiad">Women</ref>
+<ref target="/wiki/World_Chess_Championship" title="World Chess Championship">World Chess Championship</ref>
+<ref target="/wiki/List_of_World_Chess_Championships" title="List of World Chess Championships">List</ref>
+<ref target="/wiki/Candidates_Tournament" title="Candidates Tournament">Candidates Tournament</ref>
+<ref target="/wiki/Chess_World_Cup" title="Chess World Cup">Chess World Cup</ref>
+<ref target="/wiki/FIDE_Grand_Prix" title="FIDE Grand Prix">FIDE Grand Prix</ref>
+<p>Other world championships</p>
+<ref target="/wiki/Women%27s_World_Chess_Championship" title="Women's World Chess Championship">Women</ref>
+<ref target="/wiki/World_Team_Chess_Championship" title="World Team Chess Championship">Team</ref>
+<ref target="/wiki/World_Rapid_Chess_Championship" title="World Rapid Chess Championship">Rapid</ref>
+<ref target="/wiki/World_Blitz_Chess_Championship" title="World Blitz Chess Championship">Blitz</ref>
+<ref target="/wiki/World_Junior_Chess_Championship" title="World Junior Chess Championship">Junior</ref>
+<ref target="/wiki/World_Youth_Chess_Championship" title="World Youth Chess Championship">Youth</ref>
+<ref target="/wiki/World_Senior_Chess_Championship" title="World Senior Chess Championship">Senior</ref>
+<ref target="/wiki/World_Amateur_Chess_Championship" title="World Amateur Chess Championship">Amateur</ref>
+<ref target="/wiki/World_Championship_of_Chess_Composition" title="World Championship of Chess Composition">Chess composition</ref>
+<ref target="/wiki/World_Chess_Solving_Championship" title="World Chess Solving Championship">Solving</ref>
+<ref target="/wiki/World_Computer_Chess_Championship" title="World Computer Chess Championship">Computer chess</ref>
+<ref target="/wiki/World_Computer_Speed_Chess_Championship" title="World Computer Speed Chess Championship">Computer speed chess</ref>
+<ref target="/wiki/Top_Chess_Engine_Championship" title="Top Chess Engine Championship">Chess engine</ref>
+<p>Related</p>
+<ref target="/wiki/Cheating_in_chess" title="Cheating in chess">Cheating in chess</ref>
+<ref target="/wiki/Chess_aesthetics" title="Chess aesthetics">Chess aesthetics</ref>
+<ref target="/wiki/Chess_in_the_arts" title="Chess in the arts">Chess in the arts</ref>
+<ref target="/wiki/Chess_in_early_literature" title="Chess in early literature">in early literature</ref>
+<ref target="/wiki/List_of_chess_books" title="List of chess books">Chess books</ref>
+<ref target="/wiki/Chess_opening_book" title="Chess opening book">opening books</ref>
+<ref target="/wiki/Chess_endgame_literature" title="Chess endgame literature">endgame literature</ref>
+<ref target="/wiki/Chess_boxing" title="Chess boxing">Chess boxing</ref>
+<ref target="/wiki/Chess_club" title="Chess club">Chess club</ref>
+<ref target="/wiki/Chess_composer" title="Chess composer">Chess composer</ref>
+<ref target="/wiki/Chess_in_Europe" title="Chess in Europe">Chess in Europe</ref>
+<ref target="/wiki/G%C3%B6ttingen_manuscript" title="Göttingen manuscript">Göttingen manuscript</ref>
+<ref target="/wiki/Chess_libraries" title="Chess libraries">Chess libraries</ref>
+<ref target="/wiki/Category:Chess_museums" title="Category:Chess museums">Chess museums</ref>
+<ref target="/wiki/Chess_columns_in_newspapers" title="Chess columns in newspapers">Chess newspaper columns</ref>
+<ref target="/wiki/List_of_chess_periodicals" title="List of chess periodicals">Chess periodicals</ref>
+<ref target="/wiki/Chess_problem" title="Chess problem">Chess problem</ref>
+<ref target="/wiki/Glossary_of_chess_problems" title="Glossary of chess problems">glossary</ref>
+<ref target="/wiki/Joke_chess_problem" title="Joke chess problem">joke chess</ref>
+<ref target="/wiki/Chess_prodigy" title="Chess prodigy">Chess prodigy</ref>
+<ref target="/wiki/G%C3%B6kyay_Association_Chess_Museum" title="Gökyay Association Chess Museum">Gökyay Association Chess Museum</ref>
+<ref target="/wiki/Deep_Blue_(chess_computer)" title="Deep Blue (chess computer)">Deep Blue</ref>
+<ref target="/wiki/Dubrovnik_chess_set" title="Dubrovnik chess set">Dubrovnik chess set</ref>
+<ref target="/wiki/Mutilated_chessboard_problem" title="Mutilated chessboard problem">Mutilated chessboard problem</ref>
+<ref target="/wiki/Professional_Rapid_Online_Chess_League" title="Professional Rapid Online Chess League">PRO Chess League</ref>
+<ref target="/wiki/Simultaneous_exhibition" title="Simultaneous exhibition">Simultaneous exhibition</ref>
+<ref target="/wiki/Solving_chess" title="Solving chess">Solving chess</ref>
+<ref target="/wiki/Staunton_chess_set" title="Staunton chess set">Staunton chess set</ref>
+<ref target="/wiki/Comparison_of_top_chess_players_throughout_history" title="Comparison of top chess players throughout history">Top player comparison</ref>
+
+
+
+
+
+<p>Retrieved from "<ref dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Checkmate&oldid=911122677">https://en.wikipedia.org/w/index.php?title=Checkmate&oldid=911122677</ref>"</p>
+<ref target="/wiki/Help:Category" title="Help:Category">Categories</ref>: <ref target="/wiki/Category:Chess_rules" title="Category:Chess rules">Chess rules</ref><ref target="/wiki/Category:Chess_checkmates" title="Category:Chess checkmates">Chess checkmates</ref><ref target="/wiki/Category:Chess_terminology" title="Category:Chess terminology">Chess terminology</ref><ref target="/wiki/Category:Chess_endgames" title="Category:Chess endgames">Chess endgames</ref><ref target="/wiki/Category:Chess_theory" title="Category:Chess theory">Chess theory</ref>Hidden categories: <ref target="/wiki/Category:Articles_containing_Persian-language_text" title="Category:Articles containing Persian-language text">Articles containing Persian-language text</ref><ref target="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</ref><ref target="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</ref><ref target="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</ref><ref target="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</ref><ref target="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</ref>
+
+
+
+
+
+
+
+<head>Navigation menu</head>
+
+
+<p>Personal tools</h3></p>
+
+<p>Not logged in<ref accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</ref><ref accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</ref><ref target="/w/index.php?title=Special:CreateAccount&returnto=Checkmate" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</ref><ref accesskey="o" href="/w/index.php?title=Special:UserLogin&returnto=Checkmate" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</ref> </p>
+
+
+
+<p>Namespaces</h3></p>
+
+<ref accesskey="c" href="/wiki/Checkmate" title="View the content page [c]">Article</ref><ref accesskey="t" href="/wiki/Talk:Checkmate" rel="discussion" title="Discussion about the content page [t]">Talk</ref> 
+
+
+
+
+<p>Variants</p>
+</h3>
+
+
+
+
+
+
+<p>Views</h3></p>
+
+<ref target="/wiki/Checkmate">Read</ref><ref accesskey="e" href="/w/index.php?title=Checkmate&action=edit" title="Edit this page [e]">Edit</ref><ref accesskey="h" href="/w/index.php?title=Checkmate&action=history" title="Past revisions of this page [h]">View history</ref> 
+
+
+
+<p>More</h3></p>
+
+
+
+
+<h3>
+<p>Search</p>
+</h3>
+
+
+ 
+
+
+
+
+
+<ref class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></ref>
+
+<p>Navigation</h3></p>
+
+
+<ref accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</ref><ref target="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</ref><ref target="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</ref><ref target="/wiki/Portal:Current_events" title="Find background information on current events">Current events</ref><ref accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</ref><ref target="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en" title="Support us">Donate to Wikipedia</ref><ref target="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</ref> 
+
+
+
+<p>Interaction</h3></p>
+
+
+<ref target="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</ref><ref target="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</ref><ref target="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</ref><ref accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</ref><ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</ref> 
+
+
+
+<p>Tools</h3></p>
+
+
+<ref accesskey="j" href="/wiki/Special:WhatLinksHere/Checkmate" title="List of all English Wikipedia pages containing links to this page [j]">What links here</ref><ref accesskey="k" href="/wiki/Special:RecentChangesLinked/Checkmate" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</ref><ref accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</ref><ref accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</ref><ref target="/w/index.php?title=Checkmate&oldid=911122677" title="Permanent link to this revision of the page">Permanent link</ref><ref target="/w/index.php?title=Checkmate&action=info" title="More information about this page">Page information</ref><ref accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q20819848" title="Link to connected data repository item [g]">Wikidata item</ref><ref target="/w/index.php?title=Special:CiteThisPage&page=Checkmate&id=911122677" title="Information on how to cite this page">Cite this page</ref> 
+
+
+
+<p>In other projects</h3></p>
+
+
+<ref target="https://commons.wikimedia.org/wiki/Category:Checkmates" hreflang="en">Wikimedia Commons</ref> 
+
+
+
+<p>Print/export</h3></p>
+
+
+<ref target="/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Checkmate">Create a book</ref><ref target="/w/index.php?title=Special:ElectronPdf&page=Checkmate&action=show-download-screen">Download as PDF</ref><ref accesskey="p" href="/w/index.php?title=Checkmate&printable=yes" title="Printable version of this page [p]">Printable version</ref> 
+
+
+
+<p>Languages</h3></p>
+
+
+<ref class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Skaakmat" hreflang="af" lang="af" title="Skaakmat – Afrikaans">Afrikaans</ref><ref class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%B4_%D9%85%D8%A7%D8%AA" hreflang="ar" lang="ar" title="كش مات – Arabic">العربية</ref><ref class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82" hreflang="be" lang="be" title="Мат – Belarusian">Беларуская</ref><ref class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82" hreflang="be-tarask" lang="be-tarask" title="Мат – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</ref><ref class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82" hreflang="bg" lang="bg" title="Мат – Bulgarian">Български</ref><ref class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escac_i_mat" hreflang="ca" lang="ca" title="Escac i mat – Catalan">Català</ref><ref class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mat" hreflang="cs" lang="cs" title="Mat – Czech">Čeština</ref><ref class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Siachmat" hreflang="cy" lang="cy" title="Siachmat – Welsh">Cymraeg</ref><ref class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Skakmat" hreflang="da" lang="da" title="Skakmat – Danish">Dansk</ref><ref class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Schachmatt" hreflang="de" lang="de" title="Schachmatt – German">Deutsch</ref><ref class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Matt_(male)" hreflang="et" lang="et" title="Matt (male) – Estonian">Eesti</ref><ref class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%84" hreflang="el" lang="el" title="Ματ – Greek">Ελληνικά</ref><ref class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Jaque_mate" hreflang="es" lang="es" title="Jaque mate – Spanish">Español</ref><ref class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Xake_mate" hreflang="eu" lang="eu" title="Xake mate – Basque">Euskara</ref><ref class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B4%E2%80%8C%D9%85%D8%A7%D8%AA" hreflang="fa" lang="fa" title="کیش‌مات – Persian">فارسی</ref><ref class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Sk%C3%A1k_og_m%C3%A1t" hreflang="fo" lang="fo" title="Skák og mát – Faroese">Føroyskt</ref><ref class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89chec_et_mat" hreflang="fr" lang="fr" title="Échec et mat – French">Français</ref><ref class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Xaque_mate" hreflang="gl" lang="gl" title="Xaque mate – Galician">Galego</ref><ref class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%99%B8%ED%86%B5%EC%88%98" hreflang="ko" lang="ko" title="외통수 – Korean">한국어</ref><ref class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%BF_(%D5%B7%D5%A1%D5%AD%D5%B4%D5%A1%D5%BF)" hreflang="hy" lang="hy" title="Մատ (շախմատ) – Armenian">Հայերեն</ref><ref class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scacco_matto" hreflang="it" lang="it" title="Scacco matto – Italian">Italiano</ref><ref class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%98" hreflang="he" lang="he" title="מט – Hebrew">עברית</ref><ref class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Mats_(%C5%A1ahs)" hreflang="lv" lang="lv" title="Mats (šahs) – Latvian">Latviešu</ref><ref class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Schachmatt" hreflang="lb" lang="lb" title="Schachmatt – Luxembourgish">Lëtzebuergesch</ref><ref class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Matas_(%C5%A1achmatai)" hreflang="lt" lang="lt" title="Matas (šachmatai) – Lithuanian">Lietuvių</ref><ref class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sakk-matt" hreflang="hu" lang="hu" title="Sakk-matt – Hungarian">Magyar</ref><ref class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82_(%D1%88%D0%B0%D1%85)" hreflang="mk" lang="mk" title="Мат (шах) – Macedonian">Македонски</ref><ref class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D%E0%B4%AE%E0%B5%87%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D" hreflang="ml" lang="ml" title="ചെക്ക്മേറ്റ് – Malayalam">മലയാളം</ref><ref class="interlanguage-link-target" href="https://mwl.wikipedia.org/wiki/Xeque-mate" hreflang="mwl" lang="mwl" title="Xeque-mate – Mirandese">Mirandés</ref><ref class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Schaakmat" hreflang="nl" lang="nl" title="Schaakmat – Dutch">Nederlands</ref><ref class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A9%B0%E3%81%BF" hreflang="ja" lang="ja" title="詰み – Japanese">日本語</ref><ref class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Sjakkmatt" hreflang="no" lang="no" title="Sjakkmatt – Norwegian">Norsk</ref><ref class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Sjakkmatt" hreflang="nn" lang="nn" title="Sjakkmatt – Norwegian Nynorsk">Norsk nynorsk</ref><ref class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Mat_(szachy)" hreflang="pl" lang="pl" title="Mat (szachy) – Polish">Polski</ref><ref class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Xeque-mate" hreflang="pt" lang="pt" title="Xeque-mate – Portuguese">Português</ref><ref class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Mat_(%C8%99ah)" hreflang="ro" lang="ro" title="Mat (șah) – Romanian">Română</ref><ref class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82_(%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%8B)" hreflang="ru" lang="ru" title="Мат (шахматы) – Russian">Русский</ref><ref class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B7%8A%E0%B6%B7%E0%B6%B1%E0%B6%BA" hreflang="si" lang="si" title="ස්තම්භනය – Sinhala">සිංහල</ref><ref class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/%C5%A0achmat" hreflang="sk" lang="sk" title="Šachmat – Slovak">Slovenčina</ref><ref class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Mat" hreflang="sl" lang="sl" title="Mat – Slovenian">Slovenščina</ref><ref class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%A9%D8%B4%D9%88%D9%85%D8%A7%D8%AA" hreflang="ckb" lang="ckb" title="کشومات – Central Kurdish">کوردی</ref><ref class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Shakkimatti" hreflang="fi" lang="fi" title="Shakkimatti – Finnish">Suomi</ref><ref class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Schackmatt" hreflang="sv" lang="sv" title="Schackmatt – Swedish">Svenska</ref><ref class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B1%E0%AF%81%E0%AE%A4%E0%AE%BF_%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%88" hreflang="ta" lang="ta" title="இறுதி முற்றுகை – Tamil">தமிழ்</ref><ref class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mat" hreflang="tr" lang="tr" title="Mat – Turkish">Türkçe</ref><ref class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82_(%D1%88%D0%B0%D1%85%D0%B8)" hreflang="uk" lang="uk" title="Мат (шахи) – Ukrainian">Українська</ref><ref class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B4%DB%81_%D9%85%D8%A7%D8%AA" hreflang="ur" lang="ur" title="شہ مات – Urdu">اردو</ref><ref class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Scaco_mato" hreflang="vec" lang="vec" title="Scaco mato – Venetian">Vèneto</ref><ref class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%87%E6%AD%BB" hreflang="zh" lang="zh" title="將死 – Chinese">中文</ref> 
+<ref class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q20819848#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</ref> 
+
+
+
+
+
+ This page was last edited on 16 August 2019, at 17:17 (UTC).
+<p>Text is available under the <ref target="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</ref><ref target="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></ref>;</p>
+<p>additional terms may apply. By using this site, you agree to the <ref target="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</ref> and <ref target="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</ref>. Wikipedia® is a registered trademark of the <ref target="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</ref>, a non-profit organization.</p>
+
+
+<ref class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</ref>
+<ref target="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</ref>
+<ref target="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</ref>
+<ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</ref>
+<ref target="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</ref>
+<ref target="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</ref>
+<ref class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Checkmate&mobileaction=toggle_view_mobile">Mobile view</ref>
+
+
+
+<ref target="https://wikimediafoundation.org/"></ref> 
+
+<ref target="https://www.mediawiki.org/"></ref> 
+
+
+
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.512","walltime":"1.760","ppvisitednodes":{"value":8029,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":463544,"limit":2097152},"templateargumentsize":{"value":4637,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":74929,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1044.394 1 -total"," 17.98% 187.807 1 Template:Reflist"," 16.05% 167.664 7 Template:Lang"," 12.49% 130.433 24 Template:Citation"," 10.74% 112.140 19 Template:Chess_diagram-fen"," 9.99% 104.288 19 Template:Chess_diagram_small"," 9.31% 97.229 5 Template:Cite_web"," 5.90% 61.656 46 Template:Harvnb"," 4.54% 47.420 1 Template:Citation_needed"," 4.47% 46.721 2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.551","limit":"10.000"},"limitreport-memusage":{"value":19461736,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20191006042443","ttl":2592000,"transientcontent":false}}});});</p>
+<p>{"@context":"https:\/\/schema.org","@type":"Article","name":"Checkmate","url":"https:\/\/en.wikipedia.org\/wiki\/Checkmate","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20819848","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20819848","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-06T00:46:37Z","dateModified":"2019-08-16T17:17:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/CheckmateProper.jpg","headline":"winning game position in chess"}</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1328"});});</p>
+
+
