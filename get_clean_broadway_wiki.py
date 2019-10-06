@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 names = []
 
-with open("broadway_shows-v2.csv") as f:
+with open("broadway-shows-all.csv") as f:
 
     file = csv.reader(f)
     for row in file:
