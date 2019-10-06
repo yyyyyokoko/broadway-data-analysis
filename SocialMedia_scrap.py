@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import csv
 import sys
+import matplotlib.pyplot as plt
 
 # find all the show names
 def find_name_list():
@@ -41,24 +42,6 @@ def UseRequest(BaseURL, name):
         playerwriter.writerow(csvRow)
     csvFile.close()
 
-def clean_data():
-    df = pd.read_csv('scrap_of_social_media.csv' , sep=',', encoding='latin1')
-    df_date = df['Date'].str.split('/',expand=True)
-    df['Month']=df_date[0]
-    df['Day'] = df_date[1]
-    df.loc[0,'Year'] = 2019
-    df.loc[0,'Date'] = str(int(df.loc[0,'Year'])) +'/'+df.loc[0,'Month']+'/'+df.loc[0,'Day']
-    for i in range(1,len(df['Date'])):
-        if df.loc[i,'Show'] ==df.loc[i-1,'Show']:
-            if int(df.loc[i,'Month'])>int(df.loc[i-1,'Month']):
-                df.loc[i,'Year'] = df.loc[i-1,'Year']-1
-            else:
-                df.loc[i, 'Year'] = df.loc[i-1, 'Year']
-        else:
-            df.loc[i, 'Year'] = 2019
-        df.loc[i,'Date'] = str(int(df.loc[i,'Year'])) +'/'+df.loc[i,'Month']+'/'+df.loc[i,'Day']
-    df.to_csv('cleaned_SocialMedia.csv',index = False)
-    return(df)
 
 def main(argv):
     # Find the list of show name, to generate URLs to access content about each show
@@ -77,9 +60,6 @@ def main(argv):
     for name in name_list:
         UseRequest(BaseURL, name)
 
-    # The records are weekly data, but the "year"s of them are not clear enough.
-    # In clean_data() function, year value are added
-    df = clean_data()
 
 if __name__ == "__main__":
     main(sys.argv)
