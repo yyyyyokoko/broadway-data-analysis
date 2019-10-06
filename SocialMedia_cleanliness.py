@@ -6,7 +6,21 @@ import sys
 import matplotlib.pyplot as plt
 
 def main(argv):
-    df = pd.read_csv('scrap_of_social_media.csv', sep=',', encoding='latin1')
+    df_before = pd.read_csv('scrap_of_social_media.csv', sep=',', encoding='latin1')
+    metric_before = score(df_before,status = 'before')
+    # Print the quality score:
+    print('The data quality score before cleaning is: ', metric_before.loc[0, 'Total_score'], '\n')
+    #print('Detailed Score Metrics:')
+    #print(metric_before)
+
+    df_after = pd.read_csv('cleaned_SocialMedia.csv', sep=',', encoding='latin1')
+    metric_after = score(df_after,status = 'after')
+    # Print the quality score:
+    print('The data quality score after cleaning is: ', metric_after.loc[0, 'Total_score'], '\n')
+    #print('Detailed Score Metrics:')
+    #print(metric_after)
+
+def score(df,status):
     # The quality score of social media data contains 3 parts:
     #   missing value, wrong data type, and data redundancy.
     #   "Total score" take all these 3 dimensions into consideration
@@ -31,13 +45,13 @@ def main(argv):
     # 4. erroneous data percentage:
     # In the following column list, we do not expect value with dramatic fluctuation in neighbor weeks of the same show
     col_list = ['FB Likes', 'FB Checkins', 'Twitter Followers', 'Instagram Followers']
-    quality_metric.loc[0, 'erroneous_data'] = round((1 - erroneous_data(df,col_list))*100,2)
+    quality_metric.loc[0, 'erroneous_data'] = round((1 - erroneous_data(df,col_list,status))*100,2)
 
     # Calculate total score, which it the mean of all the dimensions:
     quality_metric.loc[0,'Total_score'] = quality_metric.iloc[0,1:5].mean().round()
 
-    # Print the quality score:
-    print('The data quality score before cleaning is: ',quality_metric.loc[0,'Total_score'],'\n')
+    return(quality_metric)
+
 
 def missing_value(df):
     # count missing value in the dataframe
@@ -72,10 +86,11 @@ def redundancy(df):
     p_of_redundancy = redundancy / total_number
     return (p_of_redundancy)
 
-def erroneous_data(df,col_list):
+def erroneous_data(df,col_list,status):
     erroneous_data = 0
     for col in col_list:
-        df[col] = df[col].str.replace(',','')
+        if status == 'before':
+            df[col] = df[col].str.replace(',','')
         for i in range(1,df[col].shape[0]-1):
             # In the same show, if a value in the column_list is far from the value in the weeks next to it,
             # it would be considered as erroneous data point

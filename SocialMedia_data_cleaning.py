@@ -35,9 +35,11 @@ def year_clean(df):
     return(df)
 
 def remove_redundancy(df):
+    list = []
     for i in range(1,df.shape[0]):
         if df.loc[i,'Show'] ==df.loc[i-1,'Show'] and df.loc[i,'Day']== df.loc[i-1,'Day'] and df.loc[i,'Month']== df.loc[i-1,'Month']:
-            df.drop([i], axis=0)
+            list.append(i)
+    df = df.drop(list, axis=0)
     df = df.reset_index(drop=True)
     return(df)
 
@@ -64,7 +66,7 @@ def main(argv):
     col_list = ['FB Likes', 'FB Checkins', 'Twitter Followers', 'Instagram Followers']
     df4 = correct_erroneous(df3, col_list)
     df5 = remove_redundancy(df4)
-    df5.to_csv('cleaned_SocialMedia.csv')
+    df5.to_csv('cleaned_SocialMedia.csv',index = False)
 
 if __name__ == "__main__":
     main(sys.argv)
