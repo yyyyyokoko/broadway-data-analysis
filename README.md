@@ -63,6 +63,7 @@ Stats data set;
 8. rating_cleanliness_and_cleaning.py 		
 This script quantifies the cleanliness of the attributes and cleans 
 poor-quality attributes in the Broadway Review Ratings data set;
+read input file Musical_ratings-withoutNa.csv
 
 
 9. text_data_scrapping.py 					
