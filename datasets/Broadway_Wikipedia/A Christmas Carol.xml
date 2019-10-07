@@ -1,0 +1,880 @@
+
+
+
+
+<p>A Christmas Carol - Wikipedia</p>
+<p>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"A_Christmas_Carol","wgTitle":"A Christmas Carol","wgCurRevisionId":916283471,"wgRevisionId":916283471,"wgArticleId":73670,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Featured articles","EngvarB from January 2015","Use dmy dates from September 2013","Articles that link to Wikisource","CS1: Julian–Gregorian uncertainty","Pages containing links to subscription-only content","Articles with LibriVox links","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz work identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers",</p>
+<p>"Wikipedia articles with WorldCat-VIAF identifiers","Articles containing video clips","A Christmas Carol","1843 British novels","Christmas novels","British fantasy novels","Ghost novels","British novels adapted into films","Novels set in London","British novellas","Victorian novels","Novels set in the 19th century","English-language novels","Works about atonement","Chapman \u0026 Hall books","Novels by Charles Dickens","1840s fantasy novels","British novels adapted into plays","Novels adapted into television programs","Novels about time travel"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"A_Christmas_Carol",</p>
+<p>"wgRelevantArticleId":73670,"wgRequestId":"XZJvHgpAAD4AAE3CA-kAAACG","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q62879","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",</p>
+<p>"ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",</p>
+<p>"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});</p>
+<p>});});</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ref id="top"></ref>
+
+
+<ref target="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."></ref>
+
+<p>A Christmas Carol</h1></p>
+
+<p>From Wikipedia, the free encyclopedia</p>
+
+
+<ref class="mw-jump-link" href="#mw-head">Jump to navigation</ref>
+<ref class="mw-jump-link" href="#p-search">Jump to search</ref>
+<p>Novella by Charles Dickens</p>
+<p>For other uses, see <ref class="mw-disambig" href="/wiki/A_Christmas_Carol_(disambiguation)" title="A Christmas Carol (disambiguation)">A Christmas Carol (disambiguation)</ref>.</p>
+
+
+<p>A Christmas Carol <ref class="image" href="/wiki/File:Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg" title='Brown book cover bearing the words "A Christmas Carol by Charles Dickens" in gold.'></ref>First edition cover (1843)Author<ref target="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</ref>Original titleA Christmas Carol. In Prose. Being a Ghost Story of Christmas.Illustrator<ref target="/wiki/John_Leech_(caricaturist)" title="John Leech (caricaturist)">John Leech</ref>CountryEnglandPublished19 December 1843Publisher<ref target="/wiki/Chapman_%26_Hall" title="Chapman & Hall">Chapman & Hall</ref>Text<ref class="extiw" href="https://en.wikisource.org/wiki/A_Christmas_Carol_(Dickens,_1843)" title="s:A Christmas Carol (Dickens, 1843)">A Christmas Carol</ref> at <ref target="/wiki/Wikisource" title="Wikisource">Wikisource</ref></p>
+<p>A Christmas Carol. In Prose. Being a Ghost Story of Christmas, commonly known as A Christmas Carol, is a <ref target="/wiki/Novella" title="Novella">novella</ref> by <ref target="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</ref>, first published in London by <ref target="/wiki/Chapman_%26_Hall" title="Chapman & Hall">Chapman & Hall</ref> in 1843 and illustrated by <ref target="/wiki/John_Leech_(caricaturist)" title="John Leech (caricaturist)">John Leech</ref>. A Christmas Carol recounts the story of <ref target="/wiki/Ebenezer_Scrooge" title="Ebenezer Scrooge">Ebenezer Scrooge</ref>, an elderly <ref target="/wiki/Miser" title="Miser">miser</ref> who is visited by the ghost of his former business partner <ref target="/wiki/Jacob_Marley" title="Jacob Marley">Jacob Marley</ref> and the spirits of <ref target="/wiki/Ghost_of_Christmas_Past" title="Ghost of Christmas Past">Christmas Past</ref>, <ref target="/wiki/Ghost_of_Christmas_Present" title="Ghost of Christmas Present">Present</ref> and <ref target="/wiki/Ghost_of_Christmas_Yet_to_Come" title="Ghost of Christmas Yet to Come">Yet to Come</ref>. After their visits, Scrooge is transformed into a kinder, gentler man.</p>
+<p>Dickens wrote A Christmas Carol during a period when the British were exploring and re-evaluating past <ref target="/wiki/Christmas_traditions" title="Christmas traditions">Christmas traditions</ref>, including <ref class="mw-redirect" href="/wiki/Christmas_carols" title="Christmas carols">carols</ref> and newer customs such as <ref target="/wiki/Christmas_tree#18th_and_19th_centuries" title="Christmas tree">Christmas trees</ref>. He was influenced by the experiences of his own youth and by the Christmas stories of other authors including <ref target="/wiki/Washington_Irving" title="Washington Irving">Washington Irving</ref> and <ref class="mw-redirect" href="/wiki/Douglas_Jerrold" title="Douglas Jerrold">Douglas Jerrold</ref>. Dickens had written three Christmas stories prior to the novella, and was inspired following a visit to the Field Lane <ref class="mw-redirect" href="/wiki/Ragged_School" title="Ragged School">Ragged School</ref>, one of several establishments for London's street children. The treatment of the poor and the ability of a selfish man to redeem himself by transforming into a more sympathetic character are the key themes of the story. There is discussion among academics as to whether this was a fully secular story, or if it is a <ref target="/wiki/Christian_literature#Christian_allegory" title="Christian literature">Christian allegory</ref>.</p>
+<p>Published on 19 December, the first edition sold out by <ref target="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</ref>; by the end of 1844 thirteen editions had been released. Most critics reviewed the novella favourably. The story was <ref target="/wiki/Copyright_infringement" title="Copyright infringement">illicitly copied</ref> in January 1844; Dickens took legal action against the publishers, who went bankrupt, further reducing Dickens's small profits from the publication. He went on to write four other Christmas stories in subsequent years. In 1849 he began public readings of the story which proved so successful he undertook 127 further performances until 1870, the year of his death. A Christmas Carol has never been out of print and has been translated into several languages; the story <ref target="/wiki/Adaptations_of_A_Christmas_Carol" title="Adaptations of A Christmas Carol">has been adapted many times</ref> for film, stage, opera and other media.</p>
+<p>A Christmas Carol captured the <ref target="/wiki/Zeitgeist" title="Zeitgeist">zeitgeist</ref> of the <ref target="/wiki/Victorian_era" title="Victorian era">mid-Victorian</ref> revival of the Christmas holiday. Dickens had acknowledged the influence of the modern Western observance of Christmas and later inspired several aspects of Christmas, including family gatherings, seasonal food and drink, dancing, games and a festive generosity of spirit.</p>
+
+<head>Contents</head>
+
+<ref target="#Plot">1 Plot</ref>
+
+<ref target="#Stave_one">1.1 Stave one</ref>
+<ref target="#Stave_two">1.2 Stave two</ref>
+<ref target="#Stave_three">1.3 Stave three</ref>
+<ref target="#Stave_four">1.4 Stave four</ref>
+<ref target="#Stave_five">1.5 Stave five</ref>
+
+
+<ref target="#Background">2 Background</ref>
+
+<ref target="#Literary_influences">2.1 Literary influences</ref>
+<ref target="#Social_influences">2.2 Social influences</ref>
+<ref target="#Writing_history">2.3 Writing history</ref>
+
+
+<ref target="#Characters">3 Characters</ref>
+<ref target="#Themes">4 Themes</ref>
+<ref target="#Publication">5 Publication</ref>
+<ref target="#Reception">6 Reception</ref>
+<ref target="#Aftermath">7 Aftermath</ref>
+<ref target="#Performances_and_adaptations">8 Performances and adaptations</ref>
+<ref target="#Legacy">9 Legacy</ref>
+<ref target="#See_also">10 See also</ref>
+<ref target="#Notes">11 Notes</ref>
+<ref target="#References">12 References</ref>
+<ref target="#Sources">13 Sources</ref>
+
+<ref target="#Books">13.1 Books</ref>
+<ref target="#Online_resources">13.2 Online resources</ref>
+<ref target="#Newspapers,_journals_and_magazines">13.3 Newspapers, journals and magazines</ref>
+
+
+<ref target="#External_links">14 External links</ref>
+
+
+<h2>Plot[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=1" title="Edit section: Plot">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Marley%27s_Ghost_-_A_Christmas_Carol_(1843),_opposite_25_-_BL.jpg"></ref> <ref class="internal" href="/wiki/File:Marley%27s_Ghost_-_A_Christmas_Carol_(1843),_opposite_25_-_BL.jpg" title="Enlarge"></ref>"Marley's Ghost", original illustration by John Leech from the 1843 edition
+<p>The book is divided into five chapters, which Dickens titled "<ref target="/wiki/Staff_(music)" title="Staff (music)">staves</ref>".</p>
+
+<h3>Stave one[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=2" title="Edit section: Stave one">edit</ref>]</h3>
+<p>A Christmas Carol opens on a bleak, cold <ref target="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</ref> in London, seven years after the death of <ref target="/wiki/Ebenezer_Scrooge" title="Ebenezer Scrooge">Ebenezer Scrooge</ref>'s business partner, <ref target="/wiki/Jacob_Marley" title="Jacob Marley">Jacob Marley</ref>. Scrooge, an ageing <ref target="/wiki/Miser" title="Miser">miser</ref>, dislikes Christmas and refuses a dinner invitation from his nephew Fred—the son of Fan, Scrooge's dead sister. He turns away two men who seek a donation from him to provide food and heating for the poor and only grudgingly allows his overworked, underpaid <ref target="/wiki/Clerk" title="Clerk">clerk</ref>, <ref target="/wiki/Bob_Cratchit" title="Bob Cratchit">Bob Cratchit</ref>, Christmas Day off with pay to conform to the social custom.</p>
+<p>That night Scrooge is visited at home by Marley's ghost, who wanders the Earth entwined by heavy chains and money boxes forged during a lifetime of greed and selfishness. Marley tells Scrooge that he has a single chance to avoid the same fate: he will be visited by three spirits and must listen or be cursed to carry much heavier chains of his own.</p>
+
+<h3>Stave two[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=3" title="Edit section: Stave two">edit</ref>]</h3>
+<p>The first spirit, the <ref target="/wiki/Ghost_of_Christmas_Past" title="Ghost of Christmas Past">Ghost of Christmas Past</ref>, takes Scrooge to Christmas scenes of Scrooge's boyhood, reminding him of a time when he was more innocent. The scenes reveal Scrooge's lonely childhood at <ref target="/wiki/Boarding_school" title="Boarding school">boarding school</ref>, his relationship with his beloved sister Fan, and a Christmas party hosted by his first employer, <ref class="mw-redirect" href="/wiki/Mr_Fezziwig" title="Mr Fezziwig">Mr Fezziwig</ref>, who treated him like a son. Scrooge's neglected fiancée Belle is shown ending their relationship, as she realises that he will never love her as much as he loves money. Finally, they visit a now-married Belle with her large, happy family on the Christmas Eve that Marley died. Scrooge, upset by hearing Belle's description of the man that he has become, demands that the ghost remove him from the house.</p>
+
+<h3>Stave three[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=4" title="Edit section: Stave three">edit</ref>]</h3>
+<p>The second spirit, the <ref target="/wiki/Ghost_of_Christmas_Present" title="Ghost of Christmas Present">Ghost of Christmas Present</ref>, takes Scrooge to a joyous market with people buying the makings of <ref target="/wiki/Christmas_dinner" title="Christmas dinner">Christmas dinner</ref> and to celebrations of Christmas in a miner's cottage and in a <ref target="/wiki/Lighthouse" title="Lighthouse">lighthouse</ref>. Scrooge and the ghost also visit Fred's Christmas party. A major part of this stave is taken up with Bob Cratchit's family feast and introduces his youngest son, <ref target="/wiki/Tiny_Tim_(A_Christmas_Carol)" title="Tiny Tim (A Christmas Carol)">Tiny Tim</ref>, a happy boy who is seriously ill. The spirit informs Scrooge that Tiny Tim will die unless the course of events changes. Before disappearing, the spirit shows Scrooge two hideous, emaciated children named Ignorance and Want. He tells Scrooge to beware the former above all and mocks Scrooge's concern for their welfare.</p>
+
+<h3>Stave four[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=5" title="Edit section: Stave four">edit</ref>]</h3>
+<ref class="image" href="/wiki/File:Christmascarol1843_--_184.jpg"></ref> <ref class="internal" href="/wiki/File:Christmascarol1843_--_184.jpg" title="Enlarge"></ref>Scrooge and Bob Cratchit celebrate Christmas in an illustration from stave five of the original edition, 1843.
+<p>The third spirit, the <ref target="/wiki/Ghost_of_Christmas_Yet_to_Come" title="Ghost of Christmas Yet to Come">Ghost of Christmas Yet to Come</ref>, shows Scrooge a Christmas Day in the future. The silent ghost reveals scenes involving the death of a disliked man whose funeral is attended by local businessmen only on condition that lunch is provided. His <ref target="/wiki/Charwoman" title="Charwoman">charwoman</ref>, <ref target="/wiki/Washerwoman" title="Washerwoman">laundress</ref> and the local <ref class="mw-redirect" href="/wiki/Undertaker" title="Undertaker">undertaker</ref> steal his possessions to sell to a <ref target="/wiki/Fence_(criminal)" title="Fence (criminal)">fence</ref>. When he asks the spirit to show a single person who feels emotion over his death, he is only given the pleasure of a poor couple who rejoice that his death gives them more time to put their finances in order. When Scrooge asks to see tenderness connected with any death, the ghost shows him Bob Cratchit and his family mourning the death of Tiny Tim. The ghost then allows Scrooge to see a neglected grave, with a tombstone bearing Scrooge's name. Sobbing, Scrooge pledges to change his ways.</p>
+
+<h3>Stave five[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=6" title="Edit section: Stave five">edit</ref>]</h3>
+<p>Scrooge awakens on Christmas morning a changed man. He makes a large donation to the charity he rejected the day before, anonymously sends a large turkey to the Cratchit home for Christmas dinner and spends the afternoon with Fred's family. The following day he gives Cratchit an increase in pay and begins to become a father figure to Tiny Tim. From then on Scrooge treats everyone with kindness, generosity and compassion, embodying the spirit of Christmas.</p>
+
+<h2>Background[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=7" title="Edit section: Background">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Dickens-at-the-Blacking-Warehouse.jpg"></ref> <ref class="internal" href="/wiki/File:Dickens-at-the-Blacking-Warehouse.jpg" title="Enlarge"></ref>Dickens at the blacking warehouse, as envisioned by <ref target="/wiki/Fred_Barnard" title="Fred Barnard">Fred Barnard</ref>
+<p>The writer <ref target="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</ref> was born to a middle-class family which got into financial difficulties as a result of the spendthrift nature of his father John. In 1824 John was committed to the <ref target="/wiki/Marshalsea" title="Marshalsea">Marshalsea</ref>, a <ref target="/wiki/Debtors%27_prison" title="Debtors' prison">debtors' prison</ref> in <ref target="/wiki/Southwark" title="Southwark">Southwark</ref>, London. Dickens, aged 12, was forced to <ref target="/wiki/Pawnbroker" title="Pawnbroker">pawn</ref> his collection of books, leave school and work at a dirty and rat-infested <ref target="/wiki/Shoe_polish" title="Shoe polish">shoe-blacking</ref> factory. The change in circumstances gave him what his biographer, Michael Slater, describes as a "deep personal and social outrage", which heavily influenced his writing and outlook.<ref target="#cite_note-FOOTNOTEAckroyd199067–68Slater2011-1">[1]</ref></p>
+<p>By the end of 1842 Dickens was a well-established author, having written six major works,<ref target="#cite_note-3">[n 1]</ref> as well as several short stories, novellas and other pieces.<ref target="#cite_note-FOOTNOTEDiedrick198780-2">[2]</ref> On 31 December that year he began publishing his novel <ref target="/wiki/Martin_Chuzzlewit" title="Martin Chuzzlewit">Martin Chuzzlewit</ref> as a monthly serial;<ref target="#cite_note-5">[n 2]</ref> the novel was his favourite work, but sales were disappointing and he faced temporary financial difficulties.<ref target="#cite_note-FOOTNOTEAckroyd1990392-4">[3]</ref></p>
+<p>Celebrating the <ref class="mw-redirect" href="/wiki/Christmas_season" title="Christmas season">Christmas season</ref> had been growing in popularity through the <ref target="/wiki/Victorian_era" title="Victorian era">Victorian era</ref>.<ref target="#cite_note-FOOTNOTECallow200927-6">[4]</ref> The <ref target="/wiki/Christmas_tree" title="Christmas tree">Christmas tree</ref> had been introduced in Britain during the 18th century, and its use was popularised by <ref target="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</ref> and <ref target="/wiki/Albert,_Prince_Consort" title="Albert, Prince Consort">Prince Albert</ref>. Their practice was copied in many homes across the country.<ref target="#cite_note-FOOTNOTELalumia2001Sutherland,_British_Library-7">[5]</ref> In the early 19th century there had been a revival of interest in <ref class="mw-redirect" href="/wiki/Christmas_carols" title="Christmas carols">Christmas carols</ref>, following a decline in popularity over the previous hundred years. The publication of <ref target="/wiki/Davies_Gilbert" title="Davies Gilbert">Davies Gilbert</ref>'s 1823 work Some Ancient Christmas Carols, With the Tunes to Which They Were Formerly Sung in the West of England and <ref target="/wiki/William_Sandys_(antiquarian)" title="William Sandys (antiquarian)">William Sandys's</ref> 1833 collection Christmas Carols, Ancient and Modern led to a growth in the form's popularity in Britain.<ref target="#cite_note-FOOTNOTERowell1993StudwellJones19988,_10Callow2009128-8">[6]</ref></p>
+<p>Dickens had an interest in Christmas, and his first story on the subject was "Christmas Festivities", published in <ref target="/wiki/Bell%27s_Weekly_Messenger" title="Bell's Weekly Messenger">Bell's Weekly Messenger</ref> in 1835; the story was then published as "A Christmas Dinner" in <ref target="/wiki/Sketches_by_Boz" title="Sketches by Boz">Sketches by Boz</ref> (1836).<ref target="#cite_note-FOOTNOTECallow200930-9">[7]</ref> "The Story of the Goblins Who Stole a Sexton", another Christmas story, appeared in the 1836 novel <ref target="/wiki/The_Pickwick_Papers" title="The Pickwick Papers">The Pickwick Papers</ref>. In the episode, a Mr Wardle relates the tale of Gabriel Grub, a lonely and mean-spirited <ref target="/wiki/Sexton_(office)" title="Sexton (office)">sexton</ref>, who undergoes a Christmas conversion after being visited by <ref target="/wiki/Goblin" title="Goblin">goblins</ref> who show him the past and future.<ref target="#cite_note-FOOTNOTEKelly200319–20Slater2003xvi-10">[8]</ref> Slater considers that "the main elements of the Carol are present in the story", but not yet in a firm form.<ref target="#cite_note-FOOTNOTESlater2003xvi-11">[9]</ref> The story is followed by a passage about Christmas in Dickens's editorial <ref target="/wiki/Master_Humphrey%27s_Clock" title="Master Humphrey's Clock">Master Humphrey's Clock</ref>.<ref target="#cite_note-FOOTNOTESlater2003xvi-11">[9]</ref> The professor of English literature Paul Davis writes that although the "Goblins" story appears to be a prototype of A Christmas Carol, all Dickens's earlier writings about Christmas influenced the story.<ref target="#cite_note-FOOTNOTEDavis1990a25-12">[10]</ref></p>
+
+<h3>Literary influences[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=8" title="Edit section: Literary influences">edit</ref>]</h3>
+<ref class="image" href="/wiki/File:Washington_Irving_by_Charles_Turner_after_Gilbert_Stuart_Newton_cropped.jpg"></ref> <ref class="internal" href="/wiki/File:Washington_Irving_by_Charles_Turner_after_Gilbert_Stuart_Newton_cropped.jpg" title="Enlarge"></ref><ref target="/wiki/Washington_Irving" title="Washington Irving">Washington Irving</ref> in 1820
+<p>Dickens was not the first author to celebrate the Christmas season in literature.<ref target="#cite_note-FOOTNOTEKelly200312-13">[11]</ref> Among earlier authors who influenced Dickens was <ref target="/wiki/Washington_Irving" title="Washington Irving">Washington Irving</ref>, whose 1819–20 work <ref target="/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent." title="The Sketch Book of Geoffrey Crayon, Gent.">The Sketch Book of Geoffrey Crayon, Gent.</ref> included four essays on old English <ref target="/wiki/Christmas_traditions" title="Christmas traditions">Christmas traditions</ref> that he experienced while staying at <ref target="/wiki/Aston_Hall" title="Aston Hall">Aston Hall</ref> near Birmingham.<ref target="#cite_note-FOOTNOTEKelly200320-14">[12]</ref> The tales and essays attracted Dickens, and the two authors shared the belief that the staging of a nostalgic English Christmas might help restore the social harmony that they felt had been lost in the modern world.<ref target="#cite_note-FOOTNOTERestad1996137-15">[13]</ref></p>
+<p>Several works may have had an influence on the writing of A Christmas Carol, including two <ref class="mw-redirect" href="/wiki/Douglas_Jerrold" title="Douglas Jerrold">Douglas Jerrold</ref> essays: one from an 1841 issue of <ref target="/wiki/Punch_(magazine)" title="Punch (magazine)">Punch</ref>, "How Mr. Chokepear Keeps a Merry Christmas" and one from 1843, "The Beauties of the Police".<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006viiiLedger2007117-16">[14]</ref> More broadly, Dickens was influenced by fairy tales and nursery stories, which he closely associated with Christmas, because he saw them as stories of conversion and transformation.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxiv-17">[15]</ref></p>
+
+<h3>Social influences[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=9" title="Edit section: Social influences">edit</ref>]</h3>
+<ref class="image" href="/wiki/File:Francis_Alexander_-_Charles_Dickens_1842.jpeg"></ref> <ref class="internal" href="/wiki/File:Francis_Alexander_-_Charles_Dickens_1842.jpeg" title="Enlarge"></ref>Charles Dickens in 1842, the year before the publication of A Christmas Carol
+<p>Dickens was touched by the lot of poor children in the middle decades of the 19th century.<ref target="#cite_note-FOOTNOTESlater2011-18">[16]</ref> In early 1843 he toured the <ref target="/wiki/Mining_in_Cornwall_and_Devon" title="Mining in Cornwall and Devon">Cornish tin mines</ref>, where he was angered by seeing <ref target="/wiki/Child_labour" title="Child labour">children working</ref> in appalling conditions.<ref target="#cite_note-FOOTNOTEChildsTredell200692-19">[17]</ref> The suffering he witnessed there was reinforced by a visit to the Field Lane <ref class="mw-redirect" href="/wiki/Ragged_School" title="Ragged School">Ragged School</ref>, one of several London schools set up for the education of the capital's half-starved, illiterate street children.<ref target="#cite_note-FOOTNOTELee,_British_Library-20">[18]</ref></p>
+<p>In February 1843 the Second Report of the Children's Employment Commission was published. It was a parliamentary report exposing the effects of the <ref target="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</ref> upon <ref target="/wiki/Working_class" title="Working class">working class</ref> children. Horrified by what he read, Dickens planned to publish an inexpensive political pamphlet tentatively titled, An Appeal to the People of England, on behalf of the Poor Man's Child, but changed his mind, deferring the pamphlet's production until the end of the year.<ref target="#cite_note-FOOTNOTECallow200938-21">[19]</ref> In March he wrote to Dr <ref target="/wiki/Thomas_Southwood_Smith" title="Thomas Southwood Smith">Southwood Smith</ref>, one of the four commissioners responsible for the Second Report, about his change in plans: "you will certainly feel that a Sledge hammer has come down with twenty times the force—twenty thousand times the force—I could exert by following out my first idea".<ref target="#cite_note-FOOTNOTELedger2007119-22">[20]</ref></p>
+<p>In a fundraising speech on 5 October 1843 at the <ref target="/wiki/Manchester_Athenaeum" title="Manchester Athenaeum">Manchester Athenaeum</ref>, Dickens urged workers and employers to join together to combat ignorance with educational reform,<ref target="#cite_note-FOOTNOTEKelly200315Sutherland,_British_Library-23">[21]</ref> and realised in the days following that the most effective way to reach the broadest segment of the population with his social concerns about poverty and injustice was to write a deeply felt Christmas narrative rather than polemical pamphlets and essays.<ref target="#cite_note-FOOTNOTEKelly200315Douglas-Fairhurst2006xvi-24">[22]</ref></p>
+
+<h3>Writing history[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=10" title="Edit section: Writing history">edit</ref>]</h3>
+<ref class="image" href="/wiki/File:JohnLeechHimself.jpg"></ref> <ref class="internal" href="/wiki/File:JohnLeechHimself.jpg" title="Enlarge"></ref><ref target="/wiki/John_Leech_(caricaturist)" title="John Leech (caricaturist)">John Leech</ref>, illustrator of the first edition
+<p>By mid-1843 Dickens began to suffer from financial problems. Sales of Martin Chuzzlewit were falling off, and his wife, <ref target="/wiki/Catherine_Dickens" title="Catherine Dickens">Catherine</ref>, was pregnant with their fifth child. Matters worsened when <ref target="/wiki/Chapman_%26_Hall" title="Chapman & Hall">Chapman & Hall</ref>, his publishers, threatened to reduce his monthly income by £50 if sales dropped further.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xviCallow200938-25">[23]</ref> He began A Christmas Carol in October 1843.<ref target="#cite_note-FOOTNOTERowell1993-26">[24]</ref> Michael Slater, Dickens's biographer, describes the book as being "written at white heat"; it was completed in six weeks, the final pages being written in early December.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xixSlater2011-27">[25]</ref> He built much of the work in his head while taking night-time walks of 15 to 20 miles (24 to 32 km) around London.<ref target="#cite_note-FOOTNOTETomalin2011148–149-28">[26]</ref> Dickens's sister-in-law wrote how he "wept, and laughed, and wept again, and excited himself in a most extraordinary manner, in composition".<ref target="#cite_note-FOOTNOTEDavis1990a7-29">[27]</ref> Slater says that A Christmas Carol was</p>
+
+<p>intended to open its readers' hearts towards those struggling to survive on the lower rungs of the economic ladder and to encourage practical benevolence, but also to warn of the terrible danger to society created by the toleration of widespread ignorance and actual want among the poor.<ref target="#cite_note-FOOTNOTESlater2011-18">[16]</ref></p>
+<ref target="/wiki/George_Cruikshank" title="George Cruikshank">George Cruikshank</ref>, the illustrator who had earlier worked with Dickens on Sketches by Boz (1836) and <ref target="/wiki/Oliver_Twist" title="Oliver Twist">Oliver Twist</ref> (1838), introduced him to the caricaturist <ref target="/wiki/John_Leech_(caricaturist)" title="John Leech (caricaturist)">John Leech</ref>. By 24 October Dickens invited Leech to work on A Christmas Carol, and four hand-coloured etchings and four black-and-white wood engravings by the artist accompanied the text.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xixTomalin2011148-30">[28]</ref> Dickens's hand-written manuscript of the story does not include the sentence in the penultimate paragraph "... and to Tiny Tim, who did not die"; this was added later, during the printing process.<ref target="#cite_note-FOOTNOTEDavis1990a133-31">[29]</ref><ref target="#cite_note-32">[n 3]</ref>
+
+<h2>Characters[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=11" title="Edit section: Characters">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:John_Elwes,_1801_print.jpg"></ref> <ref class="internal" href="/wiki/File:John_Elwes,_1801_print.jpg" title="Enlarge"></ref><ref target="/wiki/John_Elwes_(politician)" title="John Elwes (politician)">John Elwes</ref>, also called John the Miser; one of the models for Scrooge
+<p>The central character of A Christmas Carol is Ebenezer Scrooge, a miserly London-based moneylender,<ref target="#cite_note-FOOTNOTEDeVito2014522-33">[30]</ref> described in the story as "a squeezing, wrenching, grasping, scraping, clutching, covetous old sinner!"<ref target="#cite_note-FOOTNOTEDickens18433-34">[31]</ref> Kelly writes that Scrooge may have been influenced by Dickens's conflicting feelings for his father, whom he both loved and demonised. This psychological conflict may be responsible for the two radically different Scrooges in the tale—one a cold, stingy and greedy semi-recluse, the other a benevolent, sociable man.<ref target="#cite_note-FOOTNOTEKelly200314-35">[32]</ref> Robert Douglas-Fairhurst, the professor of English literature, considers that in the opening part of the book covering young Scrooge's lonely and unhappy childhood, and his aspiration for money to avoid poverty "is something of a self-parody of Dickens's fears about himself"; the post-transformation parts of the book are how Dickens optimistically sees himself.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xix-36">[33]</ref></p>
+<p>Scrooge could also be based on two misers: the eccentric <ref target="/wiki/John_Elwes_(politician)" title="John Elwes (politician)">John Elwes</ref>, <ref class="mw-redirect" href="/wiki/Member_of_Parliament" title="Member of Parliament">MP</ref>,<ref target="#cite_note-FOOTNOTEGordon2008DeVito2014424-37">[34]</ref> or <ref target="/wiki/Jemmy_Wood" title="Jemmy Wood">Jemmy Wood</ref>, the owner of the <ref target="/wiki/Gloucester_Old_Bank" title="Gloucester Old Bank">Gloucester Old Bank</ref> and also known as "The Gloucester Miser".<ref target="#cite_note-FOOTNOTEJordan2015Chapter_5Sillence201540-38">[35]</ref> According to the sociologist Frank W. Elwell, Scrooge's views on the poor are a reflection of those of the <ref class="mw-redirect" href="/wiki/Demographer" title="Demographer">demographer</ref> and <ref class="mw-redirect" href="/wiki/Political_economist" title="Political economist">political economist</ref> <ref class="mw-redirect" href="/wiki/Thomas_Malthus" title="Thomas Malthus">Thomas Malthus</ref>,<ref target="#cite_note-FOOTNOTEElwell2001DeVito2014645-39">[36]</ref> while the miser's questions "Are there no prisons? ... And the Union workhouses? ... The treadmill and the Poor Law are in full vigour, then?" are a reflection of a sarcastic question raised by the philosopher <ref target="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Thomas Carlyle</ref>, "Are there not treadmills, gibbets; even hospitals, poor-rates, New Poor-Law?"<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xiii-40">[37]</ref><ref target="#cite_note-42">[n 4]</ref></p>
+<p>There are literary precursors for Scrooge in Dickens's own works. <ref target="/wiki/Peter_Ackroyd" title="Peter Ackroyd">Peter Ackroyd</ref>, Dickens's biographer, sees similarities between the character and the elder Martin Chuzzlewit character, although the miser is "a more fantastic image" than the Chuzzlewit patriarch; Ackroyd observes that Chuzzlewit's transformation to a charitable figure is a parallel to that of the miser.<ref target="#cite_note-FOOTNOTEAckroyd1990409-43">[39]</ref> Douglas-Fairhurst sees that the minor character Gabriel Grub from The Pickwick Papers was also an influence when creating Scrooge.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xviiiAlleyne2007-44">[40]</ref><ref target="#cite_note-46">[n 5]</ref> Scrooge's name came from a tombstone Dickens had seen on a visit to Edinburgh. The grave was for Ebenezer Lennox Scroggie, whose job was given as a meal man—a corn merchant; Dickens misread the inscription as "mean man".<ref target="#cite_note-FOOTNOTEDeVito2014392-47">[42]</ref><ref target="#cite_note-49">[n 6]</ref></p>
+<p>When Dickens was young he lived near a tradesman's premises with the sign "Goodge and Marney", which may have provided the name for Scrooge's former business partner.<ref target="#cite_note-FOOTNOTEDeVito2014548-50">[44]</ref> For the chained Marley, Dickens drew on his memory of a visit to the <ref target="/wiki/Allegheny_Commons_(Pittsburgh)#Western_Penitentiary" title="Allegheny Commons (Pittsburgh)">Western Penitentiary</ref> in <ref target="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</ref>, Pennsylvania, in March 1842, where he saw—and was affected by seeing—fettered prisoners.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xiii-40">[37]</ref> For the character Tiny Tim, Dickens used his nephew Henry, a disabled boy who was five at the time A Christmas Carol was written.<ref target="#cite_note-FOOTNOTEAckroyd1990519–520-51">[45]</ref><ref target="#cite_note-53">[n 7]</ref> The two figures of Want and Ignorance, sheltering in the robes of the Ghost of Christmas Present, were inspired by the children Dickens had seen on his visit to a <ref target="/wiki/Ragged_school" title="Ragged school">ragged school</ref> in the <ref target="/wiki/East_End_of_London" title="East End of London">East End of London</ref>.<ref target="#cite_note-FOOTNOTELee,_British_Library-20">[18]</ref></p>
+
+<h2>Themes[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=12" title="Edit section: Themes">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Christmascarol1843_--_137.jpg"></ref> <ref class="internal" href="/wiki/File:Christmascarol1843_--_137.jpg" title="Enlarge"></ref>Ignorance and Want from the original edition, 1843
+<p>The transformation of Scrooge is central to the story.<ref target="#cite_note-FOOTNOTEKelly200325GarryEl_Shamy2005132-54">[47]</ref> Davis considers Scrooge to be "a <ref target="/wiki/Proteus" title="Proteus">protean</ref> figure always in process of reformation";<ref target="#cite_note-FOOTNOTEDavis1990b111-55">[48]</ref> Kelly writes that the transformation is reflected in the description of Scrooge, who begins as a two-dimensional character, but who then grows into one who "possess[es] an emotional depth [and] a regret for lost opportunities".<ref target="#cite_note-FOOTNOTEKelly200325–26-56">[49]</ref> Some writers, including Grace Moore, the Dickens scholar, consider that there is a Christian theme running through A Christmas Carol, and that the novella should be seen as an <ref target="/wiki/Christian_literature#Christian_allegory" title="Christian literature">allegory</ref> of the Christian concept of <ref target="/wiki/Redemption_(theology)" title="Redemption (theology)">redemption</ref>.<ref target="#cite_note-FOOTNOTEMoore201157-57">[50]</ref><ref target="#cite_note-60">[n 8]</ref> Dickens's biographer, <ref target="/wiki/Claire_Tomalin" title="Claire Tomalin">Claire Tomalin</ref> sees the conversion of Scrooge as carrying the Christian message that "even the worst of sinners may repent and become a good man".<ref target="#cite_note-FOOTNOTETomalin2011149–150-61">[53]</ref> Dickens's attitudes towards organised religion were complex;<ref target="#cite_note-64">[n 9]</ref> he based his beliefs and principles on the <ref target="/wiki/New_Testament" title="New Testament">New Testament</ref>.<ref target="#cite_note-FOOTNOTESable198667-59">[52]</ref> Dickens's statement that Marley "had no bowels" is a reference to the "bowels of compassion" mentioned in the <ref target="/wiki/First_Epistle_of_John" title="First Epistle of John">First Epistle of John</ref>, the reason for his eternal damnation.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006421-65">[56]</ref><ref target="#cite_note-66">[n 10]</ref></p>
+<p>Other writers, including Kelly, consider that Dickens put forward a "secular vision of this sacred holiday".<ref target="#cite_note-FOOTNOTEKelly200312-13">[11]</ref> The Dickens scholar John O. Jordan argues that A Christmas Carol shows what Dickens referred to in a letter to his friend <ref target="/wiki/John_Forster_(biographer)" title="John Forster (biographer)">John Forster</ref> as his "Carol philosophy, cheerful views, sharp anatomisation of humbug, jolly good temper ... and a vein of glowing, hearty, generous, mirthful, beaming reference in everything to Home and Fireside".<ref target="#cite_note-FOOTNOTEJordan2001121-67">[57]</ref> From a secular viewpoint, the cultural historian Penne Restad suggests that Scrooge's redemption underscores "the conservative, individualistic and patriarchal aspects" of Dickens's "Carol philosophy" of <ref target="/wiki/Charity_(virtue)" title="Charity (virtue)">charity</ref> and <ref target="/wiki/Altruism" title="Altruism">altruism</ref>.<ref target="#cite_note-FOOTNOTERestad1996139-68">[58]</ref></p>
+<p>Dickens wrote A Christmas Carol in response to British social attitudes towards poverty, particularly child poverty, and wished to use the novella as a means to put forward his arguments against it.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xviSutherland,_British_Library-69">[59]</ref> The story shows Scrooge as a paradigm for self-interest, and the possible repercussions of ignoring the poor, especially children in poverty—personified by the allegorical figures of Want and Ignorance.<ref target="#cite_note-FOOTNOTEMoore201118-70">[60]</ref> The two figures were created to arouse sympathy with readers—as was Tiny Tim.<ref target="#cite_note-FOOTNOTEJaffe1994262-71">[61]</ref> Douglas-Fairhurst observes that the use of such figures allowed Dickens to present his message of the need for charity, without alienating his largely middle-class readership.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xvi-72">[62]</ref></p>
+
+<h2>Publication[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=13" title="Edit section: Publication">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Charles_Dickens-A_Christmas_Carol-Title_page-First_edition_1843.jpg"></ref> <ref class="internal" href="/wiki/File:Charles_Dickens-A_Christmas_Carol-Title_page-First_edition_1843.jpg" title="Enlarge"></ref>First edition frontispiece and title page (1843)
+<p>As the result of the disagreements with Chapman and Hall over the commercial failures of Martin Chuzzlewit,<ref target="#cite_note-FOOTNOTEKelly200317-73">[63]</ref> Dickens arranged to pay for the publishing himself, in exchange for a percentage of the profits.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xix-36">[33]</ref> Production of A Christmas Carol was not without problems. The first printing contained drab olive <ref class="mw-redirect" href="/wiki/Endpapers" title="Endpapers">endpapers</ref> that Dickens felt were unacceptable, and the publisher Chapman and Hall quickly replaced them with yellow endpapers, but, once replaced, those clashed with the title page, which was then redone.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxxiVarese2009-74">[64]</ref> The final product was bound in red cloth with gilt-edged pages, completed only two days before the publication date of 19 December 1843.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xixVarese2009Sutherland,_British_Library-75">[65]</ref> Following publication, Dickens arranged for the manuscript to be bound in red <ref target="/wiki/Morocco_leather" title="Morocco leather">Morocco leather</ref> and presented as a gift to his solicitor, Thomas Mitton.<ref target="#cite_note-FOOTNOTEProvenance,_The_Morgan_Library_&_Museum-76">[66]</ref><ref target="#cite_note-79">[n 11]</ref></p>
+<p>Priced at five shillings (equal to £24 in 2019 pounds),<ref target="#cite_note-FOOTNOTEUK_CPI_inflation-77">[67]</ref> the first run of 6,000 copies sold out by Christmas Eve. Chapman and Hall issued second and third editions before the new year, and the book continued to sell well into 1844.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xix–xxStandiford2008132-80">[69]</ref> By the end of 1844 eleven more editions had been released.<ref target="#cite_note-FOOTNOTEJackson19996-81">[70]</ref> Since its initial publication the book has been issued in numerous hardback and paperback editions, translated into several languages and has never been out of print.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006viiiA_Christmas_Carol,_WorldCat-82">[71]</ref> It was Dickens's most popular book in the United States, and sold over two million copies in the hundred years following its first publication there.<ref target="#cite_note-FOOTNOTETomalin2011150-58">[51]</ref></p>
+<p>The high production costs upon which Dickens insisted led to reduced profits, and the first edition brought him only £230 (equal to £22,000 in 2019 pounds)<ref target="#cite_note-FOOTNOTEUK_CPI_inflation-77">[67]</ref> rather than the £1,000 (equal to £96,000 in 2019 pounds)<ref target="#cite_note-FOOTNOTEUK_CPI_inflation-77">[67]</ref> he expected.<ref target="#cite_note-FOOTNOTEKelly200317Douglas-Fairhurst2006xx,_xvii-83">[72]</ref> A year later, the profits were only £744, and Dickens was deeply disappointed.<ref target="#cite_note-FOOTNOTEKelly200317-73">[63]</ref><ref target="#cite_note-84">[n 12]</ref></p>
+
+<h2>Reception[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=14" title="Edit section: Reception">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Die_Gartenlaube_(1864)_b_181.jpg"></ref> <ref class="internal" href="/wiki/File:Die_Gartenlaube_(1864)_b_181.jpg" title="Enlarge"></ref>Thackeray in 1864. He wrote that A Christmas Carol was "a national benefit and to every man or woman who reads it, a personal kindness".<ref target="#cite_note-FOOTNOTEThackeray1844169-85">[73]</ref>
+<p>According to Douglas-Fairhurst, contemporary reviews of A Christmas Carol "were almost uniformly kind".<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xx-86">[74]</ref> <ref target="/wiki/The_Illustrated_London_News" title="The Illustrated London News">The Illustrated London News</ref> described how the story's "impressive eloquence ... its unfeigned lightness of heart—its playful and sparkling humour ... its gentle spirit of humanity" all put the reader "in good humour with ourselves, with each other, with the season and with the author".<ref target="#cite_note-FOOTNOTELiterature,_The_Illustrated_London_News-87">[75]</ref> The critic from <ref target="/wiki/The_Athenaeum_(British_magazine)" title="The Athenaeum (British magazine)">The Athenaeum</ref>, the literary magazine, considered it a "tale to make the reader laugh and cry – to open his hands, and open his heart to charity even toward the uncharitable ... a dainty dish to set before a King."<ref target="#cite_note-FOOTNOTEChorley18431127-88">[76]</ref> <ref target="/wiki/William_Makepeace_Thackeray" title="William Makepeace Thackeray">William Makepeace Thackeray</ref>, writing in <ref target="/wiki/Fraser%27s_Magazine" title="Fraser's Magazine">Fraser's Magazine</ref>, described the book as "a national benefit and to every man or woman who reads it, a personal kindness. The last two people I heard speak of it were women; neither knew the other, or the author, and both said, by way of criticism, 'God bless him!'"<ref target="#cite_note-FOOTNOTEThackeray1844169-85">[73]</ref></p>
+<p>The poet <ref target="/wiki/Thomas_Hood" title="Thomas Hood">Thomas Hood</ref>, in <ref target="/wiki/Hood%27s_Magazine_and_Comic_Miscellany" title="Hood's Magazine and Comic Miscellany">his own journal</ref>, wrote that "If Christmas, with its ancient and hospitable customs, its social and charitable observances, were ever in danger of decay, this is the book that would give them a new lease."<ref target="#cite_note-FOOTNOTEHood184468-89">[77]</ref> The reviewer for <ref target="/wiki/Tait%27s_Edinburgh_Magazine" title="Tait's Edinburgh Magazine">Tait's Edinburgh Magazine</ref>—<ref target="/wiki/Theodore_Martin" title="Theodore Martin">Theodore Martin</ref>, who was usually critical of Dickens's work<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xx-86">[74]</ref>—spoke well of A Christmas Carol, noting it was "a noble book, finely felt and calculated to work much social good".<ref target="#cite_note-FOOTNOTEMartin1844129-90">[78]</ref> After Dickens's death, <ref target="/wiki/Margaret_Oliphant" title="Margaret Oliphant">Margaret Oliphant</ref> deplored the turkey and plum pudding aspects of the book but admitted that in the days of its first publication it was regarded as "a new gospel" and noted that the book was unique in that it made people behave better.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xx-86">[74]</ref> The religious press generally ignored the tale but, in January 1884, <ref target="/wiki/Christian_Remembrancer" title="Christian Remembrancer">Christian Remembrancer</ref> thought the tale's old and hackneyed subject was treated in an original way and praised the author's sense of humour and pathos.<ref target="#cite_note-FOOTNOTEWelch2015169Notice_of_Books,_The_Christian_Remembrancer119-91">[79]</ref> The writer and social thinker <ref target="/wiki/John_Ruskin" title="John Ruskin">John Ruskin</ref> told a friend that he thought Dickens had taken the religion from Christmas, and had imagined it as "mistletoe and pudding – neither resurrection from the dead, nor rising of new stars, nor teaching of wise men, nor shepherds".<ref target="#cite_note-FOOTNOTEDavis1990a59-92">[80]</ref></p>
+<p>There were critics of the book. <ref target="/wiki/The_New_Monthly_Magazine" title="The New Monthly Magazine">The New Monthly Magazine</ref> praised the story, but thought the book's physical excesses—the gilt edges and expensive binding—kept the price high, making it unavailable to the poor. The review recommended that the tale should be printed on cheap paper and priced accordingly.<ref target="#cite_note-FOOTNOTEChristmas_Carol,_New_Monthly_Magazine-93">[81]</ref> An unnamed writer for <ref target="/wiki/The_Westminster_Review" title="The Westminster Review">The Westminster Review</ref> mocked Dickens's grasp of economics, asking "Who went without turkey and punch in order that Bob Cratchit might get them—for, unless there were turkeys and punch in surplus, someone must go without".<ref target="#cite_note-FOOTNOTESenior1844186-94">[82]</ref></p>
+<p>Following criticism of the US in <ref target="/wiki/American_Notes" title="American Notes">American Notes</ref> and Martin Chuzzlewit, American readers were less enthusiastic at first, but by the end of the <ref target="/wiki/American_Civil_War" title="American Civil War">American Civil War</ref>, copies of the book were in wide circulation.<ref target="#cite_note-FOOTNOTERestad1996136-95">[83]</ref> In 1863 <ref target="/wiki/The_New_York_Times" title="The New York Times">The New York Times</ref> published an enthusiastic review, noting that the author brought the "old Christmas ... of bygone centuries and remote manor houses, into the living rooms of the poor of today".<ref target="#cite_note-FOOTNOTECharles_Dickens,_New_York_Times-96">[84]</ref></p>
+
+<h2>Aftermath[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=15" title="Edit section: Aftermath">edit</ref>]</h2>
+<ref class="image" href="/wiki/File:Scrooges_third_visitor-John_Leech,1843.jpg"></ref> <ref class="internal" href="/wiki/File:Scrooges_third_visitor-John_Leech,1843.jpg" title="Enlarge"></ref>"The Ghost of Christmas Present" from the original edition, 1843
+<p>In January 1844 Parley's Illuminated Library published an unauthorised version of the story in a condensed form which they sold for <ref target="/wiki/Twopence_(British_pre-decimal_coin)" title="Twopence (British pre-decimal coin)">twopence</ref>.<ref target="#cite_note-98">[n 13]</ref> Dickens wrote to his solicitor</p>
+
+<p>I have not the least doubt that if these Vagabonds can be stopped they must. ... Let us be the sledge-hammer in this, or I shall be beset by hundreds of the same crew when I come out with a long story.<ref target="#cite_note-FOOTNOTEKelly200318–19-99">[86]</ref></p>
+<p>Two days after the release of the Parley version, Dickens sued on the basis of <ref target="/wiki/Copyright_infringement" title="Copyright infringement">copyright infringement</ref> and won. The publishers declared themselves bankrupt and Dickens was left to pay £700 in costs.<ref target="#cite_note-FOOTNOTEAckroyd1990416Tomalin2011150-100">[87]</ref> The small profits Dickens earned from A Christmas Carol further strained his relationship with his publishers, and he broke with them in favour of <ref target="/wiki/Bradbury_and_Evans" title="Bradbury and Evans">Bradbury and Evans</ref>, who had been printing his works to that point.<ref target="#cite_note-FOOTNOTESlater2011-18">[16]</ref></p>
+<p>Dickens returned to the tale several times during his life to amend the phrasing and punctuation. He capitalised on the success of the book by publishing other Christmas stories <ref target="/wiki/The_Chimes" title="The Chimes">The Chimes</ref> (1844), <ref target="/wiki/The_Cricket_on_the_Hearth" title="The Cricket on the Hearth">The Cricket on the Hearth</ref> (1845), <ref target="/wiki/The_Battle_of_Life" title="The Battle of Life">The Battle of Life</ref> (1846) and <ref target="/wiki/The_Haunted_Man_and_the_Ghost%27s_Bargain" title="The Haunted Man and the Ghost's Bargain">The Haunted Man and the Ghost's Bargain</ref> (1848); these were secular conversion tales which acknowledged the progressive societal changes of the previous year, and highlighted those social problems which still needed to be addressed. While the public eagerly bought the later books, the reviewers were highly critical of the stories.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxi–xxiii-101">[88]</ref></p>
+
+<h2>Performances and adaptations[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=16" title="Edit section: Performances and adaptations">edit</ref>]</h2>
+<p>Main article: <ref target="/wiki/Adaptations_of_A_Christmas_Carol" title="Adaptations of A Christmas Carol">Adaptations of A Christmas Carol</ref></p>
+<p>By 1849 Dickens was engaged with <ref target="/wiki/David_Copperfield" title="David Copperfield">David Copperfield</ref> and had neither the time nor the inclination to produce another Christmas book.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxvii-102">[89]</ref> He decided the best way to reach his audience with his "Carol philosophy" was by public readings.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxviii-103">[90]</ref> During Christmas 1852 Dickens gave a reading in <ref target="/wiki/Birmingham_Town_Hall" title="Birmingham Town Hall">Birmingham Town Hall</ref> to the Industrial and Literary Institute; the performance was a great success.<ref target="#cite_note-FOOTNOTESlater2009353Ledger2007119-104">[91]</ref> Thereafter, he read the tale in an abbreviated version 127 times, until 1870 (the year of his death), including at his farewell performance.<ref target="#cite_note-FOOTNOTEBillen20058–10Douglas-Fairhurst2006xxviiiLedger2007119-105">[92]</ref></p>
+
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:220px;" videopayload=''><ref target="//upload.wikimedia.org/wikipedia/commons/3/34/Scrooge_or_Marley%27s_Ghost_%281901%29_-_yt.webm" target="new" title="Play media">Play media</ref> <ref class="internal" href="/wiki/File:Scrooge_or_Marley%27s_Ghost_(1901)_-_yt.webm" title="Enlarge"></ref>First film adaptation, <ref target="/wiki/Scrooge,_or,_Marley%27s_Ghost" title="Scrooge, or, Marley's Ghost">Scrooge, or, Marley's Ghost</ref>, 1901
+<p>In the years following the book's publication, responses to the tale were published by W. M. Swepstone (Christmas Shadows, 1850), <ref target="/wiki/Horatio_Alger" title="Horatio Alger">Horatio Alger</ref> (Job Warner's Christmas, 1863), <ref target="/wiki/Louisa_May_Alcott" title="Louisa May Alcott">Louisa May Alcott</ref> (A Christmas Dream, and How It Came True, 1882), and others who followed Scrooge's life as a reformed man – or some who thought Dickens had got it wrong and needed to be corrected.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxi-106">[93]</ref></p>
+<p>The novella was adapted for the stage almost immediately. Three productions opened on 5 February 1844, one by Edward Stirling being sanctioned by Dickens and running for more than 40 nights.<ref target="#cite_note-FOOTNOTEStandiford2008168-107">[94]</ref> By the close of February 1844 eight rival A Christmas Carol theatrical productions were playing in London.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xx-86">[74]</ref> The story has been adapted for film and television more than any of Dickens's other works.<ref target="#cite_note-FOOTNOTESutherland,_British_Library-108">[95]</ref> In 1901 it was produced as <ref target="/wiki/Scrooge,_or,_Marley%27s_Ghost" title="Scrooge, or, Marley's Ghost">Scrooge, or, Marley's Ghost</ref>, a <ref target="/wiki/Silent_film" title="Silent film">silent</ref> <ref class="mw-redirect" href="/wiki/Black-and-white_film" title="Black-and-white film">black-and-white</ref> British film; it was one of the first known adaptations of a Dickens work on film, but it is now largely <ref target="/wiki/Lost_film" title="Lost film">lost</ref>.<ref target="#cite_note-FOOTNOTEScrooge,_or,_Marley's_Ghost,_BFI_Screenonline-109">[96]</ref> The story was adapted in 1923 for <ref class="mw-redirect" href="/wiki/BBC_radio" title="BBC radio">BBC radio</ref>.<ref target="#cite_note-FOOTNOTEA_Christmas_Carol,_BBC_Genome-110">[97]</ref> The story has been adapted to other media, including opera, ballet, a <ref target="/wiki/Broadway_theatre" title="Broadway theatre">Broadway</ref> musical, animation, and a <ref target="/wiki/BBC" title="BBC">BBC</ref> mime production starring <ref target="/wiki/Marcel_Marceau" title="Marcel Marceau">Marcel Marceau</ref>.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006viii-111">[98]</ref></p>
+<p>Davis considers the adaptations have become better remembered than the original. Some of Dickens's scenes—such as visiting the miners and lighthouse keepers—have been forgotten by many, while other events often added—such as Scrooge visiting the Cratchits on Christmas Day—are now thought by many to be part of the original story. Accordingly, Davis distinguishes between the original text and the "remembered version".<ref target="#cite_note-FOOTNOTEDavis1990a3–4-112">[99]</ref></p>
+
+<h2>Legacy[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=17" title="Edit section: Legacy">edit</ref>]</h2>
+<p>The phrase "<ref target="/wiki/Christmas_and_holiday_season#History_of_the_phrase" title="Christmas and holiday season">Merry Christmas</ref>" had been around for many years – the earliest known written use was in a letter in 1534 – but Dickens's use of the phrase in A Christmas Carol popularised it among the Victorian public.<ref target="#cite_note-FOOTNOTECochrane1996126Martin2011-113">[100]</ref> The exclamation "<ref target="/wiki/Humbug" title="Humbug">Bah! Humbug!</ref>" entered popular use in the English language as a retort to anything sentimental or overly festive;<ref target="#cite_note-FOOTNOTEStandiford2008183-114">[101]</ref> the name "Scrooge" became used as a designation for a miser, and was added to the <ref target="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</ref> as such in 1982.<ref target="#cite_note-FOOTNOTEScrooge,_n._OED-115">[102]</ref></p>
+
+<ref class="image" href="/wiki/File:A_Christmas_Carol_-_Scrooge_Extinguishes_the_First_of_the_Three_Spirits.jpg"></ref> <ref class="internal" href="/wiki/File:A_Christmas_Carol_-_Scrooge_Extinguishes_the_First_of_the_Three_Spirits.jpg" title="Enlarge"></ref>Scrooge extinguishing the first spirit
+<p>In the early 19th century the celebration of Christmas was associated in Britain with the countryside and peasant revels, disconnected to the increasing urbanisation and industrialisation taking place. Davis considers that in A Christmas Carol, Dickens showed that Christmas could be celebrated in towns and cities, despite increasing modernisation.<ref target="#cite_note-FOOTNOTEDavis1990a13-116">[103]</ref> The modern observance of Christmas is largely the result of a mid-Victorian revival of the holiday. The <ref target="/wiki/Oxford_Movement" title="Oxford Movement">Oxford Movement</ref> of the 1830s and 1840s had produced a resurgence of the traditional rituals and religious observances associated with <ref target="/wiki/Christmastide" title="Christmastide">Christmastide</ref> and, with A Christmas Carol, Dickens captured the <ref target="/wiki/Zeitgeist" title="Zeitgeist">zeitgeist</ref> while he reflected and reinforced his vision of Christmas.<ref target="#cite_note-FOOTNOTERowell1993Hutton1996113Kelly20039-117">[104]</ref></p>
+<p>Dickens advocated a humanitarian focus of the holiday,<ref target="#cite_note-FOOTNOTEForbes200862-118">[105]</ref> which influenced several aspects of Christmas that are still celebrated in Western culture, such as family gatherings, seasonal food and drink, dancing, games and a festive generosity of spirit.<ref target="#cite_note-FOOTNOTEKelly20039,_12-119">[106]</ref><ref target="#cite_note-120">[n 14]</ref> The historian <ref target="/wiki/Ronald_Hutton" title="Ronald Hutton">Ronald Hutton</ref> writes that Dickens "linked worship and feasting, within a context of social reconciliation".<ref target="#cite_note-FOOTNOTEHutton1996113-121">[107]</ref></p>
+<p>The novelist <ref target="/wiki/William_Dean_Howells" title="William Dean Howells">William Dean Howells</ref>, analysing several of Dickens's Christmas stories, including A Christmas Carol, considered that by 1891 the "pathos appears false and strained; the humor largely horseplay; the characters theatrical; the joviality pumped; the psychology commonplace; the sociology alone funny".<ref target="#cite_note-FOOTNOTEHowells1910276–277-122">[108]</ref><ref target="#cite_note-FOOTNOTEDavis1990a98-123">[109]</ref> The writer <ref target="/wiki/James_Joyce" title="James Joyce">James Joyce</ref> considered that Dickens took a childish approach with A Christmas Carol, to produce a gap between the naïve optimism of the story, and the realities of life at the time.<ref target="#cite_note-FOOTNOTEDavis1990a98-123">[109]</ref></p>
+<p>Ruth Glancy, a professor of English literature, states that the largest impact of A Christmas Carol was the influence felt by individual readers.<ref target="#cite_note-FOOTNOTEGlancy1985xii-124">[110]</ref> In early 1844 <ref target="/wiki/The_Gentleman%27s_Magazine" title="The Gentleman's Magazine">The Gentleman's Magazine</ref> attributed a rise of charitable giving in Britain to Dickens's novella;<ref target="#cite_note-FOOTNOTEHarrison200828-125">[111]</ref> in 1874, <ref target="/wiki/Robert_Louis_Stevenson" title="Robert Louis Stevenson">Robert Louis Stevenson</ref>, after reading Dickens's Christmas books, vowed to give generously to those in need;<ref target="#cite_note-FOOTNOTEDeacy201644-126">[112]</ref> and Thomas Carlyle expressed a generous hospitality by hosting two Christmas dinners after reading the book.<ref target="#cite_note-FOOTNOTESlater2003xx-127">[113]</ref> In 1867 one American businessman was so moved by attending a reading, that he closed his factory on Christmas Day and sent every employee a turkey,<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xx-86">[74]</ref> while in the early years of the 20th century <ref target="/wiki/Maud_of_Wales" title="Maud of Wales">Maud of Wales</ref> – the <ref class="mw-redirect" href="/wiki/Queen_of_Norway" title="Queen of Norway">Queen of Norway</ref> – sent gifts to London's crippled children signed "With Tiny Tim's Love".<ref target="#cite_note-FOOTNOTEGlancy1985xiii-128">[114]</ref> On the novella, the author <ref target="/wiki/G._K._Chesterton" title="G. K. Chesterton">G. K. Chesterton</ref> wrote "The beauty and blessing of the story ... lie in the great furnace of real happiness that glows through Scrooge and everything around him. ... Whether the Christmas visions would or would not convert Scrooge, they convert us."<ref target="#cite_note-FOOTNOTEChesterton1989137-129">[115]</ref></p>
+<p>Davis, analysing the changes made to adaptations over time, sees changes to the focus of the story and its characters to reflect mainstream thinking of the period. While Dickens's Victorian audiences would have viewed the tale as a spiritual but secular parable, in the early 20th century it became a children's story, read by parents who remembered their parents reading it when they were younger. In the lead up to, and during, the <ref target="/wiki/Great_Depression" title="Great Depression">Great Depression</ref>, Davis identifies that while some see the story as a "denunciation of capitalism, ...most read it as a way to escape oppressive economic realities".<ref target="#cite_note-FOOTNOTEDavis1990a13–14-130">[116]</ref> The film versions of the 1930s were different in the UK and US. British-made films showed a traditional telling of the story, while US-made works showed Cratchit in a more central role, escaping the depression caused by European bankers and celebrating what Davis calls "the Christmas of the common man".<ref target="#cite_note-FOOTNOTEDavis1990a14-131">[117]</ref> In the 1960s, Scrooge was sometimes portrayed as a Freudian figure wrestling with his past. By the 1980s he was again set in a world of depression and economic uncertainty.<ref target="#cite_note-FOOTNOTEDavis1990a14-131">[117]</ref></p>
+
+<h2>See also[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=18" title="Edit section: See also">edit</ref>]</h2>
+
+
+<ref target="/wiki/Portal:Literature" title="Portal:Literature">Literature portal</ref>
+<ref class="image" href="/wiki/File:Book_collection.jpg"></ref><ref target="/wiki/Portal:Novels" title="Portal:Novels">Novels portal</ref>
+<ref class="mw-redirect" href="/wiki/Dickens_Christmas_fair" title="Dickens Christmas fair">Dickens Christmas fair</ref>
+<h2>Notes[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=19" title="Edit section: Notes">edit</ref>]</h2>
+
+
+<ref target="#cite_ref-3">^</ref> These were <ref target="/wiki/Sketches_by_Boz" title="Sketches by Boz">Sketches by Boz</ref> (1836); <ref target="/wiki/The_Pickwick_Papers" title="The Pickwick Papers">The Pickwick Papers</ref> (1836); <ref target="/wiki/Nicholas_Nickleby" title="Nicholas Nickleby">Nicholas Nickleby</ref> (1837); <ref target="/wiki/Oliver_Twist" title="Oliver Twist">Oliver Twist</ref> (1838); <ref target="/wiki/The_Old_Curiosity_Shop" title="The Old Curiosity Shop">The Old Curiosity Shop</ref> (1841); and <ref target="/wiki/Barnaby_Rudge" title="Barnaby Rudge">Barnaby Rudge</ref> (1841).<ref target="#cite_note-FOOTNOTEDiedrick198780-2">[2]</ref>
+
+<ref target="#cite_ref-5">^</ref> Serialisation was in 20 parts, which concluded on 30 June 1844.<ref target="#cite_note-FOOTNOTEAckroyd1990392-4">[3]</ref>
+
+<ref target="#cite_ref-32">^</ref> The addition of the line has proved contentious to some.<ref target="#cite_note-FOOTNOTEDavis1990a133-31">[29]</ref> One writer in The Dickensian – the journal of the <ref target="/wiki/Dickens_Fellowship" title="Dickens Fellowship">Dickens Fellowship</ref> wrote in 1933 that "the fate of Tiny Tim should be a matter of dignified reticence ... Dickens was carried away by exuberance, and momentarily forgot good taste".<ref target="#cite_note-FOOTNOTEDavis1990a133-31">[29]</ref>
+
+<ref target="#cite_ref-42">^</ref> Carlyle's original question was written in his 1840 work Chartism.<ref target="#cite_note-FOOTNOTECarlyle184032-41">[38]</ref>
+
+<ref target="#cite_ref-46">^</ref> Grub's name came from a 19th-century Dutch miser, Gabriel de Graaf, a morose gravedigger.<ref target="#cite_note-FOOTNOTEAlleyne2007-45">[41]</ref>
+
+<ref target="#cite_ref-49">^</ref> Scroggie was unlike Scrooge in nature, and was described as "a well-known hedonist who loved wine, women, and parties ... a dandy and terrible philanderer who had several sexual liaisons which made him the talk of the town ... a jovial and kindly man".<ref target="#cite_note-FOOTNOTEDeVito2014412-48">[43]</ref>
+
+<ref target="#cite_ref-53">^</ref> Henry was also used as the basis for Paul Dombey Jr in <ref target="/wiki/Dombey_and_Son" title="Dombey and Son">Dombey and Son</ref>.<ref target="#cite_note-FOOTNOTEAckroyd1990519-52">[46]</ref>
+
+<ref target="#cite_ref-60">^</ref> Others who have examined the Christian theme include <ref target="/wiki/Geoffrey_Rowell" title="Geoffrey Rowell">Geoffrey Rowell</ref>,<ref target="#cite_note-FOOTNOTERowell1993-26">[24]</ref> <ref target="/wiki/Claire_Tomalin" title="Claire Tomalin">Claire Tomalin</ref><ref target="#cite_note-FOOTNOTETomalin2011150-58">[51]</ref> and Martin Sable.<ref target="#cite_note-FOOTNOTESable198667-59">[52]</ref>
+
+<ref target="#cite_ref-64">^</ref> The author <ref target="/wiki/G._K._Chesterton" title="G. K. Chesterton">G. K. Chesterton</ref> wrote of Dickens's religious views that "the tone of Dickens towards religion, though like that of most of his contemporaries, philosophically disturbed and rather historically ignorant, had an element that was very characteristic of himself. He had all the prejudices of his time. He had, for instance, that dislike of defined dogmas, which really means a preference for unexamined dogmas."<ref target="#cite_note-FOOTNOTEChesterton1989163-62">[54]</ref> Dickens stated that "I have always striven in my writings to express the veneration for the life and lessons of our Saviour."<ref target="#cite_note-FOOTNOTEHammond1871308-63">[55]</ref>
+
+<ref target="#cite_ref-66">^</ref> The full verse of I John 3:17 is "But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him?"<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006421-65">[56]</ref>
+
+<ref target="#cite_ref-79">^</ref> In 1875 Mitton sold the manuscript to the bookseller <ref target="/wiki/Francis_Harvey" title="Francis Harvey">Francis Harvey</ref> – reportedly for £50 (equal to £4,600 in 2019 pounds) –<ref target="#cite_note-FOOTNOTEUK_CPI_inflation-77">[67]</ref> who sold it to the autograph collector, <ref class="mw-redirect" href="/wiki/Henry_Churchill" title="Henry Churchill">Henry George Churchill</ref>, in 1882; in turn Churchill sold the manuscript to Bennett, a Birmingham bookseller. Bennett sold it for £200 to Robson and Kerslake of London, which sold it to Dickens collector <ref target="/wiki/Stuart_Samuel" title="Stuart Samuel">Stuart M. Samuel</ref> for £300. It was purchased by <ref target="/wiki/J._P._Morgan" title="J. P. Morgan">J. Pierpont Morgan</ref> for an undisclosed sum and is now held by the <ref class="mw-redirect" href="/wiki/Pierpont_Morgan_Library" title="Pierpont Morgan Library">Pierpont Morgan Library</ref>, New York.<ref target="#cite_note-FOOTNOTEDouglas-Fairhurst2006xxxProvenance,_The_Morgan_Library_&_Museum-78">[68]</ref>
+
+<ref target="#cite_ref-84">^</ref> Dickens's biographer, <ref target="/wiki/Claire_Tomalin" title="Claire Tomalin">Claire Tomalin</ref>, puts the first edition profits at £137, and those by the end of 1844 at £726.<ref target="#cite_note-FOOTNOTETomalin2011150-58">[51]</ref>
+
+<ref target="#cite_ref-98">^</ref> The Parley version was titled A Christmas Ghost Story reoriginated from the original by Charles Dickens Esquire and analytically condensed for this work.<ref target="#cite_note-FOOTNOTEKelly200318-97">[85]</ref>
+
+<ref target="#cite_ref-120">^</ref> One example of this was the introduction of turkey as the main meat of the Christmas meal. In Britain the tradition had been to eat roast goose, but a change to turkey followed the publication of the book. By 1868 <ref target="/wiki/Isabella_Beeton" title="Isabella Beeton">Mrs Beeton</ref>, in her <ref target="/wiki/Mrs_Beeton%27s_Book_of_Household_Management" title="Mrs Beeton's Book of Household Management">Book of Household Management</ref>, advised her readers that "A Christmas dinner, with the middle-class of this empire, would scarcely be a Christmas dinner without its turkey."<ref target="#cite_note-FOOTNOTEStandiford2008183-114">[101]</ref>
+
+
+<h2>References[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=20" title="Edit section: References">edit</ref>]</h2>
+
+
+<ref target="#cite_ref-FOOTNOTEAckroyd199067–68Slater2011_1-0">^</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, pp. 67–68; <ref target="#CITEREFSlater2011">Slater 2011</ref>.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDiedrick198780_2-0">a</ref> <ref target="#cite_ref-FOOTNOTEDiedrick198780_2-1">b</ref> <ref target="#CITEREFDiedrick1987">Diedrick 1987</ref>, p. 80.</p>
+
+<p>^ <ref target="#cite_ref-FOOTNOTEAckroyd1990392_4-0">a</ref> <ref target="#cite_ref-FOOTNOTEAckroyd1990392_4-1">b</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, p. 392.</p>
+
+<ref target="#cite_ref-FOOTNOTECallow200927_6-0">^</ref> <ref target="#CITEREFCallow2009">Callow 2009</ref>, p. 27.
+
+<ref target="#cite_ref-FOOTNOTELalumia2001Sutherland,_British_Library_7-0">^</ref> <ref target="#CITEREFLalumia2001">Lalumia 2001</ref>; <ref target="#CITEREFSutherland,_British_Library">Sutherland, British Library</ref>.
+
+<ref target="#cite_ref-FOOTNOTERowell1993StudwellJones19988,_10Callow2009128_8-0">^</ref> <ref target="#CITEREFRowell1993">Rowell 1993</ref>; <ref target="#CITEREFStudwellJones1998">Studwell & Jones 1998</ref>, pp. 8, 10; <ref target="#CITEREFCallow2009">Callow 2009</ref>, p. 128.
+
+<ref target="#cite_ref-FOOTNOTECallow200930_9-0">^</ref> <ref target="#CITEREFCallow2009">Callow 2009</ref>, p. 30.
+
+<ref target="#cite_ref-FOOTNOTEKelly200319–20Slater2003xvi_10-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, pp. 19–20; <ref target="#CITEREFSlater2003">Slater 2003</ref>, p. xvi.
+
+<p>^ <ref target="#cite_ref-FOOTNOTESlater2003xvi_11-0">a</ref> <ref target="#cite_ref-FOOTNOTESlater2003xvi_11-1">b</ref> <ref target="#CITEREFSlater2003">Slater 2003</ref>, p. xvi.</p>
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a25_12-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 25.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEKelly200312_13-0">a</ref> <ref target="#cite_ref-FOOTNOTEKelly200312_13-1">b</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 12.</p>
+
+<ref target="#cite_ref-FOOTNOTEKelly200320_14-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 20.
+
+<ref target="#cite_ref-FOOTNOTERestad1996137_15-0">^</ref> <ref target="#CITEREFRestad1996">Restad 1996</ref>, p. 137.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006viiiLedger2007117_16-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. viii; <ref target="#CITEREFLedger2007">Ledger 2007</ref>, p. 117.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxiv_17-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxiv.
+
+<p>^ <ref target="#cite_ref-FOOTNOTESlater2011_18-0">a</ref> <ref target="#cite_ref-FOOTNOTESlater2011_18-1">b</ref> <ref target="#cite_ref-FOOTNOTESlater2011_18-2">c</ref> <ref target="#CITEREFSlater2011">Slater 2011</ref>.</p>
+
+<ref target="#cite_ref-FOOTNOTEChildsTredell200692_19-0">^</ref> <ref target="#CITEREFChildsTredell2006">Childs & Tredell 2006</ref>, p. 92.
+
+<p>^ <ref target="#cite_ref-FOOTNOTELee,_British_Library_20-0">a</ref> <ref target="#cite_ref-FOOTNOTELee,_British_Library_20-1">b</ref> <ref target="#CITEREFLee,_British_Library">Lee, British Library</ref>.</p>
+
+<ref target="#cite_ref-FOOTNOTECallow200938_21-0">^</ref> <ref target="#CITEREFCallow2009">Callow 2009</ref>, p. 38.
+
+<ref target="#cite_ref-FOOTNOTELedger2007119_22-0">^</ref> <ref target="#CITEREFLedger2007">Ledger 2007</ref>, p. 119.
+
+<ref target="#cite_ref-FOOTNOTEKelly200315Sutherland,_British_Library_23-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 15; <ref target="#CITEREFSutherland,_British_Library">Sutherland, British Library</ref>.
+
+<ref target="#cite_ref-FOOTNOTEKelly200315Douglas-Fairhurst2006xvi_24-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 15; <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xvi.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xviCallow200938_25-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xvi; <ref target="#CITEREFCallow2009">Callow 2009</ref>, p. 38.
+
+<p>^ <ref target="#cite_ref-FOOTNOTERowell1993_26-0">a</ref> <ref target="#cite_ref-FOOTNOTERowell1993_26-1">b</ref> <ref target="#CITEREFRowell1993">Rowell 1993</ref>.</p>
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xixSlater2011_27-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xix; <ref target="#CITEREFSlater2011">Slater 2011</ref>.
+
+<ref target="#cite_ref-FOOTNOTETomalin2011148–149_28-0">^</ref> <ref target="#CITEREFTomalin2011">Tomalin 2011</ref>, pp. 148–149.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a7_29-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 7.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xixTomalin2011148_30-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xix; <ref target="#CITEREFTomalin2011">Tomalin 2011</ref>, p. 148.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDavis1990a133_31-0">a</ref> <ref target="#cite_ref-FOOTNOTEDavis1990a133_31-1">b</ref> <ref target="#cite_ref-FOOTNOTEDavis1990a133_31-2">c</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 133.</p>
+
+<ref target="#cite_ref-FOOTNOTEDeVito2014522_33-0">^</ref> <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 522.
+
+<ref target="#cite_ref-FOOTNOTEDickens18433_34-0">^</ref> <ref target="#CITEREFDickens1843">Dickens 1843</ref>, p. 3.
+
+<ref target="#cite_ref-FOOTNOTEKelly200314_35-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 14.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xix_36-0">a</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xix_36-1">b</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xix.</p>
+
+<ref target="#cite_ref-FOOTNOTEGordon2008DeVito2014424_37-0">^</ref> <ref target="#CITEREFGordon2008">Gordon 2008</ref>; <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 424.
+
+<ref target="#cite_ref-FOOTNOTEJordan2015Chapter_5Sillence201540_38-0">^</ref> <ref target="#CITEREFJordan2015">Jordan 2015</ref>, Chapter 5; <ref target="#CITEREFSillence2015">Sillence 2015</ref>, p. 40.
+
+<ref target="#cite_ref-FOOTNOTEElwell2001DeVito2014645_39-0">^</ref> <ref target="#CITEREFElwell2001">Elwell 2001</ref>; <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 645.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xiii_40-0">a</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xiii_40-1">b</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xiii.</p>
+
+<ref target="#cite_ref-FOOTNOTECarlyle184032_41-0">^</ref> <ref target="#CITEREFCarlyle1840">Carlyle 1840</ref>, p. 32.
+
+<ref target="#cite_ref-FOOTNOTEAckroyd1990409_43-0">^</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, p. 409.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xviiiAlleyne2007_44-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xviii; <ref target="#CITEREFAlleyne2007">Alleyne 2007</ref>.
+
+<ref target="#cite_ref-FOOTNOTEAlleyne2007_45-0">^</ref> <ref target="#CITEREFAlleyne2007">Alleyne 2007</ref>.
+
+<ref target="#cite_ref-FOOTNOTEDeVito2014392_47-0">^</ref> <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 392.
+
+<ref target="#cite_ref-FOOTNOTEDeVito2014412_48-0">^</ref> <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 412.
+
+<ref target="#cite_ref-FOOTNOTEDeVito2014548_50-0">^</ref> <ref target="#CITEREFDeVito2014">DeVito 2014</ref>, 548.
+
+<ref target="#cite_ref-FOOTNOTEAckroyd1990519–520_51-0">^</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, pp. 519–520.
+
+<ref target="#cite_ref-FOOTNOTEAckroyd1990519_52-0">^</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, p. 519.
+
+<ref target="#cite_ref-FOOTNOTEKelly200325GarryEl_Shamy2005132_54-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 25; <ref target="#CITEREFGarryEl_Shamy2005">Garry & El Shamy 2005</ref>, p. 132.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990b111_55-0">^</ref> <ref target="#CITEREFDavis1990b">Davis 1990b</ref>, p. 111.
+
+<ref target="#cite_ref-FOOTNOTEKelly200325–26_56-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, pp. 25–26.
+
+<ref target="#cite_ref-FOOTNOTEMoore201157_57-0">^</ref> <ref target="#CITEREFMoore2011">Moore 2011</ref>, p. 57.
+
+<p>^ <ref target="#cite_ref-FOOTNOTETomalin2011150_58-0">a</ref> <ref target="#cite_ref-FOOTNOTETomalin2011150_58-1">b</ref> <ref target="#cite_ref-FOOTNOTETomalin2011150_58-2">c</ref> <ref target="#CITEREFTomalin2011">Tomalin 2011</ref>, p. 150.</p>
+
+<p>^ <ref target="#cite_ref-FOOTNOTESable198667_59-0">a</ref> <ref target="#cite_ref-FOOTNOTESable198667_59-1">b</ref> <ref target="#CITEREFSable1986">Sable 1986</ref>, p. 67.</p>
+
+<ref target="#cite_ref-FOOTNOTETomalin2011149–150_61-0">^</ref> <ref target="#CITEREFTomalin2011">Tomalin 2011</ref>, pp. 149–150.
+
+<ref target="#cite_ref-FOOTNOTEChesterton1989163_62-0">^</ref> <ref target="#CITEREFChesterton1989">Chesterton 1989</ref>, p. 163.
+
+<ref target="#cite_ref-FOOTNOTEHammond1871308_63-0">^</ref> <ref target="#CITEREFHammond1871">Hammond 1871</ref>, p. 308.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006421_65-0">a</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006421_65-1">b</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. 421.</p>
+
+<ref target="#cite_ref-FOOTNOTEJordan2001121_67-0">^</ref> <ref target="#CITEREFJordan2001">Jordan 2001</ref>, p. 121.
+
+<ref target="#cite_ref-FOOTNOTERestad1996139_68-0">^</ref> <ref target="#CITEREFRestad1996">Restad 1996</ref>, p. 139.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xviSutherland,_British_Library_69-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xvi; <ref target="#CITEREFSutherland,_British_Library">Sutherland, British Library</ref>.
+
+<ref target="#cite_ref-FOOTNOTEMoore201118_70-0">^</ref> <ref target="#CITEREFMoore2011">Moore 2011</ref>, p. 18.
+
+<ref target="#cite_ref-FOOTNOTEJaffe1994262_71-0">^</ref> <ref target="#CITEREFJaffe1994">Jaffe 1994</ref>, p. 262.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xvi_72-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xvi.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEKelly200317_73-0">a</ref> <ref target="#cite_ref-FOOTNOTEKelly200317_73-1">b</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 17.</p>
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxxiVarese2009_74-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxxi; <ref target="#CITEREFVarese2009">Varese 2009</ref>.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xixVarese2009Sutherland,_British_Library_75-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xix; <ref target="#CITEREFVarese2009">Varese 2009</ref>; <ref target="#CITEREFSutherland,_British_Library">Sutherland, British Library</ref>.
+
+<ref target="#cite_ref-FOOTNOTEProvenance,_The_Morgan_Library_&_Museum_76-0">^</ref> <ref target="#CITEREFProvenance,_The_Morgan_Library_&_Museum">Provenance, The Morgan Library & Museum</ref>.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEUK_CPI_inflation_77-0">a</ref> <ref target="#cite_ref-FOOTNOTEUK_CPI_inflation_77-1">b</ref> <ref target="#cite_ref-FOOTNOTEUK_CPI_inflation_77-2">c</ref> <ref target="#cite_ref-FOOTNOTEUK_CPI_inflation_77-3">d</ref> <ref target="#CITEREFUK_CPI_inflation">UK CPI inflation</ref>.</p>
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxxProvenance,_The_Morgan_Library_&_Museum_78-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxx; <ref target="#CITEREFProvenance,_The_Morgan_Library_&_Museum">Provenance, The Morgan Library & Museum</ref>.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xix–xxStandiford2008132_80-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, pp. xix–xx; <ref target="#CITEREFStandiford2008">Standiford 2008</ref>, p. 132.
+
+<ref target="#cite_ref-FOOTNOTEJackson19996_81-0">^</ref> <ref target="#CITEREFJackson1999">Jackson 1999</ref>, p. 6.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006viiiA_Christmas_Carol,_WorldCat_82-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. viii; <ref target="#CITEREFA_Christmas_Carol,_WorldCat">A Christmas Carol, WorldCat</ref>.
+
+<ref target="#cite_ref-FOOTNOTEKelly200317Douglas-Fairhurst2006xx,_xvii_83-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 17; <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, pp. xx, xvii.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEThackeray1844169_85-0">a</ref> <ref target="#cite_ref-FOOTNOTEThackeray1844169_85-1">b</ref> <ref target="#CITEREFThackeray1844">Thackeray 1844</ref>, p. 169.</p>
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xx_86-0">a</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xx_86-1">b</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xx_86-2">c</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xx_86-3">d</ref> <ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xx_86-4">e</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xx.</p>
+
+<ref target="#cite_ref-FOOTNOTELiterature,_The_Illustrated_London_News_87-0">^</ref> <ref target="#CITEREFLiterature,_The_Illustrated_London_News">Literature, The Illustrated London News</ref>.
+
+<ref target="#cite_ref-FOOTNOTEChorley18431127_88-0">^</ref> <ref target="#CITEREFChorley1843">Chorley 1843</ref>, p. 1127.
+
+<ref target="#cite_ref-FOOTNOTEHood184468_89-0">^</ref> <ref target="#CITEREFHood1844">Hood 1844</ref>, p. 68.
+
+<ref target="#cite_ref-FOOTNOTEMartin1844129_90-0">^</ref> <ref target="#CITEREFMartin1844">Martin 1844</ref>, p. 129.
+
+<ref target="#cite_ref-FOOTNOTEWelch2015169Notice_of_Books,_The_Christian_Remembrancer119_91-0">^</ref> <ref target="#CITEREFWelch2015">Welch 2015</ref>, p. 169; <ref target="#CITEREFNotice_of_Books,_The_Christian_Remembrancer">Notice of Books, The Christian Remembrancer</ref>, p. 119.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a59_92-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 59.
+
+<ref target="#cite_ref-FOOTNOTEChristmas_Carol,_New_Monthly_Magazine_93-0">^</ref> <ref target="#CITEREFChristmas_Carol,_New_Monthly_Magazine">Christmas Carol, New Monthly Magazine</ref>.
+
+<ref target="#cite_ref-FOOTNOTESenior1844186_94-0">^</ref> <ref target="#CITEREFSenior1844">Senior 1844</ref>, p. 186.
+
+<ref target="#cite_ref-FOOTNOTERestad1996136_95-0">^</ref> <ref target="#CITEREFRestad1996">Restad 1996</ref>, p. 136.
+
+<ref target="#cite_ref-FOOTNOTECharles_Dickens,_New_York_Times_96-0">^</ref> <ref target="#CITEREFCharles_Dickens,_New_York_Times">Charles Dickens, New York Times</ref>.
+
+<ref target="#cite_ref-FOOTNOTEKelly200318_97-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 18.
+
+<ref target="#cite_ref-FOOTNOTEKelly200318–19_99-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, pp. 18–19.
+
+<ref target="#cite_ref-FOOTNOTEAckroyd1990416Tomalin2011150_100-0">^</ref> <ref target="#CITEREFAckroyd1990">Ackroyd 1990</ref>, p. 416; <ref target="#CITEREFTomalin2011">Tomalin 2011</ref>, p. 150.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxi–xxiii_101-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, pp. xxi–xxiii.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxvii_102-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxvii.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxviii_103-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxviii.
+
+<ref target="#cite_ref-FOOTNOTESlater2009353Ledger2007119_104-0">^</ref> <ref target="#CITEREFSlater2009">Slater 2009</ref>, p. 353; <ref target="#CITEREFLedger2007">Ledger 2007</ref>, p. 119.
+
+<ref target="#cite_ref-FOOTNOTEBillen20058–10Douglas-Fairhurst2006xxviiiLedger2007119_105-0">^</ref> <ref target="#CITEREFBillen2005">Billen 2005</ref>, pp. 8–10; <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxviii; <ref target="#CITEREFLedger2007">Ledger 2007</ref>, p. 119.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006xxi_106-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. xxi.
+
+<ref target="#cite_ref-FOOTNOTEStandiford2008168_107-0">^</ref> <ref target="#CITEREFStandiford2008">Standiford 2008</ref>, p. 168.
+
+<ref target="#cite_ref-FOOTNOTESutherland,_British_Library_108-0">^</ref> <ref target="#CITEREFSutherland,_British_Library">Sutherland, British Library</ref>.
+
+<ref target="#cite_ref-FOOTNOTEScrooge,_or,_Marley's_Ghost,_BFI_Screenonline_109-0">^</ref> <ref target="#CITEREFScrooge,_or,_Marley's_Ghost,_BFI_Screenonline">Scrooge, or, Marley's Ghost, BFI Screenonline</ref>.
+
+<ref target="#cite_ref-FOOTNOTEA_Christmas_Carol,_BBC_Genome_110-0">^</ref> <ref target="#CITEREFA_Christmas_Carol,_BBC_Genome">A Christmas Carol, BBC Genome</ref>.
+
+<ref target="#cite_ref-FOOTNOTEDouglas-Fairhurst2006viii_111-0">^</ref> <ref target="#CITEREFDouglas-Fairhurst2006">Douglas-Fairhurst 2006</ref>, p. viii.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a3–4_112-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, pp. 3–4.
+
+<ref target="#cite_ref-FOOTNOTECochrane1996126Martin2011_113-0">^</ref> <ref target="#CITEREFCochrane1996">Cochrane 1996</ref>, p. 126; <ref target="#CITEREFMartin2011">Martin 2011</ref>.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEStandiford2008183_114-0">a</ref> <ref target="#cite_ref-FOOTNOTEStandiford2008183_114-1">b</ref> <ref target="#CITEREFStandiford2008">Standiford 2008</ref>, p. 183.</p>
+
+<ref target="#cite_ref-FOOTNOTEScrooge,_n._OED_115-0">^</ref> <ref target="#CITEREFScrooge,_n._OED">Scrooge, n. OED</ref>.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a13_116-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 13.
+
+<ref target="#cite_ref-FOOTNOTERowell1993Hutton1996113Kelly20039_117-0">^</ref> <ref target="#CITEREFRowell1993">Rowell 1993</ref>; <ref target="#CITEREFHutton1996">Hutton 1996</ref>, p. 113; <ref target="#CITEREFKelly2003">Kelly 2003</ref>, p. 9.
+
+<ref target="#cite_ref-FOOTNOTEForbes200862_118-0">^</ref> <ref target="#CITEREFForbes2008">Forbes 2008</ref>, p. 62.
+
+<ref target="#cite_ref-FOOTNOTEKelly20039,_12_119-0">^</ref> <ref target="#CITEREFKelly2003">Kelly 2003</ref>, pp. 9, 12.
+
+<ref target="#cite_ref-FOOTNOTEHutton1996113_121-0">^</ref> <ref target="#CITEREFHutton1996">Hutton 1996</ref>, p. 113.
+
+<ref target="#cite_ref-FOOTNOTEHowells1910276–277_122-0">^</ref> <ref target="#CITEREFHowells1910">Howells 1910</ref>, pp. 276–277.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDavis1990a98_123-0">a</ref> <ref target="#cite_ref-FOOTNOTEDavis1990a98_123-1">b</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 98.</p>
+
+<ref target="#cite_ref-FOOTNOTEGlancy1985xii_124-0">^</ref> <ref target="#CITEREFGlancy1985">Glancy 1985</ref>, p. xii.
+
+<ref target="#cite_ref-FOOTNOTEHarrison200828_125-0">^</ref> <ref target="#CITEREFHarrison2008">Harrison 2008</ref>, p. 28.
+
+<ref target="#cite_ref-FOOTNOTEDeacy201644_126-0">^</ref> <ref target="#CITEREFDeacy2016">Deacy 2016</ref>, p. 44.
+
+<ref target="#cite_ref-FOOTNOTESlater2003xx_127-0">^</ref> <ref target="#CITEREFSlater2003">Slater 2003</ref>, p. xx.
+
+<ref target="#cite_ref-FOOTNOTEGlancy1985xiii_128-0">^</ref> <ref target="#CITEREFGlancy1985">Glancy 1985</ref>, p. xiii.
+
+<ref target="#cite_ref-FOOTNOTEChesterton1989137_129-0">^</ref> <ref target="#CITEREFChesterton1989">Chesterton 1989</ref>, p. 137.
+
+<ref target="#cite_ref-FOOTNOTEDavis1990a13–14_130-0">^</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, pp. 13–14.
+
+<p>^ <ref target="#cite_ref-FOOTNOTEDavis1990a14_131-0">a</ref> <ref target="#cite_ref-FOOTNOTEDavis1990a14_131-1">b</ref> <ref target="#CITEREFDavis1990a">Davis 1990a</ref>, p. 14.</p>
+
+
+<h2>Sources[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=21" title="Edit section: Sources">edit</ref>]</h2>
+<h3>Books[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=22" title="Edit section: Books">edit</ref>]</h3>
+<p>.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</p>
+<ref target="/wiki/Peter_Ackroyd" title="Peter Ackroyd">Ackroyd, Peter</ref> (1990). Dickens. London: Sinclair-Stevenson. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-85619-000-8" title="Special:BookSources/978-1-85619-000-8">978-1-85619-000-8</ref>..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+<p>Billen, Andrew (2005). Charles Dickens: The Man Who Invented Christmas. London: Short Books. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-904977-18-6" title="Special:BookSources/978-1-904977-18-6">978-1-904977-18-6</ref>.</p>
+<ref target="/wiki/Simon_Callow" title="Simon Callow">Callow, Simon</ref> (2009). Dickens' Christmas: A Victorian Celebration. London: Frances Lincoln. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7112-3031-6" title="Special:BookSources/978-0-7112-3031-6">978-0-7112-3031-6</ref>.
+<ref target="/wiki/Thomas_Carlyle" title="Thomas Carlyle">Carlyle, Thomas</ref> (1840). Chartism. London: J. Fraser. <ref target="/wiki/OCLC" title="OCLC">OCLC</ref> <ref class="external text" href="//www.worldcat.org/oclc/247585901" rel="nofollow">247585901</ref>.
+<ref target="/wiki/G._K._Chesterton" title="G. K. Chesterton">Chesterton, G. K.</ref> (1989). <ref class="external text" href="https://books.google.com/books?id=eFVZUHh6KUwC&pg=PP1" rel="nofollow">The Collected Works of G.K. Chesterton: Chesterton on Dickens</ref>. San Francisco, CA: Ignatius Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-89870-258-3" title="Special:BookSources/978-0-89870-258-3">978-0-89870-258-3</ref>.
+<p>Childs, Peter; Tredell, Nicolas (2006). <ref class="external text" href="https://books.google.com/books?id=vFwdBQAAQBAJ&pg=PR10" rel="nofollow">Charles Dickens</ref>. Basingstoke, Hampshire: Palgrave Macmillan. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-4039-1919-9" title="Special:BookSources/978-1-4039-1919-9">978-1-4039-1919-9</ref>.</p>
+<p>Cochrane, Robertson (1996). Wordplay: origins, meanings, and usage of the English language. Toronto: University of Toronto Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-8020-7752-3" title="Special:BookSources/978-0-8020-7752-3">978-0-8020-7752-3</ref>.</p>
+<p>Davis, Paul (1990a). The Lives and Times of Ebenezer Scrooge. New Haven, CT: Yale University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-300-04664-9" title="Special:BookSources/978-0-300-04664-9">978-0-300-04664-9</ref>.</p>
+<p>Deacy, Christopher (2016). <ref class="external text" href="https://books.google.com/books?id=13jADAAAQBAJ&pg=PP1" rel="nofollow">Christmas as Religion: Rethinking Santa, the Secular, and the Sacred</ref>. Oxford: Oxford University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-106955-0" title="Special:BookSources/978-0-19-106955-0">978-0-19-106955-0</ref>.</p>
+<p>DeVito, Carlo (2014). <ref class="external text" href="https://books.google.com/books?id=eM9tBAAAQBAJ&pg=PP1" rel="nofollow">Inventing Scrooge</ref> (Kindle ed.). Kennebunkport, ME: Cider Mill Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-60433-555-2" title="Special:BookSources/978-1-60433-555-2">978-1-60433-555-2</ref>.</p>
+<ref target="/wiki/Charles_Dickens" title="Charles Dickens">Dickens, Charles</ref> (1843). A Christmas Carol. London: Chapman and Hall. <ref target="/wiki/OCLC" title="OCLC">OCLC</ref> <ref class="external text" href="//www.worldcat.org/oclc/181675592" rel="nofollow">181675592</ref>.
+<p>Diedrick, James (1987). "Charles Dickens". In Thesing, William (ed.). <ref class="external text" href="https://archive.org/details/victorianprosewr55nari" rel="nofollow">Dictionary of Literary Biography: Victorian Prose Writers before 1867</ref>. Farmington Hills, MI: Gale. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-8103-1733-8" title="Special:BookSources/978-0-8103-1733-8">978-0-8103-1733-8</ref>.</p>
+<p>Douglas-Fairhurst, Robert (2006). "Introduction". In Dickens, Charles (ed.). A Christmas Carol and other Christmas Books. Oxford: Oxford University Press. pp. vii–xxix. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-920474-8" title="Special:BookSources/978-0-19-920474-8">978-0-19-920474-8</ref>.</p>
+<p>Garry, Jane; El Shamy, Hasan (2005). <ref class="external text" href="https://books.google.com/books?id=Cn6pWMverBIC&pg=PP1" rel="nofollow">Archetypes and Motifs in Folklore and Literature</ref>. Armonk, NY: M.E. Sharpe. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7656-2953-1" title="Special:BookSources/978-0-7656-2953-1">978-0-7656-2953-1</ref>.</p>
+<p>Glancy, Ruth F. (1985). Dickens' Christmas Books, Christmas Stories, and Other Short Fiction. Michigan: Garland. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-8240-8988-7" title="Special:BookSources/978-0-8240-8988-7">978-0-8240-8988-7</ref>.</p>
+<p>Hammond, R. A. (1871). <ref class="external text" href="https://books.google.com/books?id=_6gqAAAAMAAJ&pg=PP1" rel="nofollow">The Life and Writings of Charles Dickens: A Memorial Volume</ref>. Toronto: Maclear & Company.</p>
+<p>Harrison, Mary-Catherine (2008). <ref class="external text" href="https://books.google.com/books?id=sblHJnMGUA8C&pg=PP1" rel="nofollow">Sentimental Realism: Poverty and the Ethics of Empathy, 1832–1867</ref> (Thesis). Ann Arbor, MI: ProQuest. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-549-51095-6" title="Special:BookSources/978-0-549-51095-6">978-0-549-51095-6</ref>.</p>
+<ref target="/wiki/William_Dean_Howells" title="William Dean Howells">Howells, William Dean</ref> (1910). <ref class="external text" href="https://archive.org/stream/my00howeliterarypassiorich#page/n7" rel="nofollow">My literary passions, criticism and fiction</ref>. New York and London: Harper & Brother. p. 2986994. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-77667-633-0" title="Special:BookSources/978-1-77667-633-0">978-1-77667-633-0</ref>.
+<ref target="/wiki/Ronald_Hutton" title="Ronald Hutton">Hutton, Ronald</ref> (1996). <ref class="external text" href="https://books.google.com/books?id=t-P24jQyfP0C&pg=PP1" rel="nofollow">Stations of the Sun: The Ritual Year in England</ref>. Oxford: Oxford University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-285448-3" title="Special:BookSources/978-0-19-285448-3">978-0-19-285448-3</ref>.
+<p>Jordan, Christine (2015). <ref class="external text" href="https://books.google.com/books?id=tuYgCwAAQBAJ&pg=PP1" rel="nofollow">Secret Gloucester</ref>. Stroud, Glos: Amberley Publishing. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-4456-4689-3" title="Special:BookSources/978-1-4456-4689-3">978-1-4456-4689-3</ref>.</p>
+<p>Jordan, John O. (2001). <ref class="external text" href="https://books.google.com/books?id=wPe7uCbGvPUC&pg=PP1" rel="nofollow">The Cambridge Companion to Charles Dickens</ref>. Cambridge: Cambridge University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-521-66964-1" title="Special:BookSources/978-0-521-66964-1">978-0-521-66964-1</ref>.</p>
+<p>Slater, Michael (2003). "Introduction". In Dickens, Charles (ed.). <ref class="external text" href="https://archive.org/details/christmascarolot00dick_0/page/" rel="nofollow">A Christmas Carol and other Christmas Writings</ref>. London: Penguin Books. pp. xi–xxviii. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-14-043905-2" title="Special:BookSources/978-0-14-043905-2">978-0-14-043905-2</ref>.</p>
+<p>Forbes, Bruce David (2008). <ref class="external text" href="https://books.google.com/books?id=DqmlzjMYMRAC&pg=PP1" rel="nofollow">Christmas: A Candid History</ref>. Oakland, CA: University of California Press. p. 62. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-520-25802-0" title="Special:BookSources/978-0-520-25802-0">978-0-520-25802-0</ref>.</p>
+<p>Glancy, Ruth F. (1985). Dickens' Christmas Books, Christmas Stories, and Other Short Fiction. Michigan: Garland. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-8240-8988-7" title="Special:BookSources/978-0-8240-8988-7">978-0-8240-8988-7</ref>.</p>
+<p>Harrison, Mary-Catherine (2008). <ref class="external text" href="https://books.google.com/books?id=sblHJnMGUA8C&pg=PP1" rel="nofollow">Sentimental Realism: Poverty and the Ethics of Empathy, 1832–1867</ref> (Thesis). Ann Arbor, MI: ProQuest. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-549-51095-6" title="Special:BookSources/978-0-549-51095-6">978-0-549-51095-6</ref>.</p>
+<ref target="/wiki/Ronald_Hutton" title="Ronald Hutton">Hutton, Ronald</ref> (1996). <ref class="external text" href="https://books.google.com/books?id=t-P24jQyfP0C&pg=PP1" rel="nofollow">Stations of the Sun: The Ritual Year in England</ref>. Oxford: Oxford University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-285448-3" title="Special:BookSources/978-0-19-285448-3">978-0-19-285448-3</ref>.
+<p>Kelly, Richard Michael (2003). "Introduction". In Dickens, Charles (ed.). <ref class="external text" href="https://books.google.com/books?id=APL1OY2t3JgC&pg=PA9" rel="nofollow">A Christmas Carol</ref>. Ontario: Broadway Press. pp. 9–30. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-55111-476-7" title="Special:BookSources/978-1-55111-476-7">978-1-55111-476-7</ref>.</p>
+<p>Ledger, Sally (2007). <ref class="external text" href="https://books.google.com/books?id=EtrJ9LOzIwwC&pg=PP1" rel="nofollow">Dickens and the Popular Radical Imagination</ref>. Cambridge: Cambridge University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-521-84577-9" title="Special:BookSources/978-0-521-84577-9">978-0-521-84577-9</ref>.</p>
+<p>Moore, Grace (2011). <ref class="external text" href="https://books.google.com/books?id=lfmqz6ybAVEC&pg=PP1" rel="nofollow">Charles Dickens' A Christmas Carol</ref>. St Kilda, VIC: Insight Publications. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-921411-91-5" title="Special:BookSources/978-1-921411-91-5">978-1-921411-91-5</ref>.</p>
+<p>Restad, Penne L. (1996). <ref class="external text" href="https://books.google.com/books?id=0pnJDKfYi3QC&pg=PP1" rel="nofollow">Christmas in America: a History</ref>. Oxford: Oxford University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-19-510980-1" title="Special:BookSources/978-0-19-510980-1">978-0-19-510980-1</ref>.</p>
+<p>Sillence, Rebecca (2015). <ref class="external text" href="https://books.google.com/books?id=bWnGCQAAQBAJ&pg=PP1" rel="nofollow">Gloucester History Tour</ref>. Stroud, Glos: Amberley Publishing. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-4456-4859-0" title="Special:BookSources/978-1-4456-4859-0">978-1-4456-4859-0</ref>.</p>
+<p>Slater, Michael (2009). <ref class="external text" href="https://books.google.com/books?id=GPHkiefalPUC&pg=PP1" rel="nofollow">Charles Dickens</ref>. New Haven, CT and London: Yale University Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-300-16552-4" title="Special:BookSources/978-0-300-16552-4">978-0-300-16552-4</ref>.</p>
+<p>Standiford, Les (2008). <ref class="external text" href="https://archive.org/details/manwhoinventedch0000stan" rel="nofollow">The Man Who Invented Christmas: How Charles Dickens's A Christmas Carol Rescued His Career and Revived Our Holiday Spirits</ref>. New York: Crown. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-307-40578-4" title="Special:BookSources/978-0-307-40578-4">978-0-307-40578-4</ref>.</p>
+<ref target="/wiki/William_Studwell" title="William Studwell">Studwell, William Emmett</ref>; Jones, Dorothy E. (1998). <ref class="external text" href="https://books.google.com/books?id=Ae7mH0jR_k4C&pg=PP1" rel="nofollow">Publishing Glad Tidings: Essays on Christmas Music</ref>. Binghampton, NY: The Haworth Press. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-7890-0398-0" title="Special:BookSources/978-0-7890-0398-0">978-0-7890-0398-0</ref>.
+<ref target="/wiki/Claire_Tomalin" title="Claire Tomalin">Tomalin, Claire</ref> (2011). Charles Dickens: A Life. London: Penguin Books. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-0-670-91767-9" title="Special:BookSources/978-0-670-91767-9">978-0-670-91767-9</ref>.
+<p>Welch, Bob (2015). <ref class="external text" href="https://books.google.com/books?id=vh-MBQAAQBAJ&pg=PP1" rel="nofollow">52 Little Lessons from a Christmas Carol</ref>. Nashville, TN: Thomas Nelson. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1-4002-0675-9" title="Special:BookSources/978-1-4002-0675-9">978-1-4002-0675-9</ref>.</p>
+
+<h3>Online resources[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=23" title="Edit section: Online resources">edit</ref>]</h3>
+
+<ref class="external text" href="http://genome.ch.bbc.co.uk/f8a47638c2584fd396b9275f5c6b2e29" rel="nofollow">"A Christmas Carol"</ref>. The Radio Times (12): 23. 14 December 1923. Retrieved 10 January 2017.
+<ref class="external text" href="https://www.worldcat.org/search?q=ti%3AA+Christmas+Carol&qt=results_page" rel="nofollow">"A Christmas Carol"</ref>. WorldCat. Retrieved 11 January 2017.
+<p>Davidson, Ewan. <ref class="external text" href="http://www.screenonline.org.uk/film/id/698299/index.html" rel="nofollow">"Scrooge, or, Marley's Ghost (1901)"</ref>. <ref target="/wiki/Screenonline" title="Screenonline">Screenonline</ref>. British Film Institute. Retrieved 10 January 2017.</p>
+<p>Elwell, Frank W. (2 November 2001). <ref class="external text" href="https://web.archive.org/web/20170324221035/http://www.faculty.rsu.edu/users/f/felwell/www/Theorists/Malthus/reclaim.htm" rel="nofollow">"Reclaiming Malthus"</ref>. Rogers State University. Archived from <ref class="external text" href="http://www.faculty.rsu.edu/users/f/felwell/www/Theorists/Malthus/reclaim.htm" rel="nofollow">the original</ref> on 24 March 2017. Retrieved 13 January 2017.</p>
+<p>Lalumia, Christine (12 December 2001). <ref class="external text" href="http://www.historytoday.com/christine-lalumia/scrooge-and-albert" rel="nofollow">"Scrooge and Albert"</ref>. History Today. Retrieved 5 January 2017.</p>
+<p>Lee, Imogen. <ref class="external text" href="http://www.bl.uk/romantics-and-victorians/articles/ragged-schools" rel="nofollow">"Ragged Schools"</ref>. British Library. Retrieved 8 January 2017.</p>
+<p>Martin, Katherine Connor (19 December 2011). <ref class="external text" href="http://blog.oxforddictionaries.com/2011/12/what-makes-christmas-merry/" rel="nofollow">"merry, adj"</ref>. <ref target="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</ref>. Retrieved 16 January 2017. (subscription required)</p>
+<ref class="external text" href="http://www.themorgan.org/collections/works/dickens/provenance" rel="nofollow">"Provenance"</ref>. The Morgan Library & Museum. 20 November 2013. Retrieved 9 January 2017.
+<ref target="/wiki/Geoffrey_Rowell" title="Geoffrey Rowell">Rowell, Geoffrey</ref> (12 December 1993). <ref class="external text" href="http://www.historytoday.com/geoffrey-rowell/dickens-and-construction-christmas" rel="nofollow">"Dickens and the Construction of Christmas"</ref>. History Today. Retrieved 3 January 2017.
+<ref class="external text" href="http://www.oed.com/view/Entry/173667?redirectedFrom=scrooge#eid" rel="nofollow">"Scrooge, n"</ref>. Oxford English Dictionary. Retrieved 16 January 2017. (subscription required)
+<ref target="/wiki/John_Sutherland_(author)" title="John Sutherland (author)">Sutherland, John</ref>. <ref class="external text" href="http://www.bl.uk/romantics-and-victorians/articles/the-origins-of-a-christmas-carol" rel="nofollow">"The Origins of A Christmas Carol"</ref>. British Library. Retrieved 3 January 2017.
+<p>Varese, Jon Michael (22 December 2009). <ref class="external text" href="https://www.theguardian.com/books/booksblog/2009/dec/22/christmas-carol-flop-dickens" rel="nofollow">"Why A Christmas Carol was a flop for Dickens"</ref>. The Guardian. Retrieved 10 January 2017.</p>
+<ref target="/wiki/Consumer_Price_Index_(United_Kingdom)" title="Consumer Price Index (United Kingdom)">UK CPI</ref> inflation numbers based on data available from Gregory Clark (2016). <ref class="external text" href="https://measuringworth.com/ukearncpi/" rel="nofollow">"The Annual RPI and Average Earnings for Britain, 1209 to Present (New Series)"</ref>. MeasuringWorth. Retrieved 16 November 2016.
+
+<h3>Newspapers, journals and magazines[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=24" title="Edit section: Newspapers, journals and magazines">edit</ref>]</h3>
+
+<p>Alleyne, Richard (24 December 2007). <ref class="external text" href="https://www.telegraph.co.uk/news/uknews/1573589/Real-Scrooge-was-Dutch-gravedigger.html" rel="nofollow">"Real Scrooge 'was Dutch gravedigger'"</ref>. The Daily Telegraph.</p>
+<ref class="external text" href="https://www.nytimes.com/1863/12/19/news/charles-dickens-works-charles-dickens-household-edition-illustrated-drawings-fo.html" rel="nofollow">"Charles Dickens; Works of Charles Dickens. Household Edition"</ref>. The New York Times. 19 December 1863.
+<ref class="mw-redirect" href="/wiki/H._F._Chorley" title="H. F. Chorley">Chorley, H. F.</ref> (23 December 1843). "A Christmas Carol". The Athenaeum (843): 1127–1128.
+<p>"Christmas Carol". The New Monthly Magazine. 70 (277): 148–149. January 1844.</p>
+<p>Davis, Paul (Winter 1990b). "Literary History: Retelling A Christmas Carol: Text and Culture-Text". The American Scholar. 59 (1): 109–15. <ref target="/wiki/JSTOR" title="JSTOR">JSTOR</ref> <ref class="external text" href="//www.jstor.org/stable/41211762" rel="nofollow">41211762</ref>.</p>
+<p>Gordon, Alexander (2008). <ref class="external text" href="http://www.oxforddnb.com/index/8/101008776/" rel="nofollow">"Elwes, John (1714–1789)"</ref>. Oxford Dictionary of National Biography. <ref target="/wiki/Digital_object_identifier" title="Digital object identifier">doi</ref>:<ref class="external text" href="//doi.org/10.1093%2Fref%3Aodnb%2F8776" rel="nofollow">10.1093/ref:odnb/8776</ref>. Retrieved 13 January 2016. (subscription or <ref class="external text" href="http://www.oxforddnb.com/help/subscribe#public" rel="nofollow">UK public library membership</ref> required)</p>
+<ref target="/wiki/Thomas_Hood" title="Thomas Hood">Hood, Thomas</ref> (January 1844). <ref class="external text" href="https://books.google.co.uk/books?id=BZAlAAAAMAAJ&printsec=frontcover" rel="nofollow">"A Christmas Carol"</ref>. Hood's Magazine. 1 (1): 68–75.
+<p>Jackson, Crispin (December 1999). "Charles Dickens, Christmas Books and Stories". The Book and Magazine Collector (189).</p>
+<p>Jaffe, Audrey (March 1994). "Spectacular Sympathy: Visuality and Ideology in Dickens's A Christmas Carol". PMLA. 109 (2): 254–265. <ref target="/wiki/JSTOR" title="JSTOR">JSTOR</ref> <ref class="external text" href="//www.jstor.org/stable/463120" rel="nofollow">463120</ref>.</p>
+<ref class="external text" href="https://babel.hathitrust.org/cgi/pt?id=chi.60765486;view=1up;seq=436;size=200" rel="nofollow">"Literature"</ref>. The Illustrated London News (86). 23 December 1843.
+<ref target="/wiki/Theodore_Martin" title="Theodore Martin">Martin, Theodore</ref> (February 1844). "Bon Gaultier and his Friends". Tait's Edinburgh Magazine. 11 (2): 119–131.
+<p>"Notice of Books". The Christian Remembrancer. 7 (37): 113–121. January 1844.</p>
+<p>Sable, Martin H. (Autumn 1986). "The Day of Atonement in Charles Dickens' 'A Christmas Carol'". Tradition: A Journal of Orthodox Jewish Thought. 22 (3): 66–76. <ref target="/wiki/JSTOR" title="JSTOR">JSTOR</ref> <ref class="external text" href="//www.jstor.org/stable/23260495" rel="nofollow">23260495</ref>.</p>
+<ref target="/wiki/Nassau_William_Senior" title="Nassau William Senior">Senior, Nassau William</ref> (June 1844). "Spirit of the Age". The Westminster Review. 41 (81): 176–192.
+<p>Slater, Michael (2011). <ref class="external text" href="http://www.oxforddnb.com/index/7/101007599/" rel="nofollow">"Dickens, Charles John Huffam (1812–1870)"</ref>. Oxford Dictionary of National Biography. <ref target="/wiki/Digital_object_identifier" title="Digital object identifier">doi</ref>:<ref class="external text" href="//doi.org/10.1093%2Fref%3Aodnb%2F7599" rel="nofollow">10.1093/ref:odnb/7599</ref>. Retrieved 3 January 2016. (subscription or <ref class="external text" href="http://www.oxforddnb.com/help/subscribe#public" rel="nofollow">UK public library membership</ref> required)</p>
+<ref target="/wiki/William_Makepeace_Thackeray" title="William Makepeace Thackeray">Thackeray, William Makepeace</ref> (February 1844). "A Box of Novels". Fraser's Magazine. 29 (170): 153–169.
+
+<h2>External links[<ref target="/w/index.php?title=A_Christmas_Carol&action=edit&section=25" title="Edit section: External links">edit</ref>]</h2>
+
+
+
+<p>Wikiquote has quotations related to: <ref class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/A_Christmas_Carol" title="q:Special:Search/A Christmas Carol">A Christmas Carol</ref></p>
+
+
+
+
+<ref target="/wiki/Wikisource" title="Wikisource">Wikisource</ref> has original text related to this article:
+<ref class="extiw" href="https://en.wikisource.org/wiki/A_Christmas_Carol_(Dickens)" title="wikisource:A Christmas Carol (Dickens)">A Christmas Carol</ref>
+
+
+
+
+<p>Wikimedia Commons has media related to <ref class="extiw" href="https://commons.wikimedia.org/wiki/Special:Search/A_Christmas_Carol" title="commons:Special:Search/A Christmas Carol">A Christmas Carol</ref>.</p>
+
+<ref class="external text" href="http://www.themorgan.org/collections/works/dickens/ChristmasCarol/1" rel="nofollow">A Christmas Carol original manuscript facsimile</ref> at <ref class="mw-redirect" href="/wiki/Morgan_Library" title="Morgan Library">Morgan Library</ref> with transcription and audio
+<ref class="external text" href="https://archive.org/stream/christmascarolin20dick#page/n17/mode/2up" rel="nofollow">A Christmas Carol</ref> at <ref target="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</ref>
+<ref class="external text" href="http://www.ibiblio.org/ebooks/Dickens/Carol/Dickens_Carol.htm" rel="nofollow">A Christmas Carol</ref> e-book with illustrations
+<ref class="external text" href="http://www.gutenberg.org/ebooks/46" rel="nofollow">A Christmas Carol</ref> Project Gutenberg free online book
+ <ref class="external text" href="https://librivox.org/search?title=A+Christmas+Carol&author=Dickens&reader=&keywords=&genre_id=0&status=all&project_type=either&recorded_language=&sort_order=catalog_date&search_page=1&search_form=advanced" rel="nofollow">A Christmas Carol</ref> public domain audiobook at <ref target="/wiki/LibriVox" title="LibriVox">LibriVox</ref>
+<ref class="external text" href="http://edsitement.neh.gov/curriculum-unit/using-textual-clues-understand-christmas-carol" rel="nofollow">Using Textual Clues to Understand A Christmas Carol</ref>
+<ref target="/wiki/Template:A_Christmas_Carol" title="Template:A Christmas Carol">v</ref><ref target="/wiki/Template_talk:A_Christmas_Carol" title="Template talk:A Christmas Carol">t</ref><ref class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:A_Christmas_Carol&action=edit">e</ref><ref target="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</ref>' <ref class="mw-selflink selflink">A Christmas Carol</ref>Characters
+<ref target="/wiki/Ebenezer_Scrooge" title="Ebenezer Scrooge">Ebenezer Scrooge</ref>
+<ref target="/wiki/Bob_Cratchit" title="Bob Cratchit">Bob Cratchit</ref>
+<ref target="/wiki/Mr._Fezziwig" title="Mr. Fezziwig">Mr. Fezziwig</ref>
+<ref target="/wiki/Ghost_of_Christmas_Past" title="Ghost of Christmas Past">Ghost of Christmas Past</ref>
+<ref target="/wiki/Ghost_of_Christmas_Present" title="Ghost of Christmas Present">Ghost of Christmas Present</ref>
+<ref target="/wiki/Ghost_of_Christmas_Yet_to_Come" title="Ghost of Christmas Yet to Come">Ghost of Christmas Yet to Come</ref>
+<ref target="/wiki/Jacob_Marley" title="Jacob Marley">Jacob Marley</ref>
+<ref target="/wiki/Tiny_Tim_(A_Christmas_Carol)" title="Tiny Tim (A Christmas Carol)">Tiny Tim</ref>
+<p>Films</p>
+<ref target="/wiki/Scrooge,_or,_Marley%27s_Ghost" title="Scrooge, or, Marley's Ghost">Scrooge, or, Marley's Ghost</ref> (1901)
+<ref target="/wiki/A_Christmas_Carol_(1908_film)" title="A Christmas Carol (1908 film)">A Christmas Carol</ref> (1908)
+<ref target="/wiki/A_Christmas_Carol_(1910_film)" title="A Christmas Carol (1910 film)">A Christmas Carol</ref> (1910)
+<ref target="/wiki/Scrooge_(1913_film)" title="Scrooge (1913 film)">Scrooge</ref> (1913)
+<ref target="/wiki/Scrooge_(1935_film)" title="Scrooge (1935 film)">Scrooge</ref> (1935)
+<ref target="/wiki/A_Christmas_Carol_(1938_film)" title="A Christmas Carol (1938 film)">A Christmas Carol</ref> (1938)
+<ref target="/wiki/Scrooge_(1951_film)" title="Scrooge (1951 film)">Scrooge</ref> (1951)
+<ref target="/wiki/It%27s_Never_Too_Late_(1953_film)" title="It's Never Too Late (1953 film)">It's Never Too Late</ref> (1953)
+<ref target="/wiki/A_Christmas_Carol_(1960_film)" title="A Christmas Carol (1960 film)">A Christmas Carol</ref> (1960)
+<ref target="/wiki/Scrooge_(1970_film)" title="Scrooge (1970 film)">Scrooge</ref> (1970)
+<ref target="/wiki/A_Christmas_Carol_(TV_special)" title="A Christmas Carol (TV special)">A Christmas Carol</ref> (1971)
+<ref target="/wiki/An_American_Christmas_Carol" title="An American Christmas Carol">An American Christmas Carol</ref> (1979)
+<ref target="/wiki/Mickey%27s_Christmas_Carol" title="Mickey's Christmas Carol">Mickey's Christmas Carol</ref> (1983)
+<ref target="/wiki/Scrooged" title="Scrooged">Scrooged</ref> (1988)
+<ref target="/wiki/The_Muppet_Christmas_Carol" title="The Muppet Christmas Carol">The Muppet Christmas Carol</ref> (1992)
+<ref target="/wiki/A_Christmas_Carol_(1997_film)" title="A Christmas Carol (1997 film)">A Christmas Carol</ref> (1997)
+<ref target="/wiki/A_Diva%27s_Christmas_Carol" title="A Diva's Christmas Carol">A Diva's Christmas Carol</ref> (2000)
+<ref target="/wiki/Christmas_Carol:_The_Movie" title="Christmas Carol: The Movie">Christmas Carol: The Movie</ref> (2001)
+<ref target="/wiki/A_Carol_Christmas" title="A Carol Christmas">A Carol Christmas</ref> (2003)
+<ref target="/wiki/Springtime_with_Roo" title="Springtime with Roo">Springtime with Roo</ref> (2004)
+<ref target="/wiki/Chasing_Christmas" title="Chasing Christmas">Chasing Christmas</ref> (2005)
+<ref target="/wiki/A_Christmas_Carol_(2006_film)" title="A Christmas Carol (2006 film)">A Christmas Carol</ref> (2006)
+<ref target="/wiki/A_Dennis_the_Menace_Christmas" title="A Dennis the Menace Christmas">A Dennis the Menace Christmas</ref> (2007)
+<ref target="/wiki/An_American_Carol" title="An American Carol">An American Carol</ref> (2008)
+<ref target="/wiki/Ghosts_of_Girlfriends_Past" title="Ghosts of Girlfriends Past">Ghosts of Girlfriends Past</ref> (2009)
+<ref target="/wiki/A_Christmas_Carol_(2009_film)" title="A Christmas Carol (2009 film)">A Christmas Carol</ref> (2009)
+<ref target="/wiki/The_Smurfs:_A_Christmas_Carol" title="The Smurfs: A Christmas Carol">The Smurfs: A Christmas Carol</ref> (2011)
+<p>Television</p>
+<ref target="/wiki/The_Christmas_Carol" title="The Christmas Carol">The Christmas Carol</ref> (1949)
+<ref target="/wiki/A_Christmas_Carol_(Shower_of_Stars)" title="A Christmas Carol (Shower of Stars)">A Christmas Carol</ref> (1954)
+<ref target="/wiki/Mister_Magoo%27s_Christmas_Carol" title="Mister Magoo's Christmas Carol">Mister Magoo's Christmas Carol</ref> (1962)
+<ref target="/wiki/A_Carol_for_Another_Christmas" title="A Carol for Another Christmas">A Carol for Another Christmas</ref> (1964)
+<ref target="/wiki/A_Special_Sesame_Street_Christmas" title="A Special Sesame Street Christmas">A Special Sesame Street Christmas</ref> (1978)
+<ref target="/wiki/The_Stingiest_Man_in_Town" title="The Stingiest Man in Town">The Stingiest Man in Town</ref> (1978)
+<ref target="/wiki/Bugs_Bunny%27s_Christmas_Carol" title="Bugs Bunny's Christmas Carol">Bugs Bunny's Christmas Carol</ref> (1979)
+<ref target="/wiki/Rich_Little%27s_Christmas_Carol" title="Rich Little's Christmas Carol">Rich Little's Christmas Carol</ref> (1979)
+<ref target="/wiki/A_Christmas_Carol_(1982_film)" title="A Christmas Carol (1982 film)">A Christmas Carol</ref> (1982)
+<ref target="/wiki/A_Christmas_Carol_(1984_film)" title="A Christmas Carol (1984 film)">A Christmas Carol</ref> (1984)
+<ref target="/wiki/John_Grin%27s_Christmas" title="John Grin's Christmas">John Grin's Christmas</ref> (1986)
+<ref target="/wiki/Blackadder%27s_Christmas_Carol" title="Blackadder's Christmas Carol">Blackadder's Christmas Carol</ref> (1988)
+<ref target="/wiki/A_Flintstones_Christmas_Carol" title="A Flintstones Christmas Carol">A Flintstones Christmas Carol</ref> (1994)
+<ref target="/wiki/Ebbie" title="Ebbie">Ebbie</ref> (1995)
+<ref target="/wiki/An_All_Dogs_Christmas_Carol" title="An All Dogs Christmas Carol">An All Dogs Christmas Carol</ref> (1998)
+<ref target="/wiki/Ebenezer_(film)" title="Ebenezer (film)">Ebenezer</ref> (1998)
+<ref target="/wiki/A_Christmas_Carol_(1999_film)" title="A Christmas Carol (1999 film)">A Christmas Carol</ref> (1999)
+<ref target="/wiki/A_Christmas_Carol_(2000_film)" title="A Christmas Carol (2000 film)">A Christmas Carol</ref> (2000)
+<ref target="/wiki/A_Christmas_Carol_(2004_film)" title="A Christmas Carol (2004 film)">A Christmas Carol</ref> (2004)
+<ref class="mw-redirect" href="/wiki/An_Easter_Carol" title="An Easter Carol">An Easter Carol</ref> (2004)
+<ref target="/wiki/Karroll%27s_Christmas" title="Karroll's Christmas">Karroll's Christmas</ref> (2004)
+<ref target="/wiki/Bah,_Humduck!_A_Looney_Tunes_Christmas" title="Bah, Humduck! A Looney Tunes Christmas">Bah, Humduck! A Looney Tunes Christmas</ref> (2006)
+<ref target="/wiki/Nan%27s_Christmas_Carol" title="Nan's Christmas Carol">Nan's Christmas Carol</ref> (2009)
+<p>"<ref target="/wiki/A_Christmas_Carol_(Doctor_Who)" title="A Christmas Carol (Doctor Who)">A Christmas Carol</ref>" (Doctor Who) (2010)</p>
+<ref target="/wiki/It%27s_Christmas,_Carol!" title="It's Christmas, Carol!">It's Christmas, Carol!</ref> (2012)
+<ref target="/wiki/Kelly_Clarkson%27s_Cautionary_Christmas_Music_Tale" title="Kelly Clarkson's Cautionary Christmas Music Tale">Kelly Clarkson's Cautionary Christmas Music Tale</ref> (2013)
+<ref target="/wiki/A_Christmas_Carol_(miniseries)" title="A Christmas Carol (miniseries)">A Christmas Carol</ref> (2019)
+<p>Musicals</p>
+<ref target="/wiki/Scrooge_(musical)" title="Scrooge (musical)">Scrooge</ref> (1992)
+<ref target="/wiki/A_Christmas_Carol_(musical)" title="A Christmas Carol (musical)">A Christmas Carol</ref> (1994)
+<ref target="/wiki/Mrs._Bob_Cratchit%27s_Wild_Christmas_Binge" title="Mrs. Bob Cratchit's Wild Christmas Binge">Mrs. Bob Cratchit's Wild Christmas Binge</ref> (2002)
+<p>Plays</p>
+<ref target="/wiki/A_Christmas_Carol_(play)" title="A Christmas Carol (play)">A Christmas Carol</ref> (1988)
+<ref target="/wiki/Fellow_Passengers" title="Fellow Passengers">Fellow Passengers</ref> (2004)
+<ref target="/wiki/A_Klingon_Christmas_Carol" title="A Klingon Christmas Carol">A Klingon Christmas Carol</ref> (2007)
+<p>Soundtracks</p>
+<ref target="/wiki/A_Christmas_Carol_(soundtrack)" title="A Christmas Carol (soundtrack)">A Christmas Carol</ref> (2009)
+<ref target="/wiki/Doctor_Who:_A_Christmas_Carol_(soundtrack)" title="Doctor Who: A Christmas Carol (soundtrack)">Doctor Who: A Christmas Carol</ref> (2011)
+<p>Other</p>
+<ref target="/wiki/Adaptations_of_A_Christmas_Carol" title="Adaptations of A Christmas Carol">Adaptations of A Christmas Carol</ref>
+<ref target="/wiki/Batman:_No%C3%ABl" title="Batman: Noël">Batman: Noël</ref> (comic)
+<p>"<ref target="/wiki/Green_Christmas_(Stan_Freberg_song)" title="Green Christmas (Stan Freberg song)">Green Chri$tma$</ref>" (single)</p>
+<ref target="/wiki/The_Misadventures_of_the_Wholesome_Twins" title="The Misadventures of the Wholesome Twins">The Misadventures of the Wholesome Twins</ref>
+<ref target="/wiki/The_Man_Who_Invented_Christmas_(film)" title="The Man Who Invented Christmas (film)">The Man Who Invented Christmas</ref>
+
+<ref target="/wiki/Template:Charles_Dickens" title="Template:Charles Dickens">v</ref><ref target="/wiki/Template_talk:Charles_Dickens" title="Template talk:Charles Dickens">t</ref><ref class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Charles_Dickens&action=edit">e</ref><ref target="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</ref>
+<ref target="/wiki/Charles_Dickens_bibliography" title="Charles Dickens bibliography">Bibliography</ref>
+<p>Novels</p>
+<ref target="/wiki/The_Pickwick_Papers" title="The Pickwick Papers">The Pickwick Papers</ref>
+<ref target="/wiki/Oliver_Twist" title="Oliver Twist">Oliver Twist</ref>
+<ref target="/wiki/Nicholas_Nickleby" title="Nicholas Nickleby">Nicholas Nickleby</ref>
+<ref target="/wiki/The_Old_Curiosity_Shop" title="The Old Curiosity Shop">The Old Curiosity Shop</ref>
+<ref target="/wiki/Barnaby_Rudge" title="Barnaby Rudge">Barnaby Rudge</ref>
+<ref target="/wiki/Martin_Chuzzlewit" title="Martin Chuzzlewit">Martin Chuzzlewit</ref>
+<ref target="/wiki/Dombey_and_Son" title="Dombey and Son">Dombey and Son</ref>
+<ref target="/wiki/David_Copperfield" title="David Copperfield">David Copperfield</ref>
+<ref target="/wiki/Bleak_House" title="Bleak House">Bleak House</ref>
+<ref target="/wiki/Hard_Times_(novel)" title="Hard Times (novel)">Hard Times</ref>
+<ref target="/wiki/Little_Dorrit" title="Little Dorrit">Little Dorrit</ref>
+<ref target="/wiki/A_Tale_of_Two_Cities" title="A Tale of Two Cities">A Tale of Two Cities</ref>
+<ref target="/wiki/Great_Expectations" title="Great Expectations">Great Expectations</ref>
+<ref target="/wiki/Our_Mutual_Friend" title="Our Mutual Friend">Our Mutual Friend</ref>
+<ref target="/wiki/The_Mystery_of_Edwin_Drood" title="The Mystery of Edwin Drood">The Mystery of Edwin Drood</ref>
+<p>Christmas books</p>
+<ref class="mw-selflink selflink">A Christmas Carol</ref>
+<ref target="/wiki/The_Chimes" title="The Chimes">The Chimes</ref>
+<ref target="/wiki/The_Cricket_on_the_Hearth" title="The Cricket on the Hearth">The Cricket on the Hearth</ref>
+<ref target="/wiki/The_Battle_of_Life" title="The Battle of Life">The Battle of Life</ref>
+<ref target="/wiki/The_Haunted_Man_and_the_Ghost%27s_Bargain" title="The Haunted Man and the Ghost's Bargain">The Haunted Man and the Ghost's Bargain</ref>
+<p>Short stories</p>
+<p>"<ref target="/wiki/The_Long_Voyage" title="The Long Voyage">The Long Voyage</ref>"</p>
+<p>"<ref target="/wiki/The_Signal-Man" title="The Signal-Man">The Signal-Man</ref>"</p>
+<p>Short story collections</p>
+<ref target="/wiki/Sketches_by_Boz" title="Sketches by Boz">Sketches by Boz</ref>
+<ref target="/wiki/The_Mudfog_Papers" title="The Mudfog Papers">The Mudfog Papers</ref>
+<ref target="/wiki/Master_Humphrey%27s_Clock" title="Master Humphrey's Clock">Master Humphrey's Clock</ref>
+<p>Non-fiction</p>
+<ref target="/wiki/American_Notes" title="American Notes">American Notes</ref>
+<ref target="/wiki/Pictures_from_Italy" title="Pictures from Italy">Pictures from Italy</ref>
+<ref target="/wiki/The_Life_of_Our_Lord" title="The Life of Our Lord">The Life of Our Lord</ref>
+<ref target="/wiki/A_Child%27s_History_of_England" title="A Child's History of England">A Child's History of England</ref>
+<ref target="/wiki/The_Uncommercial_Traveller" title="The Uncommercial Traveller">The Uncommercial Traveller</ref>
+<ref target="/wiki/Letters_of_Charles_Dickens" title="Letters of Charles Dickens">Letters</ref>
+<p>Plays</p>
+<ref target="/wiki/The_Frozen_Deep" title="The Frozen Deep">The Frozen Deep</ref>
+<ref target="/wiki/No_Thoroughfare" title="No Thoroughfare">No Thoroughfare: A Drama: In Five Acts</ref>
+<p>Journalism</p>
+<ref target="/wiki/Bentley%27s_Miscellany" title="Bentley's Miscellany">Bentley's Miscellany</ref>
+<ref target="/wiki/Master_Humphrey%27s_Clock" title="Master Humphrey's Clock">Master Humphrey's Clock</ref>
+<ref target="/wiki/The_Daily_News_(UK)" title="The Daily News (UK)">The Daily News</ref>
+<ref target="/wiki/Household_Words" title="Household Words">Household Words</ref>
+<ref target="/wiki/All_the_Year_Round" title="All the Year Round">All the Year Round</ref>
+<p>Collaborations</p>
+<p>"<ref target="/wiki/A_House_to_Let" title="A House to Let">A House to Let</ref>"</p>
+<p>"<ref target="/wiki/The_Haunted_House_(story)" title="The Haunted House (story)">The Haunted House</ref>"</p>
+<p>"<ref target="/wiki/A_Message_from_the_Sea" title="A Message from the Sea">A Message from the Sea</ref>"</p>
+<p>"<ref target="/wiki/Mugby_Junction" title="Mugby Junction">Mugby Junction</ref>"</p>
+<ref target="/wiki/No_Thoroughfare" title="No Thoroughfare">No Thoroughfare</ref>
+<ref target="/wiki/Dickens_family" title="Dickens family">Family</ref>Parents
+<ref target="/wiki/John_Dickens" title="John Dickens">John Dickens</ref>
+<ref target="/wiki/Elizabeth_Dickens" title="Elizabeth Dickens">Elizabeth Dickens</ref>
+<p>Partners</p>
+<ref target="/wiki/Catherine_Dickens" title="Catherine Dickens">Catherine Dickens (wife)</ref>
+<ref target="/wiki/Ellen_Ternan" title="Ellen Ternan">Ellen Ternan (mistress)</ref>
+<p>Children</p>
+<ref target="/wiki/Charles_Dickens_Jr." title="Charles Dickens Jr.">Charles Dickens Jr.</ref>
+<ref target="/wiki/Mary_Dickens" title="Mary Dickens">Mary Dickens</ref>
+<ref target="/wiki/Kate_Perugini" title="Kate Perugini">Kate Perugini</ref>
+<ref target="/wiki/Walter_Landor_Dickens" title="Walter Landor Dickens">Walter Landor Dickens</ref>
+<ref target="/wiki/Francis_Dickens" title="Francis Dickens">Francis Dickens</ref>
+<ref target="/wiki/Alfred_D%27Orsay_Tennyson_Dickens" title="Alfred D'Orsay Tennyson Dickens">Alfred D'Orsay Tennyson Dickens</ref>
+<ref target="/wiki/Sydney_Smith_Haldimand_Dickens" title="Sydney Smith Haldimand Dickens">Sydney Smith Haldimand Dickens</ref>
+<ref target="/wiki/Henry_Fielding_Dickens" title="Henry Fielding Dickens">Henry Fielding Dickens</ref>
+<ref target="/wiki/Dora_Annie_Dickens" title="Dora Annie Dickens">Dora Annie Dickens</ref>
+<ref target="/wiki/Edward_Dickens" title="Edward Dickens">Edward Dickens</ref>
+<p>Related</p>
+<ref target="/wiki/Charles_Irving_Thornton" title="Charles Irving Thornton">Epitaph of Charles Irving Thornton</ref>
+<ref target="/wiki/Bleak_House,_Broadstairs" title="Bleak House, Broadstairs">Bleak House</ref>
+<ref target="/wiki/Tavistock_House" title="Tavistock House">Tavistock House</ref>
+<ref target="/wiki/Gads_Hill_Place" title="Gads Hill Place">Gads Hill Place</ref>
+<ref target="/wiki/Dickens_and_Little_Nell_(Elwell)" title="Dickens and Little Nell (Elwell)">Dickens and Little Nell (statue)</ref>
+<ref target="/wiki/Dickens_of_London" title="Dickens of London">Dickens of London</ref> (1976 miniseries)
+<ref target="/wiki/Dickens_in_America" title="Dickens in America">Dickens in America</ref> (2005 documentary)
+<ref target="/wiki/The_Invisible_Woman_(2013_film)" title="The Invisible Woman (2013 film)">The Invisible Woman</ref> (2013 film)
+<ref target="/wiki/Dickensian_(TV_series)" title="Dickensian (TV series)">Dickensian</ref> (2015 TV series)
+<ref target="/wiki/The_Man_Who_Invented_Christmas_(film)" title="The Man Who Invented Christmas (film)">The Man Who Invented Christmas</ref> (2017 film)
+
+ <ref target="/wiki/Book:Charles_Dickens" title="Book:Charles Dickens">Book</ref>
+
+<ref target="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</ref> <ref target="https://www.wikidata.org/wiki/Q62879" title="Edit this at Wikidata"></ref>
+<ref target="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</ref>: <ref class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12237222z" rel="nofollow">cb12237222z</ref> <ref class="external text" href="https://data.bnf.fr/ark:/12148/cb12237222z" rel="nofollow">(data)</ref>
+<ref target="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</ref>: <ref class="external text" href="https://d-nb.info/gnd/4294679-7" rel="nofollow">4294679-7</ref>
+<ref target="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</ref>: <ref class="external text" href="https://id.loc.gov/authorities/names/n79129517" rel="nofollow">n79129517</ref>
+<ref target="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</ref> work: <ref class="external text" href="https://musicbrainz.org/work/1a1aed02-5387-4d55-86c9-606e7cbdbf9e" rel="nofollow">1a1aed02-5387-4d55-86c9-606e7cbdbf9e</ref>
+<ref target="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</ref>: <ref class="external text" href="http://aleph.nli.org.il/F/?func=find-b&local_base=NNL10&find_code=SYS&con_lng=eng&request=001789523" rel="nofollow">001789523</ref>
+<ref target="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</ref>: <ref class="external text" href="https://www.idref.fr/07455378X" rel="nofollow">07455378X</ref>
+<ref target="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</ref>: <ref class="external text" href="https://viaf.org/viaf/175787312" rel="nofollow">175787312</ref>
+ <ref class="mw-redirect" href="/wiki/WorldCat_Identities" title="WorldCat Identities">WorldCat Identities</ref> (via VIAF): <ref class="external text" href="https://www.worldcat.org/identities/containsVIAFID/175787312" rel="nofollow">175787312</ref>
+
+
+
+
+
+<p>Retrieved from "<ref dir="ltr" href="https://en.wikipedia.org/w/index.php?title=A_Christmas_Carol&oldid=916283471">https://en.wikipedia.org/w/index.php?title=A_Christmas_Carol&oldid=916283471</ref>"</p>
+<ref target="/wiki/Help:Category" title="Help:Category">Categories</ref>: <ref target="/wiki/Category:A_Christmas_Carol" title="Category:A Christmas Carol">A Christmas Carol</ref><ref target="/wiki/Category:1843_British_novels" title="Category:1843 British novels">1843 British novels</ref><ref target="/wiki/Category:Christmas_novels" title="Category:Christmas novels">Christmas novels</ref><ref target="/wiki/Category:British_fantasy_novels" title="Category:British fantasy novels">British fantasy novels</ref><ref target="/wiki/Category:Ghost_novels" title="Category:Ghost novels">Ghost novels</ref><ref target="/wiki/Category:British_novels_adapted_into_films" title="Category:British novels adapted into films">British novels adapted into films</ref><ref target="/wiki/Category:Novels_set_in_London" title="Category:Novels set in London">Novels set in London</ref><ref target="/wiki/Category:British_novellas" title="Category:British novellas">British novellas</ref><ref target="/wiki/Category:Victorian_novels" title="Category:Victorian novels">Victorian novels</ref><ref target="/wiki/Category:Novels_set_in_the_19th_century" title="Category:Novels set in the 19th century">Novels set in the 19th century</ref><ref target="/wiki/Category:English-language_novels" title="Category:English-language novels">English-language novels</ref><ref target="/wiki/Category:Works_about_atonement" title="Category:Works about atonement">Works about atonement</ref><ref target="/wiki/Category:Chapman_%26_Hall_books" title="Category:Chapman & Hall books">Chapman & Hall books</ref><ref target="/wiki/Category:Novels_by_Charles_Dickens" title="Category:Novels by Charles Dickens">Novels by Charles Dickens</ref><ref target="/wiki/Category:1840s_fantasy_novels" title="Category:1840s fantasy novels">1840s fantasy novels</ref><ref target="/wiki/Category:British_novels_adapted_into_plays" title="Category:British novels adapted into plays">British novels adapted into plays</ref><ref target="/wiki/Category:Novels_adapted_into_television_programs" title="Category:Novels adapted into television programs">Novels adapted into television programs</ref><ref target="/wiki/Category:Novels_about_time_travel" title="Category:Novels about time travel">Novels about time travel</ref>Hidden categories: <ref target="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</ref><ref target="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</ref><ref target="/wiki/Category:EngvarB_from_January_2015" title="Category:EngvarB from January 2015">EngvarB from January 2015</ref><ref target="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</ref><ref target="/wiki/Category:Articles_that_link_to_Wikisource" title="Category:Articles that link to Wikisource">Articles that link to Wikisource</ref><ref target="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</ref><ref target="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</ref><ref target="/wiki/Category:Articles_with_LibriVox_links" title="Category:Articles with LibriVox links">Articles with LibriVox links</ref><ref target="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_MusicBrainz_work_identifiers" title="Category:Wikipedia articles with MusicBrainz work identifiers">Wikipedia articles with MusicBrainz work identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</ref><ref target="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</ref><ref target="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</ref>
+
+
+
+
+
+
+
+<head>Navigation menu</head>
+
+
+<p>Personal tools</h3></p>
+
+<p>Not logged in<ref accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</ref><ref accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</ref><ref target="/w/index.php?title=Special:CreateAccount&returnto=A+Christmas+Carol" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</ref><ref accesskey="o" href="/w/index.php?title=Special:UserLogin&returnto=A+Christmas+Carol" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</ref> </p>
+
+
+
+<p>Namespaces</h3></p>
+
+<ref accesskey="c" href="/wiki/A_Christmas_Carol" title="View the content page [c]">Article</ref><ref accesskey="t" href="/wiki/Talk:A_Christmas_Carol" rel="discussion" title="Discussion about the content page [t]">Talk</ref> 
+
+
+
+
+<p>Variants</p>
+</h3>
+
+
+
+
+
+
+<p>Views</h3></p>
+
+<ref target="/wiki/A_Christmas_Carol">Read</ref><ref accesskey="e" href="/w/index.php?title=A_Christmas_Carol&action=edit" title="Edit this page [e]">Edit</ref><ref accesskey="h" href="/w/index.php?title=A_Christmas_Carol&action=history" title="Past revisions of this page [h]">View history</ref> 
+
+
+
+<p>More</h3></p>
+
+
+
+
+<h3>
+<p>Search</p>
+</h3>
+
+
+ 
+
+
+
+
+
+<ref class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></ref>
+
+<p>Navigation</h3></p>
+
+
+<ref accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</ref><ref target="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</ref><ref target="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</ref><ref target="/wiki/Portal:Current_events" title="Find background information on current events">Current events</ref><ref accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</ref><ref target="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en" title="Support us">Donate to Wikipedia</ref><ref target="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</ref> 
+
+
+
+<p>Interaction</h3></p>
+
+
+<ref target="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</ref><ref target="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</ref><ref target="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</ref><ref accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</ref><ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</ref> 
+
+
+
+<p>Tools</h3></p>
+
+
+<ref accesskey="j" href="/wiki/Special:WhatLinksHere/A_Christmas_Carol" title="List of all English Wikipedia pages containing links to this page [j]">What links here</ref><ref accesskey="k" href="/wiki/Special:RecentChangesLinked/A_Christmas_Carol" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</ref><ref accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</ref><ref accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</ref><ref target="/w/index.php?title=A_Christmas_Carol&oldid=916283471" title="Permanent link to this revision of the page">Permanent link</ref><ref target="/w/index.php?title=A_Christmas_Carol&action=info" title="More information about this page">Page information</ref><ref accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q62879" title="Link to connected data repository item [g]">Wikidata item</ref><ref target="/w/index.php?title=Special:CiteThisPage&page=A_Christmas_Carol&id=916283471" title="Information on how to cite this page">Cite this page</ref> 
+
+
+
+<p>In other projects</h3></p>
+
+
+<ref target="https://commons.wikimedia.org/wiki/Category:A_Christmas_Carol" hreflang="en">Wikimedia Commons</ref><ref target="https://en.wikiquote.org/wiki/A_Christmas_Carol" hreflang="en">Wikiquote</ref><ref target="https://en.wikisource.org/wiki/A_Christmas_Carol_(Dickens)" hreflang="en">Wikisource</ref> 
+
+
+
+<p>Print/export</h3></p>
+
+
+<ref target="/w/index.php?title=Special:Book&bookcmd=book_creator&referer=A+Christmas+Carol">Create a book</ref><ref target="/w/index.php?title=Special:ElectronPdf&page=A+Christmas+Carol&action=show-download-screen">Download as PDF</ref><ref accesskey="p" href="/w/index.php?title=A_Christmas_Carol&printable=yes" title="Printable version of this page [p]">Printable version</ref> 
+
+
+
+<p>Languages</h3></p>
+
+
+<ref class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%86%D9%8A%D9%85%D8%A9_%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)" hreflang="ar" lang="ar" title="ترنيمة عيد الميلاد (رواية) – Arabic">العربية</ref><ref class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0_%D0%BF%D0%B5%D1%81%D0%B5%D0%BD_(%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%B0)" hreflang="bg" lang="bg" title="Коледна песен (новела) – Bulgarian">Български</ref><ref class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/A_Christmas_Carol" hreflang="br" lang="br" title="A Christmas Carol – Breton">Brezhoneg</ref><ref class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Can%C3%A7%C3%B3_de_Nadal_(Dickens)" hreflang="ca" lang="ca" title="Cançó de Nadal (Dickens) – Catalan">Català</ref><ref class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C3%A1no%C4%8Dn%C3%AD_koleda_(Dickens)" hreflang="cs" lang="cs" title="Vánoční koleda (Dickens) – Czech">Čeština</ref><ref class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Et_juleeventyr" hreflang="da" lang="da" title="Et juleeventyr – Danish">Dansk</ref><ref class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/A_Christmas_Carol" hreflang="de" lang="de" title="A Christmas Carol – German">Deutsch</ref><ref class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%85%CE%B3%CE%B5%CE%BD%CE%BD%CE%B9%CE%AC%CF%84%CE%B9%CE%BA%CE%B7_%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1" hreflang="el" lang="el" title="Χριστουγεννιάτικη ιστορία – Greek">Ελληνικά</ref><ref class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/A_Christmas_Carol" hreflang="es" lang="es" title="A Christmas Carol – Spanish">Español</ref><ref class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kristnaska_Kanto_(Dickens)" hreflang="eo" lang="eo" title="Kristnaska Kanto (Dickens) – Esperanto">Esperanto</ref><ref class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Eguberri_kanta_(eleberria)" hreflang="eu" lang="eu" title="Eguberri kanta (eleberria) – Basque">Euskara</ref><ref class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%AF_%DA%A9%D8%B1%DB%8C%D8%B3%D9%85%D8%B3" hreflang="fa" lang="fa" title="سرود کریسمس – Persian">فارسی</ref><ref class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl" hreflang="fr" lang="fr" title="Un chant de Noël – French">Français</ref><ref class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/In_Krystliet_yn_Proaza" hreflang="fy" lang="fy" title="In Krystliet yn Proaza – Western Frisian">Frysk</ref><ref class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Duan_na_Nollag" hreflang="ga" lang="ga" title="Duan na Nollag – Irish">Gaeilge</ref><ref class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Un_conto_de_Nadal" hreflang="gl" lang="gl" title="Un conto de Nadal – Galician">Galego</ref><ref class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4_%EC%BA%90%EB%9F%B4_(%EC%86%8C%EC%84%A4)" hreflang="ko" lang="ko" title="크리스마스 캐럴 (소설) – Korean">한국어</ref><ref class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Bo%C5%BEi%C4%87na_pri%C4%8Da" hreflang="hr" lang="hr" title="Božićna priča – Croatian">Hrvatski</ref><ref class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/A_Christmas_Carol" hreflang="id" lang="id" title="A Christmas Carol – Indonesian">Bahasa Indonesia</ref><ref class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Canto_di_Natale" hreflang="it" lang="it" title="Canto di Natale – Italian">Italiano</ref><ref class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%9E%D7%95%D7%A8_%D7%97%D7%92_%D7%94%D7%9E%D7%95%D7%9C%D7%93" hreflang="he" lang="he" title="מזמור חג המולד – Hebrew">עברית</ref><ref class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/A_Christmas_Carol" hreflang="jv" lang="jv" title="A Christmas Carol – Javanese">Jawa</ref><ref class="interlanguage-link-target" href="https://kw.wikipedia.org/wiki/A_Christmas_Carol" hreflang="kw" lang="kw" title="A Christmas Carol – Cornish">Kernowek</ref><ref class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D1%83%D1%87%D1%83%D1%80%D1%83%D0%BD%D0%B4%D0%B0_%D1%8B%D1%80%D0%B4%D0%B0%D0%BB%D0%B3%D0%B0%D0%BD_%D1%8B%D1%80" hreflang="ky" lang="ky" title="Рождество учурунда ырдалган ыр – Kyrgyz">Кыргызча</ref><ref class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/A_Christmas_Carol" hreflang="la" lang="la" title="A Christmas Carol – Latin">Latina</ref><ref class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Ziemassv%C4%93tku_dziesma" hreflang="lv" lang="lv" title="Ziemassvētku dziesma – Latvian">Latviešu</ref><ref class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kal%C4%97d%C5%B3_giesm%C4%97_(novel%C4%97)" hreflang="lt" lang="lt" title="Kalėdų giesmė (novelė) – Lithuanian">Lietuvių</ref><ref class="interlanguage-link-target" href="https://lfn.wikipedia.org/wiki/Un_canta_de_natal" hreflang="lfn" lang="lfn" title="Un canta de natal – Lingua Franca Nova">Lingua Franca Nova</ref><ref class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kar%C3%A1csonyi_%C3%A9nek_(reg%C3%A9ny)" hreflang="hu" lang="hu" title="Karácsonyi ének (regény) – Hungarian">Magyar</ref><ref class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%92%E0%B4%B0%E0%B5%81_%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%AE%E0%B4%B8%E0%B5%8D_%E0%B4%95%E0%B4%B0%E0%B5%8B%E0%B5%BE" hreflang="ml" lang="ml" title="ഒരു ക്രിസ്മസ് കരോൾ – Malayalam">മലയാളം</ref><ref class="interlanguage-link-target" href="https://mt.wikipedia.org/wiki/L-G%C4%A7anja_tal-Milied" hreflang="mt" lang="mt" title="L-Għanja tal-Milied – Maltese">Malti</ref><ref class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/A_Christmas_Carol" hreflang="ms" lang="ms" title="A Christmas Carol – Malay">Bahasa Melayu</ref><ref class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/A_Christmas_Carol_(boek)" hreflang="nl" lang="nl" title="A Christmas Carol (boek) – Dutch">Nederlands</ref><ref class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB_(%E5%B0%8F%E8%AA%AC)" hreflang="ja" lang="ja" title="クリスマス・キャロル (小説) – Japanese">日本語</ref><ref class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/En_julefortelling" hreflang="no" lang="no" title="En julefortelling – Norwegian">Norsk</ref><ref class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Eit_juleeventyr" hreflang="nn" lang="nn" title="Eit juleeventyr – Norwegian Nynorsk">Norsk nynorsk</ref><ref class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%8F_%E0%A8%95%E0%A9%8D%E0%A8%B0%E0%A8%BF%E0%A8%B8%E0%A8%AE%E0%A8%B8_%E0%A8%95%E0%A9%88%E0%A8%B0%E0%A9%8B%E0%A8%B2" hreflang="pa" lang="pa" title="ਏ ਕ੍ਰਿਸਮਸ ਕੈਰੋਲ – Punjabi">ਪੰਜਾਬੀ</ref><ref class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Opowie%C5%9B%C4%87_wigilijna" hreflang="pl" lang="pl" title="Opowieść wigilijna – Polish">Polski</ref><ref class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/A_Christmas_Carol" hreflang="pt" lang="pt" title="A Christmas Carol – Portuguese">Português</ref><ref class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Colind_de_Cr%C4%83ciun" hreflang="ro" lang="ro" title="Colind de Crăciun – Romanian">Română</ref><ref class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8C_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B7%D0%B5" hreflang="ru" lang="ru" title="Рождественская песнь в прозе – Russian">Русский</ref><ref class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/A_Christmas_Carol" hreflang="sq" lang="sq" title="A Christmas Carol – Albanian">Shqip</ref><ref class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/A_Christmas_Carol" hreflang="en-simple" lang="en-simple" title="A Christmas Carol – Simple English">Simple English</ref><ref class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/A_Christmas_Carol" hreflang="sh" lang="sh" title="A Christmas Carol – Serbo-Croatian">Srpskohrvatski / српскохрватски</ref><ref class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Joulukertomus_(Charles_Dickens)" hreflang="fi" lang="fi" title="Joulukertomus (Charles Dickens) – Finnish">Suomi</ref><ref class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/En_julsaga" hreflang="sv" lang="sv" title="En julsaga – Swedish">Svenska</ref><ref class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%A5" hreflang="th" lang="th" title="อะคริสต์มาสแครอล – Thai">ไทย</ref><ref class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Bir_Noel_%C5%9Eark%C4%B1s%C4%B1" hreflang="tr" lang="tr" title="Bir Noel Şarkısı – Turkish">Türkçe</ref><ref class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D1%96%D0%B7%D0%B4%D0%B2%D1%8F%D0%BD%D0%B0_%D0%BF%D1%96%D1%81%D0%BD%D1%8F_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B7%D1%96,_%D0%B0%D0%B1%D0%BE_%D1%80%D1%96%D0%B7%D0%B4%D0%B2%D1%8F%D0%BD%D0%B5_%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B7_%D0%BF%D1%80%D0%B8%D0%B2%D0%B8%D0%B4%D0%B0%D0%BC%D0%B8" hreflang="uk" lang="uk" title="Різдвяна пісня в прозі, або різдвяне оповідання з привидами – Ukrainian">Українська</ref><ref class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/A_Christmas_Carol" hreflang="vi" lang="vi" title="A Christmas Carol – Vietnamese">Tiếng Việt</ref><ref class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/A_Christmas_Carol" hreflang="war" lang="war" title="A Christmas Carol – Waray">Winaray</ref><ref class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%81%96%E8%AA%95%E9%A0%8C%E6%AD%8C" hreflang="yue" lang="yue" title="聖誕頌歌 – Cantonese">粵語</ref><ref class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%B0%A3%E8%B2%A1%E7%A5%9E" hreflang="zh" lang="zh" title="小氣財神 – Chinese">中文</ref> 
+<ref class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q62879#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</ref> 
+
+
+
+
+
+ This page was last edited on 18 September 2019, at 02:50 (UTC).
+<p>Text is available under the <ref target="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</ref><ref target="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></ref>;</p>
+<p>additional terms may apply. By using this site, you agree to the <ref target="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</ref> and <ref target="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</ref>. Wikipedia® is a registered trademark of the <ref target="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</ref>, a non-profit organization.</p>
+
+
+<ref class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</ref>
+<ref target="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</ref>
+<ref target="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</ref>
+<ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</ref>
+<ref target="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</ref>
+<ref target="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</ref>
+<ref class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=A_Christmas_Carol&mobileaction=toggle_view_mobile">Mobile view</ref>
+
+
+
+<ref target="https://wikimediafoundation.org/"></ref> 
+
+<ref target="https://www.mediawiki.org/"></ref> 
+
+
+
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.404","walltime":"1.742","ppvisitednodes":{"value":14119,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":182102,"limit":2097152},"templateargumentsize":{"value":7434,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":187730,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1463.826 1 -total"," 21.35% 312.575 36 Template:Cite_book"," 13.62% 199.308 117 Template:Sfn"," 8.39% 122.766 14 Template:Cite_journal"," 6.95% 101.801 14 Template:Refn"," 6.80% 99.475 1 Template:Authority_control"," 6.36% 93.063 4 Template:Inflation"," 5.79% 84.827 1 Template:Infobox_book"," 4.77% 69.872 2 Template:Reflist"," 3.77% 55.137 8 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.776","limit":"10.000"},"limitreport-memusage":{"value":10950518,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20190930210912","ttl":86400,"transientcontent":true}}});});</p>
+<p>{"@context":"https:\/\/schema.org","@type":"Article","name":"A Christmas Carol","url":"https:\/\/en.wikipedia.org\/wiki\/A_Christmas_Carol","sameAs":"http:\/\/www.wikidata.org\/entity\/Q62879","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q62879","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-20T09:49:00Z","dateModified":"2019-09-18T02:50:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg","headline":"Novella by the English author Charles Dickens, first published in 1843"}</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1267"});});</p>
+
+
