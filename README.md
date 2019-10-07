@@ -9,6 +9,13 @@ Group Members:
 
 This repository contains all the files and scripts pertaining to the broadway data analysis project for ANLY 501.
 
+[PDF File]
+
+Project_Part1_Report.pdf contains our writepups required by the project.
+
+
+
+
 [Input Data Files]
 
 1. broadway-shows-all.cvs;
@@ -25,7 +32,7 @@ This repository contains all the files and scripts pertaining to the broadway da
 
 [Scripts]
 
-1. get_clean_broadway_wiki.py
+1. get_clean_broadway_wiki.py (supplementary data)
 This script scraped Wikipedia pages for Broadway's shows; 
 read input file broadway-shows-all.cvs;
 
@@ -68,29 +75,26 @@ read input file broadway-shows-all.cvs;
 [Data]
 This folder contains all the data set files collected by our scripts, both before and after cleaning. 
 
-1. Broadway_Wikipedia						
-This folder contains xml files for Broadway shows from 1985-2019;
-
-2. broadway_grosses.csv 					
+1. broadway_grosses.csv 					
 This csv file contains Broadway Grosses data before cleaning;
 
-3. grosses_cleaned.csv 						
+2. grosses_cleaned.csv 						
 This csv file contains Broadway Grosses data after cleaning;
 
-4. scrap_of_social_media.csv 				
+3. scrap_of_social_media.csv 				
 This csv file contains Broadway Social Media Stats data before cleaning;
 
-5. cleaned_SocialMedia.csv 					
+4. cleaned_SocialMedia.csv 					
 This csv file contains Broadway Social Media Stats data after cleaning;
 
-6. Musical_ratings-withNa.csv 				
-This csv file contains Broadway Review Ratings data before cleaning;
-
-7. Musical_ratings-withoutNa.csv 			
+5. Musical_ratings-withoutNa.csv 			
 This csv file contains Broadway Review Ratings data after cleaning;
 
-8. clean_review.csv  						
+6. clean_review.csv  						
 This csv file contains Broadway Review text data after cleaning;
 
-9. news.csv 								
+7. news.csv 								
 This csv file contains Broadway News text data after cleaning;
+
+8. Broadway_Wikipedia (supplementary data)						
+This folder contains xml files for Broadway shows from 1985-2019;
