@@ -60,7 +60,7 @@ This script cleans poor-quality attributes in the Broadway Social Media
 Stats data set;
 
 
-8. rating_cleanliness_and_cleaning.py 		
+8. musical_rating_cleanliness_measure_and_cleaning.py 		
 This script quantifies the cleanliness of the attributes and cleans 
 poor-quality attributes in the Broadway Review Ratings data set;
 read input file Musical_ratings-withoutNa.csv
