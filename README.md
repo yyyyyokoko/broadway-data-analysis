@@ -21,6 +21,8 @@ This repository contains all the files and scripts pertaining to the broadway da
 	- grosses_scrapping.py
 
 
+
+
 [Scripts]
 
 1. get_clean_broadway_wiki.py
@@ -63,7 +65,8 @@ read input file broadway-shows-all.cvs;
 
 
 
-[Data] - This folder contains all the data set files collected by our scripts, both before and after cleaning. 
+[Data]
+This folder contains all the data set files collected by our scripts, both before and after cleaning. 
 
 1. Broadway_Wikipedia						
 This folder contains xml files for Broadway shows from 1985-2019;
