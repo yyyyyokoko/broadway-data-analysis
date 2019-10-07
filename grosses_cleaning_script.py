@@ -80,6 +80,11 @@ def dataType_clean(df):
        'diff_percent_of_cap']
     df.columns = names
 
+    # reorder columns
+    df = df.reindex(columns=['week_ending', 'show', 'this_week_gross',
+       'diff_in_dollars', 'avg_ticket_price', 'seats_sold', 'perfs',  'percent_of_cap',
+       'diff_percent_of_cap'])
+
     return(df)
 
 
@@ -87,6 +92,7 @@ def dataType_clean(df):
 
 def redundancy_clean(df):
     df = df.drop_duplicates(['show', 'this_week_gross', 'diff_in_dollars'])
+    df = df[df.week_ending != "1985-06-02"]
 
     return (df)
 
