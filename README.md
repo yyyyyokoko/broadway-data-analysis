@@ -87,13 +87,16 @@ This csv file contains Broadway Social Media Stats data before cleaning;
 This csv file contains Broadway Social Media Stats data after cleaning;
 
 5. Musical_ratings-withoutNa.csv 			
+This csv file contains Broadway Review Ratings data before cleaning;
+
+6. Musical_ratings-withoutNa-cleaned.csv 			
 This csv file contains Broadway Review Ratings data after cleaning;
 
-6. clean_review.csv  						
+7. clean_review.csv  						
 This csv file contains Broadway Review text data after cleaning;
 
-7. news.csv 								
+8. news.csv 								
 This csv file contains Broadway News text data after cleaning;
 
-8. Broadway_Wikipedia (supplementary data)						
+9. Broadway_Wikipedia (supplementary data)						
 This folder contains xml files for Broadway shows from 1985-2019;
