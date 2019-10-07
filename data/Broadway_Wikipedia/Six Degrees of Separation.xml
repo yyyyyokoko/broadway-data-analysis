@@ -1,0 +1,739 @@
+
+
+
+
+<p>Six degrees of separation - Wikipedia</p>
+<p>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Six_degrees_of_separation","wgTitle":"Six degrees of separation","wgCurRevisionId":919754261,"wgRevisionId":919754261,"wgArticleId":40117483,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 errors: missing periodical","CS1 maint: archived copy as title","All articles with unsourced statements","Articles with unsourced statements from January 2010","Articles with unsourced statements from July 2016","Social networks","Sociological theories"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",</p>
+<p>"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Six_degrees_of_separation","wgRelevantArticleId":40117483,"wgRequestId":"XZjAuwpAICgAAKk2PzsAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Six_Degrees_of_Separation","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Six_degrees_of_separation","wgWikibaseItemId":"Q2855754","wgCentralAuthMobileDomain":</p>
+<p>!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",</p>
+<p>"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});</p>
+<p>});});</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ref id="top"></ref>
+
+
+
+<p>Six degrees of separation</h1></p>
+
+<p>From Wikipedia, the free encyclopedia</p>
+  (Redirected from <ref class="mw-redirect" href="/w/index.php?title=Six_Degrees_of_Separation&redirect=no" title="Six Degrees of Separation">Six Degrees of Separation</ref>)
+
+<ref class="mw-jump-link" href="#mw-head">Jump to navigation</ref>
+<ref class="mw-jump-link" href="#p-search">Jump to search</ref>
+<p>"Six degrees" redirects here. It is not to be confused with <ref target="/wiki/Six_degrees_of_freedom" title="Six degrees of freedom">Six degrees of freedom</ref>. For other uses, see <ref class="mw-redirect mw-disambig" href="/wiki/Six_degrees_(disambiguation)" title="Six degrees (disambiguation)">Six degrees (disambiguation)</ref>.</p>
+<p>Six degrees of separation is the idea that all people are six, or fewer, social connections away from each other. As a result, a chain of "<ref target="/wiki/Friend_of_a_friend" title="Friend of a friend">a friend of a friend</ref>" statements can be made to connect any two people in a maximum of six steps. It was originally set out by <ref target="/wiki/Frigyes_Karinthy" title="Frigyes Karinthy">Frigyes Karinthy</ref> in 1929 and popularized in an eponymous <ref target="/wiki/Six_Degrees_of_Separation_(play)" title="Six Degrees of Separation (play)">1990 play</ref> written by <ref target="/wiki/John_Guare" title="John Guare">John Guare</ref>. It is sometimes generalized to the average <ref target="/wiki/Path_length" title="Path length">social distance</ref> being <ref target="/wiki/Logarithm" title="Logarithm">logarithmic</ref> in the size of the population.</p>
+
+<head>Contents</head>
+
+<ref target="#Early_conceptions">1 Early conceptions</ref>
+
+<ref target="#Shrinking_world">1.1 Shrinking world</ref>
+<ref target="#Small_world">1.2 Small world</ref>
+<ref target="#Continued_research:_Small_World_Project">1.3 Continued research: Small World Project</ref>
+
+
+<ref target="#Research">2 Research</ref>
+
+<ref target="#Computer_networks">2.1 Computer networks</ref>
+<ref target="#An_optimal_algorithm_to_calculate_degrees_of_separation_in_social_networks">2.2 An optimal algorithm to calculate degrees of separation in social networks</ref>
+
+
+<ref target="#Popularization">3 Popularization</ref>
+
+<ref target="#Popularization_of_offline_practice">3.1 Popularization of offline practice</ref>
+
+<ref target="#John_Guare's_Six_Degrees_of_Separation">3.1.1 John Guare's Six Degrees of Separation</ref>
+<ref target="#Kevin_Bacon_game">3.1.2 Kevin Bacon game</ref>
+<ref target="#John_L._Sullivan">3.1.3 John L. Sullivan</ref>
+
+
+<ref target="#In_popular_culture">3.2 In popular culture</ref>
+
+<ref target="#Films">3.2.1 Films</ref>
+
+
+<ref target="#Games">3.3 Games</ref>
+
+<ref target="#Literature">3.3.1 Literature</ref>
+<ref target="#Music">3.3.2 Music</ref>
+<ref target="#Television">3.3.3 Television</ref>
+
+
+<ref target="#Website_and_application">3.4 Website and application</ref>
+
+<ref target="#The_Internet">3.4.1 The Internet</ref>
+<ref target="#Six_Degrees_of_Wikipedia">3.4.2 Six Degrees of Wikipedia</ref>
+<ref target="#Facebook">3.4.3 Facebook</ref>
+<ref target="#LinkedIn">3.4.4 LinkedIn</ref>
+<ref target="#SixDegrees.com">3.4.5 SixDegrees.com</ref>
+<ref target="#Twitter">3.4.6 Twitter</ref>
+
+
+
+
+<ref target="#Mathematics">4 Mathematics</ref>
+<ref target="#Psychology">5 Psychology</ref>
+<ref target="#See_also">6 See also</ref>
+<ref target="#Notes">7 Notes</ref>
+<ref target="#References">8 References</ref>
+<ref target="#External_links">9 External links</ref>
+
+
+<h2>Early conceptions[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=1" title="Edit section: Early conceptions">edit</ref>]</h2>
+<h3>Shrinking world[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=2" title="Edit section: Shrinking world">edit</ref>]</h3>
+<p>Theories on optimal design of cities, city traffic flows, neighborhoods, and demographics were in vogue after <ref target="/wiki/World_War_I" title="World War I">World War I</ref>. These[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] conjectures were expanded in 1929 by <ref target="/wiki/Hungary" title="Hungary">Hungarian</ref> author <ref target="/wiki/Frigyes_Karinthy" title="Frigyes Karinthy">Frigyes Karinthy</ref>, who published a volume of short stories titled Everything is Different. One of these pieces was titled "Chains," or "Chain-Links." The story investigated – in abstract, conceptual, and fictional terms – many of the problems that would captivate future generations of mathematicians, sociologists, and physicists within the field of network theory.<ref target="#cite_note-newman-1">[1]</ref><ref target="#cite_note-bara-2">[2]</ref> Due to technological advances in communications and travel, friendship networks could grow larger and span greater distances. In particular, Karinthy believed that the modern world was 'shrinking' due to this ever-increasing connectedness of human beings. He posited that despite great physical distances between the globe's individuals, the growing density of human networks made the actual social distance far smaller.<ref target="#cite_note-3">[3]</ref></p>
+<p>As a result of this hypothesis, Karinthy's characters believed that any two individuals could be connected through at most five acquaintances. In his story, the characters create a game out of this notion. He wrote:</p>
+
+<p>A fascinating game grew out of this discussion. One of us suggested performing the following experiment to prove that the population of the Earth is closer together now than they have ever been before. We should select any person from the 1.5 billion inhabitants of the Earth – anyone, anywhere at all. He bet us that, using no more than five individuals, one of whom is a personal acquaintance, he could contact the selected individual using nothing except the network of personal acquaintances.<ref target="#cite_note-karinthy-4">[4]</ref></p>
+<p>This idea both directly and indirectly influenced a great deal of early thought on <ref target="/wiki/Social_network" title="Social network">social networks</ref>. Karinthy has been regarded as the originator of the notion of six degrees of separation.<ref target="#cite_note-bara-2">[2]</ref></p>
+<p>A related theory deals with the quality of connections, rather than their existence. The theory of <ref target="/wiki/Three_degrees_of_influence" title="Three degrees of influence">three degrees of influence</ref> was created by Nicholas A. Christakis and James H. Fowler.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>]</p>
+
+<h3>Small world[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=3" title="Edit section: Small world">edit</ref>]</h3>
+<p>Main article: <ref target="/wiki/Small-world_experiment" title="Small-world experiment">Small-world experiment</ref></p>
+<p>Michael Gurevich conducted seminal work in his empirical study of the structure of social networks in his 1961 <ref target="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</ref> PhD dissertation under <ref target="/wiki/Ithiel_de_Sola_Pool" title="Ithiel de Sola Pool">Ithiel de Sola Pool</ref>.<ref target="#cite_note-5">[5]</ref> Mathematician <ref class="mw-redirect" href="/wiki/Manfred_Kochen" title="Manfred Kochen">Manfred Kochen</ref>, an Austrian who had been involved in urban design, extrapolated these empirical results in a mathematical manuscript, <ref class="new" href="/w/index.php?title=Contacts_and_Influences&action=edit&redlink=1" title="Contacts and Influences (page does not exist)">Contacts and Influences</ref>,<ref target="#cite_note-6">[6]</ref> concluding that in a U.S.-sized population without social structure, "it is practically certain that any two individuals can contact one another by means of at most two intermediaries. In a [socially] structured population it is less likely but still seems probable. And perhaps for the whole world's population, probably only one more bridging individual should be needed." They subsequently constructed <ref target="/wiki/Monte_Carlo_method" title="Monte Carlo method">Monte Carlo</ref> simulations based on Gurevich's data, which recognized that both weak and strong acquaintance links are needed to model social structure. The simulations, carried out on the relatively limited computers of 1973, were nonetheless able to predict that a more realistic three degrees of separation existed across the U.S. population, foreshadowing the findings of American psychologist <ref target="/wiki/Stanley_Milgram" title="Stanley Milgram">Stanley Milgram</ref>.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>]</p>
+<p>Milgram continued Gurevich's experiments in acquaintanceship networks at <ref target="/wiki/Harvard_University" title="Harvard University">Harvard University</ref> in Cambridge, Massachusetts, U.S. Kochen and de Sola Pool's manuscript, Contacts and Influences,<ref target="#cite_note-7">[7]</ref> was conceived while both were working at the <ref target="/wiki/University_of_Paris" title="University of Paris">University of Paris</ref> in the early 1950s, during a time when Milgram visited and collaborated in their research. Their unpublished manuscript circulated among academics for over 20 years before publication in 1978. It formally articulated the mechanics of social networks, and explored the mathematical consequences of these (including the degree of connectedness). The manuscript left many significant questions about networks unresolved, and one of these was the number of degrees of separation in actual social networks. Milgram took up the challenge on his return from <ref target="/wiki/Paris" title="Paris">Paris</ref>, leading to the experiments reported in The Small World Problem <ref target="#cite_note-Stanley_Milgram_1968-8">[8]</ref> in popular science journal <ref target="/wiki/Psychology_Today" title="Psychology Today">Psychology Today</ref>, with a more rigorous version of the paper appearing in Sociometry two years later.<ref target="#cite_note-9">[9]</ref> The Psychology Today article generated enormous publicity for the experiments, which are well known today, long after much of the formative work has been forgotten.</p>
+<p>Milgram's article made famous<ref target="#cite_note-Stanley_Milgram_1968-8">[8]</ref> his 1967 set of experiments to investigate de Sola Pool and Kochen's "small world problem." Mathematician <ref target="/wiki/Benoit_Mandelbrot" title="Benoit Mandelbrot">Benoit Mandelbrot</ref>, born in <ref target="/wiki/Warsaw" title="Warsaw">Warsaw</ref>, growing up in <ref target="/wiki/Poland" title="Poland">Poland</ref> then <ref target="/wiki/France" title="France">France</ref>, was aware of the Statist <ref target="/wiki/Rule_of_thumb" title="Rule of thumb">rule of thumb</ref>, and was also a colleague of de Sola Pool, Kochen and Milgram at the University of Paris during the early 1950s (Kochen brought Mandelbrot to work at the Institute for Advanced Study and later IBM in the U.S.). This circle of researchers was fascinated by the interconnectedness and "social capital" of human networks. Milgram's study results showed that people in the <ref target="/wiki/United_States" title="United States">United States</ref> seemed to be connected by approximately three friendship links, on average, without speculating on global linkages; he never actually used the term "six degrees of separation." Since the Psychology Today article gave the experiments wide publicity, Milgram, Kochen, and <ref target="/wiki/Karinthy" title="Karinthy">Karinthy</ref> all had been incorrectly attributed as the origin of the notion of six degrees; the most likely popularizer of the term "six degrees of separation" would be <ref target="/wiki/John_Guare" title="John Guare">John Guare</ref>, who attributed the value '6' to <ref target="/wiki/Guglielmo_Marconi" title="Guglielmo Marconi">Marconi</ref>.<ref target="#cite_note-SDS-R-01-10">[10]</ref></p>
+
+<h3>Continued research: Small World Project[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=4" title="Edit section: Continued research: Small World Project">edit</ref>]</h3>
+<p>In 2003, <ref target="/wiki/Columbia_University" title="Columbia University">Columbia University</ref> conducted an analogous experiment on social connectedness amongst Internet email users. Their effort was named the Columbia Small World Project, and included 24,163 e-mail chains, aimed at 18 targets from 13 different countries around the world.<ref target="#cite_note-dodds-11">[11]</ref> Almost 100,000 people registered, but only 384 (0.4%) reached the final target. Amongst the successful chains, while shorter lengths were more common some reached their target after only 7, 8, 9 or 10 steps. Dodds et al. noted that participants (all of whom volunteers) were strongly biased towards existing models of Internet users<ref target="#cite_note-12">[Note 1]</ref> and that connectedness based on professional ties was much stronger than those within families or friendships. The authors cite "lack of interest" as the predominating factor in the high attrition rate,<ref target="#cite_note-13">[Note 2]</ref> a finding consistent with earlier studies.<ref target="#cite_note-kleinfeld-14">[12]</ref></p>
+
+<h2>Research[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=5" title="Edit section: Research">edit</ref>]</h2>
+<p>Several studies, such as <ref class="mw-redirect" href="/wiki/Small_world_experiment" title="Small world experiment">Milgram's small world experiment</ref>, have been conducted to measure this connectedness empirically. The phrase "six degrees of separation" is often used as a synonym for the idea of the "small world" phenomenon.<ref target="#cite_note-AFC-NA-21-15">[13]</ref></p>
+<p>However, detractors argue that Milgram's experiment did not demonstrate such a link,<ref target="#cite_note-16">[14]</ref> and the "six degrees" claim has been decried as an "academic <ref class="mw-redirect" href="/wiki/Urban_myth" title="Urban myth">urban myth</ref>".<ref target="#cite_note-kleinfeld-14">[12]</ref><ref target="#cite_note-pt2002-17">[15]</ref> Also, the existence of isolated groups of humans, for example the <ref class="mw-redirect" href="/wiki/Korubo_people" title="Korubo people">Korubo</ref> and other native Brazilian populations,<ref target="#cite_note-18">[16]</ref> would tend to invalidate the strictest interpretation of the hypothesis.</p>
+
+<h3>Computer networks[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=6" title="Edit section: Computer networks">edit</ref>]</h3>
+<p>In 2001, <ref class="mw-redirect" href="/wiki/Duncan_Watts" title="Duncan Watts">Duncan Watts</ref>, a professor at <ref target="/wiki/Columbia_University" title="Columbia University">Columbia University</ref>, attempted to recreate Milgram's experiment on the Internet, using an e-mail message as the "package" that needed to be delivered, with 48,000 senders and 19 targets (in 157 countries). Watts found that the average (though not maximum) number of intermediaries was around six.<ref target="#cite_note-19">[17]</ref></p>
+<p>A 2007 study by <ref target="/wiki/Jure_Leskovec" title="Jure Leskovec">Jure Leskovec</ref> and <ref target="/wiki/Eric_Horvitz" title="Eric Horvitz">Eric Horvitz</ref> examined a data set of instant messages composed of 30 billion conversations among 240 million people. They found the average path length among Microsoft Messenger users to be 6.<ref target="#cite_note-20">[18]</ref></p>
+<p>It has been suggested by some commentators<ref target="#cite_note-21">[19]</ref> that interlocking networks of computer mediated lateral communication could diffuse single messages to all interested users worldwide as per the 6 degrees of separation principle via Information Routing Groups, which are networks specifically designed to exploit this principle and lateral diffusion.</p>
+
+<h3>An optimal algorithm to calculate degrees of separation in social networks[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=7" title="Edit section: An optimal algorithm to calculate degrees of separation in social networks">edit</ref>]</h3>
+<p>Bakhshandeh et al.<ref target="#cite_note-22">[20]</ref> have addressed the search problem of identifying the degree of separation between two users in social networks such as Twitter. They have introduced new search techniques to provide optimal or near optimal solutions. The experiments are performed using Twitter, and they show an improvement of several orders of magnitude over greedy approaches. Their optimal algorithm finds an average degree of separation of 3.43 between two random Twitter users, requiring an average of only 67 requests for information over the Internet to Twitter. A near-optimal solution of length 3.88 can be found by making an average of 13.3 requests.</p>
+
+<h2>Popularization[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=8" title="Edit section: Popularization">edit</ref>]</h2>
+<p>No longer limited strictly to academic or philosophical thinking, the notion of six degrees recently has become influential throughout <ref target="/wiki/Popular_culture" title="Popular culture">popular culture</ref>. Further advances in communication technology – and particularly the Internet – have drawn great attention to social networks and human interconnectedness. As a result, many popular media sources have addressed the term. The following provide a brief outline of the ways such ideas have shaped popular culture.</p>
+
+<h3>Popularization of offline practice[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=9" title="Edit section: Popularization of offline practice">edit</ref>]</h3>
+<h4>John Guare's Six Degrees of Separation[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=10" title="Edit section: John Guare's Six Degrees of Separation">edit</ref>]</h4>
+<p>Main articles: <ref target="/wiki/Six_Degrees_of_Separation_(play)" title="Six Degrees of Separation (play)">Six Degrees of Separation (play)</ref> and <ref target="/wiki/Six_Degrees_of_Separation_(film)" title="Six Degrees of Separation (film)">Six Degrees of Separation (film)</ref></p>
+<p>American playwright <ref target="/wiki/John_Guare" title="John Guare">John Guare</ref> wrote a play in 1990 and released a 1993 film that popularized it; it is Guare's most widely-known work.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] The play ruminates upon the idea that any two individuals are connected by at most five others. As one of the characters states:</p>
+
+
+<p>I read somewhere that everybody on this planet is separated by only six other people. Six degrees of separation between us and everyone else on this planet. The President of the United States, a gondolier in Venice, just fill in the names. I find it A) extremely comforting that we're so close, and B) like <ref target="/wiki/Chinese_water_torture" title="Chinese water torture">Chinese water torture</ref> that we're so close because you have to find the right six people to make the right connection... I am bound to everyone on this planet by a trail of six people.<ref target="#cite_note-imdb-23">[21]</ref></p>
+
+
+<p>Guare, in interviews, attributed his awareness of the "six degrees" to Marconi.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] Although this idea had been circulating in various forms for decades, it is Guare's piece that is most responsible for popularizing the phrase "six degrees of separation."[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] Following Guare's lead, many future television and film sources would later incorporate the notion into their stories.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>]</p>
+<ref target="/wiki/J._J._Abrams" title="J. J. Abrams">J. J. Abrams</ref>, the executive producer of television series <ref class="mw-redirect" href="/wiki/Six_Degrees" title="Six Degrees">Six Degrees</ref> and <ref target="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</ref>, played the role of Doug in the film adaptation of this play.[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>] Many of the play's themes are apparent in his television shows (see below).[<ref target="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed">citation needed</ref>]
+
+<h4>Kevin Bacon game[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=11" title="Edit section: Kevin Bacon game">edit</ref>]</h4>
+<p>The game "<ref target="/wiki/Six_Degrees_of_Kevin_Bacon" title="Six Degrees of Kevin Bacon">Six Degrees of Kevin Bacon</ref>"<ref target="#cite_note-SDS-T-02-24">[22]</ref> was invented as a play on the concept: the goal is to link any actor to <ref target="/wiki/Kevin_Bacon" title="Kevin Bacon">Kevin Bacon</ref> through no more than six connections, where two actors are connected if they have appeared in a movie or commercial together. It was created by three students at <ref target="/wiki/Albright_College" title="Albright College">Albright College</ref> in Pennsylvania,<ref target="#cite_note-SDS-T-03-25">[23]</ref> who came up with the concept while watching <ref target="/wiki/Footloose_(1984_film)" title="Footloose (1984 film)">Footloose</ref>. On September 13, 2012, Google made it possible to search for any given actor's 'Bacon Number' through their search engine.</p>
+<p>Upon the arrival of the 4G mobile network in the United Kingdom, Kevin Bacon appears in several commercials for the <ref class="mw-redirect" href="/wiki/EE_(telecommunications_company)" title="EE (telecommunications company)">EE</ref> Network in which he links himself to several well known celebrities and TV shows in the UK.</p>
+
+<h4>John L. Sullivan[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=12" title="Edit section: John L. Sullivan">edit</ref>]</h4>
+<p>An early version involved former world Heavyweight boxing champion, <ref target="/wiki/John_L._Sullivan" title="John L. Sullivan">John L. Sullivan</ref>, in which people would ask others to "shake the hand that shook the hand that shook the hand that shook the hand of 'the great John L.'"<ref target="#cite_note-26">[24]</ref></p>
+
+<h3>In popular culture[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=13" title="Edit section: In popular culture">edit</ref>]</h3>
+<h4>Films[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=14" title="Edit section: Films">edit</ref>]</h4>
+<p>The Oscar-winning film <ref target="/wiki/Babel_(film)" title="Babel (film)">Babel</ref> is based on the concept of Six Degrees of Separation. The lives of all of the characters were intimately intertwined, although they did not know each other and lived thousands of miles from each other.</p>
+<ref target="/wiki/Six_Degrees_of_Separation_(film)" title="Six Degrees of Separation (film)">Six Degrees of Separation</ref> is a 1993 drama film featuring <ref target="/wiki/Will_Smith" title="Will Smith">Will Smith</ref>, <ref target="/wiki/Donald_Sutherland" title="Donald Sutherland">Donald Sutherland</ref>, and <ref target="/wiki/Stockard_Channing" title="Stockard Channing">Stockard Channing</ref>.
+<h3>Games[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=15" title="Edit section: Games">edit</ref>]</h3>
+<p>One of the achievements in the video game <ref target="/wiki/Br%C3%BCtal_Legend" title="Brütal Legend">Brütal Legend</ref> is called "Six Degrees of Schafer," after the concept and <ref target="/wiki/Tim_Schafer" title="Tim Schafer">Tim Schafer</ref>, who was presumably in the handful of players to have the achievement as of the game's release. A player can only obtain this achievement by playing online with someone who already has it, further paralleling it to the concept.</p>
+<p>One of the merits in the video game Torn City is called “domino.” The merit requires you to attack a person online who already has the merit.</p>
+<h4>Literature[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=16" title="Edit section: Literature">edit</ref>]</h4>
+<ref target="/wiki/Joined-Up_Thinking" title="Joined-Up Thinking">Joined-Up Thinking</ref> and <ref class="new" href="/w/index.php?title=Connectoscope&action=edit&redlink=1" title="Connectoscope (page does not exist)">Connectoscope</ref> by <ref target="/wiki/Stevyn_Colgan" title="Stevyn Colgan">Stevyn Colgan</ref> are trivia books based upon the idea of "Six Degrees" of information; that everything is connected.
+<h4>Music[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=17" title="Edit section: Music">edit</ref>]</h4>
+<p>The <ref target="/wiki/No_Doubt" title="No Doubt">No Doubt</ref> song "Full Circle" has a central theme dealing with six degrees of separation.</p>
+<p>"<ref target="/wiki/The_Weight_of_These_Wings" title="The Weight of These Wings">Six Degrees of Separation</ref>" is the 10th track on the second disc <ref target="/wiki/The_Weight_of_These_Wings" title="The Weight of These Wings">The Heart</ref> of the 2016 double album <ref target="/wiki/The_Weight_of_These_Wings" title="The Weight of These Wings">The Weight of These Wings</ref> by American country artist <ref target="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</ref>. It is the 22nd track overall.</p>
+<p>"<ref target="/wiki/Six_Degrees_of_Separation_(song)" title="Six Degrees of Separation (song)">Six Degrees of Separation</ref>" is the 2nd track on <ref target="/wiki/The_Script" title="The Script">The Script</ref>'s third album, <ref target="/wiki/The_Script#2012–present:_#3" title="The Script">#3</ref>.</p>
+<p>"Six Degrees" is the sixth track on <ref target="/wiki/Scouting_for_Girls" title="Scouting for Girls">Scouting for Girls</ref>' album, <ref target="/wiki/The_Light_Between_Us" title="The Light Between Us">The Light Between Us</ref>.</p>
+<ref target="/wiki/Six_Degrees_of_Inner_Turbulence" title="Six Degrees of Inner Turbulence">Six Degrees of Inner Turbulence</ref> is a 2002 album by progressive rock band <ref target="/wiki/Dream_Theater" title="Dream Theater">Dream Theater</ref>.
+<ref target="/wiki/Nessun_grado_di_separazione" title="Nessun grado di separazione">Nessun grado di separazione</ref> is a 2016 song by Italian singer <ref target="/wiki/Francesca_Michielin" title="Francesca Michielin">Francesca Michielin</ref>. A bilingual English and Italian version of the song called "No Degree of Separation" represented <ref target="/wiki/Italy_in_the_Eurovision_Song_Contest_2016" title="Italy in the Eurovision Song Contest 2016">Italy</ref> in the <ref target="/wiki/Eurovision_Song_Contest_2016" title="Eurovision Song Contest 2016">Eurovision Song Contest 2016</ref> held in <ref target="/wiki/Stockholm" title="Stockholm">Stockholm</ref>, <ref target="/wiki/Sweden" title="Sweden">Sweden</ref>.
+<h4>Television[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=18" title="Edit section: Television">edit</ref>]</h4>
+<ref class="mw-redirect" href="/wiki/Six_Degrees" title="Six Degrees">Six Degrees</ref> is a 2006 television series on <ref target="/wiki/American_Broadcasting_Company" title="American Broadcasting Company">ABC</ref> in the US. The show details the experiences of six <ref target="/wiki/New_York_City" title="New York City">New Yorkers</ref> who go about their lives without realizing they are affecting each other, and gradually meet one another.<ref target="#cite_note-27">[25]</ref>
+<p>Connected: The Power of Six Degrees is a 2008 television episode on the <ref target="/wiki/Science_Channel" title="Science Channel">Science Channel</ref> in the US and abroad.<ref target="#cite_note-28">[26]</ref></p>
+<ref class="mw-redirect" href="/wiki/Lonely_Planet_Six_Degrees" title="Lonely Planet Six Degrees">Lonely Planet Six Degrees</ref> is a TV travel show that uses the "six degrees of separation" concept: the hosts, Asha Gill and <ref target="/wiki/Toby_Amies" title="Toby Amies">Toby Amies</ref>, explore various cities through its people, by following certain personalities of the city around and being introduced by them to other personalities.
+<p>The television program <ref target="/wiki/Lost_(TV_series)" title="Lost (TV series)">Lost</ref> explores the idea of six degrees of separation, as almost all the characters have randomly met each other before the crash or someone the other characters know.</p>
+<p>The <ref target="/wiki/Woestijnvis" title="Woestijnvis">Woestijnvis</ref> production <ref class="new" href="/w/index.php?title=Man_Bijt_Hond&action=edit&redlink=1" title="Man Bijt Hond (page does not exist)">Man Bijt Hond</ref>, broadcast on <ref target="/wiki/Flanders" title="Flanders">Flemish</ref> TV, features a weekly section Dossier Costers, in which a worldwide event from the past week is linked to Gustaaf Costers, an ordinary Flemish citizen, in six steps.<ref target="#cite_note-29">[27]</ref></p>
+<ref target="/wiki/Six_Degrees_of_Martina_McBride" title="Six Degrees of Martina McBride">Six Degrees of Martina McBride</ref> is a <ref target="/wiki/Television_pilot" title="Television pilot">television pilot</ref> wherein six aspiring country singers from America's smallest towns tried to connect themselves to <ref target="/wiki/Martina_McBride" title="Martina McBride">Martina McBride</ref> in under six points of human connection. Those who made it from "Nowhere to <ref target="/wiki/Nashville,_Tennessee" title="Nashville, Tennessee">Nashville</ref> to New York," got both a shot at a studio session with McBride and a record deal with <ref class="mw-redirect" href="/wiki/SONY_BMG" title="SONY BMG">SONY BMG</ref>. It was not picked up as a series.
+<p>"<ref target="/wiki/Six_Degrees_of_Separation_(Battlestar_Galactica)" title="Six Degrees of Separation (Battlestar Galactica)">Six Degrees of Separation</ref>" is an episode of the <ref target="/wiki/Battlestar_Galactica_(2004_TV_series)" title="Battlestar Galactica (2004 TV series)">reimagined Battlestar Galactica series</ref>.</p>
+<p>The Israeli TV program Cultural Attache, presented by <ref target="/wiki/Dov_Alfon" title="Dov Alfon">Dov Alfon</ref>, is based on the concept of Six Degrees of Separation. The first guest is asked to name a cultural figure with which he has an unexpected connection, and this person is interviewed and gives yet another name as connection, till the 6th person on the show, who is then asked about a possible connection to the first guest. Such connection is found in about 50% of the interviews.<ref target="#cite_note-30">[28]</ref></p>
+<ref target="/wiki/Six_Degrees_of_Everything" title="Six Degrees of Everything">Six Degrees of Everything</ref> is a comedy series starring <ref class="mw-redirect" href="/wiki/Benny_Fine" title="Benny Fine">Benny Fine</ref> and <ref class="mw-redirect" href="/wiki/Rafi_Fine" title="Rafi Fine">Rafi Fine</ref> where they illustrate that everything in the world is connected by a six-degree separation.<ref target="#cite_note-Futon_Critic_07-13-15-31">[29]</ref>
+<ref target="/wiki/Jorden_runt_p%C3%A5_6_steg" title="Jorden runt på 6 steg">Jorden runt på 6 steg</ref> is a three-episode infotainment series produced by <ref class="new" href="/w/index.php?title=Nexiko_Media&action=edit&redlink=1" title="Nexiko Media (page does not exist)">Nexiko Media</ref> which aired in Swedish <ref target="/wiki/Kanal_5_(Sweden)" title="Kanal 5 (Sweden)">Kanal 5</ref> in 2015. For each episode, hosts <ref target="/wiki/Filip_Hammar_and_Fredrik_Wikingsson" title="Filip Hammar and Fredrik Wikingsson">Filip Hammar and Fredrik Wikingsson</ref> selected one random person (in <ref target="/wiki/Bolivia" title="Bolivia">Bolivia</ref>, <ref target="/wiki/Nepal" title="Nepal">Nepal</ref> and <ref target="/wiki/Senegal" title="Senegal">Senegal</ref>) and traced their relationships to three respective celebrities: <ref target="/wiki/Leif_G._W._Persson" title="Leif G. W. Persson">Leif G. W. Persson</ref>, <ref target="/wiki/Gordon_Ramsay" title="Gordon Ramsay">Gordon Ramsay</ref> and <ref target="/wiki/Buzz_Aldrin" title="Buzz Aldrin">Buzz Aldrin</ref> within a week of travelling. They reached Persson within seven steps, and Ramsay and Aldrin within six steps. The second season features <ref target="/wiki/Michael_Bolton" title="Michael Bolton">Michael Bolton</ref>, <ref target="/wiki/Jeremy_Clarkson" title="Jeremy Clarkson">Jeremy Clarkson</ref>, <ref target="/wiki/Pamela_Anderson" title="Pamela Anderson">Pamela Anderson</ref>, and <ref target="/wiki/Charlie_Sheen" title="Charlie Sheen">Charlie Sheen</ref>.
+<h3>Website and application[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=19" title="Edit section: Website and application">edit</ref>]</h3>
+<h4>The Internet[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=20" title="Edit section: The Internet">edit</ref>]</h4>
+<p>In 2013, Hungarian physicist <ref target="/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si" title="Albert-László Barabási">Albert-László Barabási</ref> discovered that, on average, there are 19 degrees of separation between any two web pages. <ref target="#cite_note-32">[30]</ref></p>
+
+<h4>Six Degrees of Wikipedia[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=21" title="Edit section: Six Degrees of Wikipedia">edit</ref>]</h4>
+<p>In late February 2018, the website <ref class="external text" href="https://www.sixdegreesofwikipedia.com" rel="nofollow">www.SixDegreesOfWikipedia.com</ref> was published by Jacob Wenger. This site takes any two Wikipedia articles and finds the various hyperlink paths that interconnect the two in the least number of clicks. It then shows each of the steps that were taken to do so and also presents a graphical display of the connections. On March 14, 2018, the site stated that among searches up to that date (~half a million), there have been an average separation of 3.0190°. From these, the number of searches that required six or more degrees was 1.417 percent. It also stated that searches with no connection found was 1.07%, and this was attributed to certain articles being dead ends or having very few links.<ref target="#cite_note-33">[31]</ref> (Wenger's open source code is available on GitHub, and this enabled other sites to copy the concept, such as <ref class="external text" href="http://degreesofwikipedia.com/" rel="nofollow">degreesofwikipedia.com</ref>.)</p>
+
+<h4>Facebook[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=22" title="Edit section: Facebook">edit</ref>]</h4>
+<p>A <ref target="/wiki/Facebook" title="Facebook">Facebook</ref> platform application named "Six Degrees" was developed by Karl Bunyan, which calculates the degrees of separation between different people. It had over 5.8 million users, as seen from the group's page. The average separation for all users of the application is 5.73 degrees, whereas the maximum degree of separation is 12. The application has a "Search for Connections" window to input any name of a <ref target="/wiki/Facebook" title="Facebook">Facebook</ref> user, to which it then shows the chain of connections. In June 2009, Bunyan shut down the application, presumably due to issues with Facebook's caching policy; specifically, the policy prohibited the storing of friend lists for more than 24 hours, which would have made the application inaccurate.<ref target="#cite_note-34">[32]</ref> A new version of the application became available at Six Degrees after Karl Bunyan gave permission to a group of developers led by Todd Chaffee to re-develop the application based on Facebook's revised policy on caching data.<ref target="#cite_note-35">[33]</ref><ref target="#cite_note-36">[34]</ref></p>
+<p>The initial version of the application was built at a Facebook Developers Garage London <ref target="/wiki/Hackathon" title="Hackathon">hackathon</ref> with <ref target="/wiki/Mark_Zuckerberg" title="Mark Zuckerberg">Mark Zuckerberg</ref> in attendance.<ref target="#cite_note-37">[35]</ref></p>
+<p>Yahoo! Research Small World Experiment has been conducting an experiment and everyone with a Facebook account can take part in it. According to the research page, this research has the potential of resolving the still unresolved theory of six degrees of separation.<ref target="#cite_note-SDS-T-02-24">[22]</ref><ref target="#cite_note-38">[36]</ref></p>
+<p>Facebook's data team released two papers in November 2011 which document that amongst all Facebook users at the time of research (721 million users with 69 billion friendship links) there is an average distance of 4.74.<ref target="#cite_note-SDS-T-01-39">[37]</ref><ref target="#cite_note-facebook2016-40">[38]</ref> Probabilistic algorithms were applied on statistical metadata to verify the accuracy of the measurements.<ref target="#cite_note-41">[39]</ref> It was also found that 99.91% of Facebook users were interconnected, forming a large connected component.<ref target="#cite_note-42">[40]</ref></p>
+
+
+
+<p>Year</p>
+<p>Distance</p>
+
+
+<p>2008</p>
+<p>5.28</p>
+
+<p>5.28 </p>
+
+
+<p>2011</p>
+<p>4.74</p>
+
+<p>4.74 </p>
+
+
+<p>2016</p>
+<p>4.57</p>
+
+<p>4.57 </p>
+
+
+<p>Distances as reported in Feb 2016 <ref target="#cite_note-facebook2016-40">[38]</ref><ref target="#cite_note-43">[41]</ref></p>
+
+<p>Facebook reported that the distance had decreased to 4.57 in February 2016, when it had 1.6 billion users (about 22% of the world population).<ref target="#cite_note-facebook2016-40">[38]</ref></p>
+
+<h4>LinkedIn[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=23" title="Edit section: LinkedIn">edit</ref>]</h4>
+<p>The <ref target="/wiki/LinkedIn" title="LinkedIn">LinkedIn</ref> professional networking site operates the degree of separation one is away from a person with which he or she wishes to communicate. On <ref target="/wiki/LinkedIn" title="LinkedIn">LinkedIn</ref>, one's network is made up of 1st-degree, 2nd-degree, and 3rd-degree connections and fellow members of LinkedIn Groups. In addition, LinkedIn notifies the user how many connections they and any other user have in common.</p>
+
+<h4>SixDegrees.com[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=24" title="Edit section: SixDegrees.com">edit</ref>]</h4>
+<ref target="/wiki/SixDegrees.com" title="SixDegrees.com">SixDegrees.com</ref> was an early social-networking website that existed from 1997 to 2001. It allowed users to list friends, family members and acquaintances, send messages and post bulletin board items to people in their first, second, and third degrees, and see their connection to any other user on the site. At its height, it had 3,500,000 fully registered members.<ref target="#cite_note-44">[42]</ref> However, it was closed in 2000.
+<ref target="#cite_note-45">[43]</ref>
+
+<h4>Twitter[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=25" title="Edit section: Twitter">edit</ref>]</h4>
+<p>Users on Twitter can follow other users creating a network. According to a study of 5.2 billion such relationships by social media monitoring firm <ref target="/wiki/Sysomos" title="Sysomos">Sysomos</ref>, the average distance on Twitter is 4.67. On average, about 50% of people on Twitter are only four steps away from each other, while nearly everyone is five steps or less away.<ref target="#cite_note-46">[44]</ref></p>
+<p>In another work, researchers have shown that the average distance of 1,500 random users in Twitter is 3.435. They calculated the distance between each pair of users using all the active users in Twitter.<ref target="#cite_note-bakhsh-47">[45]</ref></p>
+
+<h2>Mathematics[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=26" title="Edit section: Mathematics">edit</ref>]</h2>
+<p>Mathematicians use an analogous notion of <ref class="mw-redirect" href="/wiki/Collaboration_distance" title="Collaboration distance">collaboration distance</ref>:<ref target="#cite_note-48">[46]</ref> two persons are linked if they are coauthors of an article. The collaboration distance with mathematician Paul Erdős is called the <ref target="/wiki/Erd%C5%91s_number" title="Erdős number">Erdős number</ref>. <ref class="mw-redirect" href="/wiki/Erd%C5%91s-Bacon_number" title="Erdős-Bacon number">Erdős-Bacon numbers</ref> and Erdős-Bacon-Sabbath (EBS) numbers<ref target="#cite_note-49">[47]</ref> are further extensions of the same thinking.</p>
+<ref class="mw-redirect" href="/wiki/Watts_and_Strogatz_model" title="Watts and Strogatz model">Watts and Strogatz</ref> showed that the average path length between two nodes in a <ref class="mw-redirect" href="/wiki/Random_network" title="Random network">random network</ref> is equal to ln N / ln K, where N = total nodes and K = acquaintances per node. Thus if
+<p>N = 300,000,000 (90% of the US population) and K = 30 then Degrees of Separation = 19.5 / 3.4 = 5.7 and if N = 6,000,000,000 (90% of the World population) and K = 30 then Degrees of Separation = 22.5 / 3.4 = 6.6.</p>
+<p>(Assume 10% of population is too young to participate.)</p>
+
+<h2>Psychology[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=27" title="Edit section: Psychology">edit</ref>]</h2>
+<p>A 2007 article published in The Industrial-Organizational Psychologist,<ref target="#cite_note-50">[48]</ref> by Jesse S. Michel from Michigan State University, applied Stanley Milgram's small world phenomenon (i.e., “small world problem”) to the field of <ref target="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">I-O psychology</ref> through co-author publication linkages. Following six criteria, Scott Highhouse (Bowling Green State University professor and fellow of the Society of Industrial and Organizational Psychology) was chosen as the target. Co-author publication linkages were determined for (1) top authors within the I-O community, (2) quasi-random faculty members of highly productive I-O programs in North America, and (3) publication trends of the target. Results suggest that the small world phenomenon is alive and well with mean linkages of 3.00 to top authors, mean linkages of 2.50 to quasi-random faculty members, and a relatively broad and non-repetitive set of co-author linkages for the target. The author then provided a series of implications and suggestions for future research.</p>
+
+<h2>See also[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=28" title="Edit section: See also">edit</ref>]</h2>
+
+<ref target="/wiki/Composition_of_relations" title="Composition of relations">Composition of relations</ref>
+<ref target="/wiki/Connections_(TV_series)" title="Connections (TV series)">Connections</ref>, a TV documentary that follows a similar concept but involving history and science.
+<ref target="/wiki/Erd%C5%91s_number" title="Erdős number">Erdős number</ref>
+<ref target="/wiki/Erd%C5%91s%E2%80%93Bacon_number" title="Erdős–Bacon number">Erdős–Bacon number</ref>
+<ref class="mw-redirect" href="/wiki/Hyperlink_Cinema" title="Hyperlink Cinema">Hyperlink Cinema</ref>
+<ref target="/wiki/Jewish_geography" title="Jewish geography">Jewish geography</ref>
+<ref target="/wiki/Professional_network_service" title="Professional network service">Professional network service</ref>
+<ref class="mw-redirect" href="/wiki/Shusaku_number" title="Shusaku number">Shusaku number</ref>
+<ref target="/wiki/Six_Degrees_of_Kevin_Bacon" title="Six Degrees of Kevin Bacon">Six Degrees of Kevin Bacon</ref>
+<ref target="/wiki/SixDegrees.org" title="SixDegrees.org">SixDegrees.org</ref>
+<ref class="mw-redirect" href="/wiki/Small_world_phenomenon" title="Small world phenomenon">Small world phenomenon</ref>
+<ref target="/wiki/Social_network" title="Social network">Social network</ref>
+<ref target="/wiki/The_Game_(mind_game)" title="The Game (mind game)">The Game (mind game)</ref>
+<ref target="/wiki/The_Tipping_Point" title="The Tipping Point">The Tipping Point</ref> by Malcolm Gladwell
+<ref target="/wiki/Six_Degrees_of_Separation_(film)" title="Six Degrees of Separation (film)">Six Degrees of Separation (film)</ref>
+<ref target="/wiki/Wikipedia:Six_degrees_of_Wikipedia" title="Wikipedia:Six degrees of Wikipedia">Wikipedia:Six degrees of Wikipedia</ref>
+
+<h2>Notes[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=29" title="Edit section: Notes">edit</ref>]</h2>
+
+
+<ref target="#cite_ref-12">^</ref> "More than half of all participants resided in North America and were middle class, professional, college educated, and Christian, reflecting commonly held notions of the Internet-using population"<ref target="#cite_note-dodds-11">[11]</ref>
+
+<ref target="#cite_ref-13">^</ref> "suggesting lack of interest ... was the main reason" for the "extremely low completion rate"<ref target="#cite_note-dodds-11">[11]</ref>
+
+
+<h2>References[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=30" title="Edit section: References">edit</ref>]</h2>
+
+
+<ref target="#cite_ref-newman_1-0">^</ref> Newman, Mark, Albert-László Barabási, and Duncan J. Watts. 2006. The Structure and Dynamics of Networks. Princeton, NJ: Princeton University Press.
+
+<p>^ <ref target="#cite_ref-bara_2-0">a</ref> <ref target="#cite_ref-bara_2-1">b</ref> <ref class="external text" href="http://www.nd.edu/~alb/" rel="nofollow">Barabási, Albert-László</ref> <ref class="external text" href="https://web.archive.org/web/20050304041427/http://www.nd.edu/~alb/" rel="nofollow">Archived</ref> 2005-03-04 at the <ref target="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</ref>. 2003. <ref class="external text" href="http://www.nd.edu/%7Enetworks/Linked/index.html" rel="nofollow">Linked: How Everything is Connected to Everything Else and What It Means for Business, Science, and Everyday Life.</ref> <ref class="external text" href="https://web.archive.org/web/20070103151518/http://www.nd.edu/%7Enetworks/Linked/index.html" rel="nofollow">Archived</ref> 2007-01-03 at the <ref target="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</ref> New York: Plume.</p>
+
+<ref target="#cite_ref-3">^</ref> Karinthy, Frigyes. (1929) "Chain Links."<ref class="external autonumber" href="https://djjr-courses.wdfiles.com/local--files/soc180%3Akarinthy-chain-links/Karinthy-Chain-Links_1929.pdf" rel="nofollow">[1]</ref>
+
+<ref target="#cite_ref-karinthy_4-0">^</ref> Karinthy, Frigyes. Chain-Links. Translated from Hungarian and annotated by Adam Makkai and Enikö Jankó.
+
+<ref target="#cite_ref-5">^</ref> Gurevich, M (1961) The Social Structure of Acquaintanceship Networks, Cambridge, MA: MIT Press
+
+<ref target="#cite_ref-6">^</ref> de Sola Pool, Ithiel, Kochen, Manfred (1978–1979)."Contacts and influence." Social Networks 1(1): 42
+
+<ref target="#cite_ref-7">^</ref> de Sola Pool, Ithiel, Kochen, Manfred (1978–1979)."Contacts and Influence." Social Networks 1(1): 5–51
+
+<p>^ <ref target="#cite_ref-Stanley_Milgram_1968_8-0">a</ref> <ref target="#cite_ref-Stanley_Milgram_1968_8-1">b</ref> Milgram, Stanley (1967). "The Small World Problem". Psychology Today. 2: 60–67..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</p>
+
+<ref target="#cite_ref-9">^</ref> Travers, Jeffrey, and Stanley Milgram, <ref class="external text" href="http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/travers_milgram.pdf" rel="nofollow">"An Experimental Study of the Small World Problem"</ref>, Sociometry 32(4, Dec. 1969):425–443
+
+<ref target="#cite_ref-SDS-R-01_10-0">^</ref> <ref class="external text" href="http://www.aaa.si.edu/exhibitions/peggy-bacon" rel="nofollow">"The concept of Six degrees of separation stretches back to Italian inventor Guglielmo Marconi"</ref>. Retrieved 16 July 2012.
+
+<p>^ <ref target="#cite_ref-dodds_11-0">a</ref> <ref target="#cite_ref-dodds_11-1">b</ref> <ref target="#cite_ref-dodds_11-2">c</ref> Dodds, Muhamad, Watts (2003)."Small World Project," Science Magazine. pp.827-829, 8 August 2003 <ref class="external free" href="https://www.sciencemag.org/content/301/5634/827" rel="nofollow">https://www.sciencemag.org/content/301/5634/827</ref></p>
+
+<p>^ <ref target="#cite_ref-kleinfeld_14-0">a</ref> <ref target="#cite_ref-kleinfeld_14-1">b</ref> <ref target="/wiki/Judith_Kleinfeld" title="Judith Kleinfeld">Judith S. Kleinfeld</ref>, <ref target="/wiki/University_of_Alaska_Fairbanks" title="University of Alaska Fairbanks">University of Alaska Fairbanks</ref> (January–February 2002). <ref class="external text" href="http://www.stat.cmu.edu/~fienberg/Stat36-835/Kleinfeld_SWP.pdf" rel="nofollow">"The Small World Problem"</ref> (PDF). <ref target="/wiki/Society_(journal)" title="Society (journal)">Society (Springer)</ref>, Social Science and Public Policy.</p>
+
+<ref target="#cite_ref-AFC-NA-21_15-0">^</ref> <ref target="/wiki/Steven_Strogatz" title="Steven Strogatz">Steven Strogatz</ref>, <ref target="/wiki/Duncan_J._Watts" title="Duncan J. Watts">Duncan J. Watts</ref> and <ref target="/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si" title="Albert-László Barabási">Albert-László Barabási</ref> <ref class="external text" href="http://topdocumentaryfilms.com/six-degrees-of-separation/" rel="nofollow">"explaining synchronicity, network theory, adaption of complex systems, Six Degrees, Small world phenomenon in the BBC Documentary"</ref>. BBC. Retrieved 11 June 2012. "Unfolding the science behind the idea of six degrees of separation"
+
+<ref target="#cite_ref-16">^</ref> <ref class="external text" href="http://news.bbc.co.uk/1/hi/programmes/more_or_less/5176698.stm" rel="nofollow">BBC News: More Or Less: Connecting With People In Six Steps</ref> 13 July 2006, "Judith Kleinfeld ... told us, that 95% of the letters sent out had failed to reach the target."
+
+<ref target="#cite_ref-pt2002_17-0">^</ref> <ref class="external text" href="http://www.psychologytoday.com/articles/200203/six-degrees-urban-myth" rel="nofollow">"Six Degrees: Urban Myth? Replicating the small world of Stanley Milgram. Can you reach anyone through a chain of six people"</ref>. Psychology Today. March 1, 2002.
+
+<ref target="#cite_ref-18">^</ref> <ref class="external text" href="http://www.survivalinternational.org/tribes/uncontacted-brazil" rel="nofollow">The Uncontacted Indians of Brazil</ref> Survivalinternational
+
+<ref target="#cite_ref-19">^</ref> Duncan J Watts, Steven H Strogatz (1998). "Collective dynamics of 'small-world' networks". Nature. 393 (6684): 440–442. <ref target="/wiki/Bibcode" title="Bibcode">Bibcode</ref>:<ref class="external text" href="https://ui.adsabs.harvard.edu/abs/1998Natur.393..440W" rel="nofollow">1998Natur.393..440W</ref>. <ref target="/wiki/Digital_object_identifier" title="Digital object identifier">doi</ref>:<ref class="external text" href="//doi.org/10.1038%2F30918" rel="nofollow">10.1038/30918</ref>. <ref class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</ref> <ref class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9623998" rel="nofollow">9623998</ref>.
+
+<ref target="#cite_ref-20">^</ref> Jure Leskovec and Eric Horvitz (June 2007). "Planetary-Scale Views on an Instant-Messaging Network". <ref target="/wiki/ArXiv" title="ArXiv">arXiv</ref>:<ref class="external text" href="//arxiv.org/abs/0803.0939" rel="nofollow">0803.0939</ref>. <ref target="/wiki/Bibcode" title="Bibcode">Bibcode</ref>:<ref class="external text" href="https://ui.adsabs.harvard.edu/abs/2008arXiv0803.0939L" rel="nofollow">2008arXiv0803.0939L</ref>. Cite journal requires |journal= (<ref target="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</ref>)
+
+<ref target="#cite_ref-21">^</ref> Robin Good. <ref class="external text" href="http://www.masternewmedia.org/news/2006/03/20/the_power_of_open_participatory.htm" rel="nofollow">"The Power Of Open Participatory Media And Why Mass Media Must Be Abandoned"</ref>. Robin Good's Master New Media.
+
+<ref target="#cite_ref-22">^</ref> Reza Bakhshandeh, Mehdi Samadi, Zohreh Azimifar, Jonathan Schaeffer, "<ref class="external text" href="http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4031" rel="nofollow">Degrees of Separation in Social Networks</ref>", Fourth Annual Symposium on Combinatorial Search, 2011
+
+<ref target="#cite_ref-imdb_23-0">^</ref> Memorable quotes from Six Degrees of Separation. Accessed Nov. 11, 2006 from <ref class="external text" href="https://www.imdb.com/title/tt0108149/quotes" rel="nofollow">IMDB.com</ref>.
+
+<p>^ <ref target="#cite_ref-SDS-T-02_24-0">a</ref> <ref target="#cite_ref-SDS-T-02_24-1">b</ref> <ref class="external text" href="https://www.telegraph.co.uk/technology/facebook/8704891/Six-degrees-of-separation-theory-tested-on-Facebook.html" rel="nofollow">"Six degrees of separation' theory tested on Facebook"</ref>. Telegraph. 17 August 2011. Retrieved 7 May 2012.</p>
+
+<ref target="#cite_ref-SDS-T-03_25-0">^</ref> <ref class="external text" href="https://www.telegraph.co.uk/news/celebritynews/8560483/Actors-Hollywood-career-spawned-Six-Degrees-of-Kevin-Bacon.html" rel="nofollow">"Actor's Hollywood career spawned 'Six Degrees of Kevin Bacon'"</ref>. Telegraph. 6 June 2011. Retrieved 7 May 2012.
+
+<ref target="#cite_ref-26">^</ref> Ecksel, Robert (1 January 2005). <ref class="external text" href="http://www.thesweetscience.com/component/content/article/41-articles-of-2005/1514-the-great-john-l-sullivan" rel="nofollow">"The Great John L. Sullivan"</ref>. The Sweet Science. IBofP. Retrieved 5 October 2019.
+
+<ref target="#cite_ref-27">^</ref> <ref class="external text" href="http://abc.go.com/primetime/sixdegrees/index.html" rel="nofollow">"ABC TV Shows, Specials & Movies - ABC.com"</ref>. ABC.
+
+<ref target="#cite_ref-28">^</ref> <ref class="external text" href="http://science.discovery.com/tv-schedules/special.html?paid=48.15725.125206.36064.0" rel="nofollow">"Connected: The Power of Six Degrees"</ref>. The Science Channel – <ref target="/wiki/Discovery_Channel" title="Discovery Channel">Discovery Channel</ref>.
+
+<ref target="#cite_ref-29">^</ref> Het Nieuwsblad, 25 September 2009 <ref class="external text" href="https://web.archive.org/web/20110501073520/http://www.nieuwsblad.be/article/detail.aspx?articleid=GDC2FNI8B" rel="nofollow">"Archived copy"</ref>. Archived from <ref class="external text" href="http://www.nieuwsblad.be/article/detail.aspx?articleid=GDC2FNI8B" rel="nofollow">the original</ref> on 2011-05-01. Retrieved 2010-02-25.CS1 maint: archived copy as title (<ref target="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</ref>)<ref class="external text" href="https://web.archive.org/web/20110501073602/http://www.nieuwsblad.be/article/detail.aspx?articleid=GDC2FNI8J" rel="nofollow">"Archived copy"</ref>. Archived from <ref class="external text" href="http://www.nieuwsblad.be/article/detail.aspx?articleid=GDC2FNI8J" rel="nofollow">the original</ref> on 2011-05-01. Retrieved 2010-02-25.CS1 maint: archived copy as title (<ref target="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</ref>) (<ref target="/wiki/Dutch_language" title="Dutch language">Dutch</ref>)
+
+<ref target="#cite_ref-30">^</ref> Israel's Channel 2 website <ref class="external autonumber" href="http://www.rashut2.org.il/prod_self.asp?pgId=18625&sttsId=3&year=2005&catId=100&arc=1" rel="nofollow">[2]</ref> (<ref target="/wiki/Hebrew_language" title="Hebrew language">Hebrew</ref>)
+
+<ref target="#cite_ref-Futon_Critic_07-13-15_31-0">^</ref> staff (July 13, 2015). <ref class="external text" href="http://www.thefutoncritic.com/devwatch/six-degrees-of-everything/" rel="nofollow">"SIX DEGREES OF EVERYTHING (TRUTV) Premieres Tuesday, August 18"</ref>. <ref class="mw-redirect" href="/wiki/Futon_Critic" title="Futon Critic">Futon Critic</ref>. Retrieved August 12, 2015.
+
+<ref target="#cite_ref-32">^</ref> <ref class="external text" href="https://www.pcworld.com/article/2028714/any-two-web-pages-are-separated-by-just-19-clicks-study-finds.html" rel="nofollow">/any two web pages are separated by just 19 clicks study finds</ref> 
+
+<ref target="#cite_ref-33">^</ref> <ref class="external text" href="https://www.sixdegreesofwikipedia.com/blog/search-results-analysis" rel="nofollow">Insights On Hitler And More From The First 500,000 Searches</ref> by Jacob Wenger, March 14, 2018 (Searches with the same start and end page were not included in this average, and neither were articles in which no connection was found.)
+
+<ref target="#cite_ref-34">^</ref> <ref class="external text" href="http://blog.karlbunyan.com/2009/06/24/six-degrees-come-in-your-time-is-up/" rel="nofollow">"Six Degrees: come in, your time is up"</ref>. K! - the blog of Karl Bunyan.
+
+<ref target="#cite_ref-35">^</ref> <ref class="external text" href="https://apps.facebook.com/sixdegreesearch" rel="nofollow">"Six Degrees on Facebook - Facebook"</ref>. facebook.com.
+
+<ref target="#cite_ref-36">^</ref> <ref class="external text" href="http://www.insidefacebook.com/2010/04/21/facebook-removing-24-hour-caching-policy-on-user-data-for-developers/" rel="nofollow">"Facebook Removing 24 Hour Caching Policy on User Data for Developers"</ref>. insidefacebook.com.
+
+<ref target="#cite_ref-37">^</ref> <ref class="external text" href="https://archive.is/20120707013246/http://blog.mikamai.co.uk/2010/06/mikamai-participates-with-zuck-in-london-facebook-hackathon/" rel="nofollow">"Archived copy"</ref>. Archived from <ref class="external text" href="http://blog.mikamai.co.uk/2010/06/mikamai-participates-with-zuck-in-london-facebook-hackathon/" rel="nofollow">the original</ref> on 2012-07-07. Retrieved 2010-09-11.CS1 maint: archived copy as title (<ref target="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</ref>)
+
+<ref target="#cite_ref-38">^</ref> <ref class="external text" href="https://web.archive.org/web/20110926141619/http://smallworld.sandbox.yahoo.com/" rel="nofollow">"Archived copy"</ref>. Archived from <ref class="external text" href="http://smallworld.sandbox.yahoo.com/" rel="nofollow">the original</ref> on 2011-09-26. Retrieved 2011-09-27.CS1 maint: archived copy as title (<ref target="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</ref>)
+
+<ref target="#cite_ref-SDS-T-01_39-0">^</ref> Barnett, Emma (22 November 2011). <ref class="external text" href="https://www.telegraph.co.uk/technology/facebook/8906693/Facebook-cuts-six-degrees-of-separation-to-four.html" rel="nofollow">"Facebook cuts six degrees of separation to four"</ref>. Telegraph. Retrieved 7 May 2012.
+
+<p>^ <ref target="#cite_ref-facebook2016_40-0">a</ref> <ref target="#cite_ref-facebook2016_40-1">b</ref> <ref target="#cite_ref-facebook2016_40-2">c</ref> <ref class="external text" href="https://research.fb.com/three-and-a-half-degrees-of-separation/" rel="nofollow">"Three and a half degrees of separation – Facebook Research"</ref>. Retrieved 9 July 2017.</p>
+
+<ref target="#cite_ref-41">^</ref> Backstrom, Lars; Boldi, Paolo; Rosa, Marco; Ugander, Johan; Vigna, Sebastiano (2011-11-19). "Four Degrees of Separation". <ref target="/wiki/ArXiv" title="ArXiv">arXiv</ref>:<ref class="external text" href="//arxiv.org/abs/1111.4570" rel="nofollow">1111.4570</ref> [<ref class="external text" href="//arxiv.org/archive/cs.SI" rel="nofollow">cs.SI</ref>].
+
+<ref target="#cite_ref-42">^</ref> Ugander, Johan; Karrer, Brian; Backstrom, Lars; Marlow, Cameron (2011). "The Anatomy of the Facebook Social Graph". <ref target="/wiki/ArXiv" title="ArXiv">arXiv</ref>:<ref class="external text" href="//arxiv.org/abs/1111.4503" rel="nofollow">1111.4503</ref> [<ref class="external text" href="//arxiv.org/archive/cs.SI" rel="nofollow">cs.SI</ref>].
+
+<ref target="#cite_ref-43">^</ref> <ref class="external text" href="https://www.telegraph.co.uk/technology/2016/02/04/facebook-says-there-are-actually-357-degrees-of-separation/" rel="nofollow">"Facebook says there are only 3.57 degrees of separation"</ref>. Retrieved 4 February 2016.
+
+<ref target="#cite_ref-44">^</ref> Kirkpatrick, David (2010). <ref target="/wiki/The_Facebook_Effect" title="The Facebook Effect">The Facebook Effect: The Inside Story of the Company That Is Connecting the World</ref>. Simon & Schuster. <ref target="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</ref> <ref target="/wiki/Special:BookSources/978-1439102121" title="Special:BookSources/978-1439102121">978-1439102121</ref>.
+
+<ref target="#cite_ref-45">^</ref> boyd, d. m; Ellison, N. B (2007). "Social network sites: Definition, history, and scholarship". Computer-Mediated. 13 (1): 210–230. <ref target="/wiki/Digital_object_identifier" title="Digital object identifier">doi</ref>:<ref class="external text" href="//doi.org/10.1111%2Fj.1083-6101.2007.00393.x" rel="nofollow">10.1111/j.1083-6101.2007.00393.x</ref>.
+
+<ref target="#cite_ref-46">^</ref> Apr 30, 2010, <ref class="external text" href="http://www.sysomos.com/insidetwitter/sixdegrees/" rel="nofollow">Six Degrees of Separation, Twitter Style</ref>, from <ref target="/wiki/Sysomos" title="Sysomos">Sysomos</ref>.
+
+<ref target="#cite_ref-bakhsh_47-0">^</ref> Reza Bakhshandeh, Mehdi Samadi, Zohreh Azimifar, Jonathan Schaeffer <ref class="external text" href="http://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/view/4031" rel="nofollow">Degrees of Separation in Social Networks.</ref> Fourth Annual Symposium on Combinatorial Search, 2011
+
+<ref target="#cite_ref-48">^</ref> <ref class="external text" href="http://www.ams.org/mathscinet/collaborationDistance.html" rel="nofollow">"MR: Collaboration Distance"</ref>. ams.org.
+
+<ref target="#cite_ref-49">^</ref> <ref class="external text" href="https://web.archive.org/web/20170724075829/http://erdosbaconsabbath.com/" rel="nofollow">"EBS Project"</ref>. erdosbaconsabbath.com. Archived from <ref class="external text" href="http://erdosbaconsabbath.com/" rel="nofollow">the original</ref> on 2017-07-24.
+
+<ref target="#cite_ref-50">^</ref> <ref class="external text" href="http://www.siop.org/tip/Oct07/Sheridan%20PDFs/452_029to035.pdf" rel="nofollow">(Michel, 2007)</ref>
+
+
+<h2>External links[<ref target="/w/index.php?title=Six_degrees_of_separation&action=edit&section=31" title="Edit section: External links">edit</ref>]</h2>
+<ref class="external text" href="https://www.naraview.com/#/" rel="nofollow">naraview</ref> - A game which you need to find a connection between two articles in wikipedia.
+<ref class="external text" href="https://apps.facebook.com/sixdegreesearch" rel="nofollow">Six Degrees</ref> – The new version of the Facebook application originally built by Karl Bunyan.
+<ref class="external text" href="http://www.insidefacebook.com/2010/04/21/facebook-removing-24-hour-caching-policy-on-user-data-for-developers/" rel="nofollow">Facebook revised policy on caching data</ref> – Facebook's revised policy removing the 24-hour limit on caching of user data.
+<ref class="external text" href="https://archive.is/20120707013246/http://blog.mikamai.co.uk/2010/06/mikamai-participates-with-zuck-in-london-facebook-hackathon/" rel="nofollow">Facebook Developers Garage London hackathon</ref> – The June 2010 Facebook Developers Garage London hackathon at which the new version of the Six Degrees Facebook application was built.
+<ref class="external text" href="http://findthebacon.com/" rel="nofollow">Find The Bacon</ref> – is a site built for finding the connections between actors and the movies they have played in.
+<ref class="external text" href="http://whocanfindme.blogspot.com/" rel="nofollow">whocanfindme – the quest</ref> – Off- and online contest based on the six degrees of separation principle
+<ref class="external text" href="http://www.sixdegrees.org.au" rel="nofollow">Six Degrees Campaign</ref>, a climate justice campaign initiated by Friends of the Earth Brisbane based on the principles of small world theory.
+<p>"<ref class="external text" href="http://www.sciam.com/article.cfm?articleID=0001297C-C5F8-1F32-9AD380A84189F2D7" rel="nofollow">E-mail Study Corroborates Six Degrees of Separation</ref>", a 2003 <ref target="/wiki/Scientific_American" title="Scientific American">Scientific American</ref> article about a study conducted at <ref target="/wiki/Columbia_University" title="Columbia University">Columbia University</ref>.</p>
+<ref class="external text" href="http://www.judithkleinfeld.com/ar_bigworld.html" rel="nofollow">Could it be a big world?</ref> – 2001, <ref target="/wiki/Judith_Kleinfeld" title="Judith Kleinfeld">Judith Kleinfeld</ref>, <ref class="mw-redirect" href="/wiki/University_of_Alaska" title="University of Alaska">University of Alaska</ref> Fairbanks
+<ref class="external text" href="https://web.archive.org/web/20070528053016/http://www.pumpthemusic.com/oracle/" rel="nofollow">Pumpthemusic Oracle</ref> – The 6 degrees theory applied to the musical universe
+<ref class="external text" href="http://oracleofbacon.org/" rel="nofollow">The Oracle of Bacon</ref> – The 6 degrees theory applied to movies and TV
+<ref class="external text" href="http://www.dau.mil/pubscats/pubscats/atl/2005_03_04/war-ma05.pdf" rel="nofollow">"Knock, Knock, Knocking on Newton's Door"</ref> (PDF). (223 <ref target="/wiki/Kibibyte" title="Kibibyte">KiB</ref>), by Dan Ward – Journal article published by Defense Acquisition University, applies principles from Duncan Watts' book <ref class="external text" href="https://web.archive.org/web/20070328231936/http://www2.wwnorton.com/catalog/fall03/032542.htm" rel="nofollow">Six Degrees</ref> to technology innovation and scientific research.
+<ref class="external free" href="http://www.steve-jackson.net/six_degrees/index.html" rel="nofollow">http://www.steve-jackson.net/six_degrees/index.html</ref>
+<ref class="external text" href="http://expertvoices.nsdl.org/cornell-info204/2008/05/01/measuring-degrees-of-separation" rel="nofollow">Measuring Degrees of Separation</ref> – Demonstrates how a small sample size can be used to accurately measure the degrees of separation
+<ref class="external text" href="https://www.facebook.com/group.php?gid=135906196456742&v=app_2344061033&ref=ts#!/group.php?gid=135906196456742" rel="nofollow">Using The Six Degrees Of Separation concept along with Social Networking to find my birthparents</ref> – An adoptee conducts an experiment based on the 6 degrees of separation and the power of social networking, his goal: to get the word out about his birth to as many people as possible until he finds people with answers to his questions.
+<ref class="external text" href="https://docs.google.com/viewer?url=http%3A%2F%2Fdjjr-courses.wdfiles.com%2Flocal--files%2Fsoc180%3Akarinthy-chain-links%2FKarinthy-Chain-Links_1929.pdf" rel="nofollow">"Chains," or "Chain-Links."</ref>
+<ref class="external text" href="http://www.cinemadoku.com/" rel="nofollow">Cinemadoku</ref> - A web game that combines the six degrees of movies and actors concept with the grid logic of Sudoku.
+<ref class="external text" href="http://sixdegreesofkanyewest.com" rel="nofollow">Six Degrees of Kanye West</ref>
+<ref class="external text" href="http://www.6degreesofvincegill.com/" rel="nofollow">6 Degrees of Music With Vince Gill</ref> – The 6 degrees theory applied to music with <ref target="/wiki/Vince_Gill" title="Vince Gill">Vince Gill</ref> at the Center
+<ref target="/wiki/Template:Social_networking" title="Template:Social networking">v</ref><ref target="/wiki/Template_talk:Social_networking" title="Template talk:Social networking">t</ref><ref class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Social_networking&action=edit">e</ref><ref target="/wiki/Social_network" title="Social network">Social networks</ref> and <ref target="/wiki/Social_media" title="Social media">social media</ref>Types
+<ref target="/wiki/Personal_network" title="Personal network">Personal</ref>
+<ref target="/wiki/Professional_network_service" title="Professional network service">Professional</ref>
+<ref target="/wiki/Sexual_network" title="Sexual network">Sexual</ref>
+<ref target="/wiki/Value_network" title="Value network">Value</ref>
+<p>Networks</p>
+<ref target="/wiki/Distributed_social_network" title="Distributed social network">Distributed social network</ref> (<ref target="/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking" title="Comparison of software and protocols for distributed social networking">list</ref>)
+<ref target="/wiki/Enterprise_social_networking" title="Enterprise social networking">Enterprise social networking</ref>
+<ref target="/wiki/Mobile_social_network" title="Mobile social network">Mobile social network</ref>
+<ref target="/wiki/Personal_knowledge_networking" title="Personal knowledge networking">Personal knowledge networking</ref>
+<ref target="/wiki/Social_networking_service" title="Social networking service">Services</ref>
+<ref target="/wiki/List_of_social_networking_websites" title="List of social networking websites">List of social networking websites</ref>
+<ref target="/wiki/List_of_virtual_communities_with_more_than_1_million_users" title="List of virtual communities with more than 1 million users">List of virtual communities with more than 1 million users</ref>
+<p>Concepts and theories</p>
+<ref target="/wiki/Assortative_mixing" title="Assortative mixing">Assortative mixing</ref>
+<ref target="/wiki/Bridge_(interpersonal)" title="Bridge (interpersonal)">Interpersonal bridge</ref>
+<ref target="/wiki/Organizational_network_analysis" title="Organizational network analysis">Organizational network analysis</ref>
+<ref target="/wiki/Small-world_experiment" title="Small-world experiment">Small-world experiment</ref>
+<ref target="/wiki/Social_aspects_of_television" title="Social aspects of television">Social aspects of television</ref>
+<ref target="/wiki/Social_capital" title="Social capital">Social capital</ref>
+<ref target="/wiki/Social_data_revolution" title="Social data revolution">Social data revolution</ref>
+<ref target="/wiki/Social_exchange_theory" title="Social exchange theory">Social exchange theory</ref>
+<ref target="/wiki/Social_identity_theory" title="Social identity theory">Social identity theory</ref>
+<ref target="/wiki/Social_network_analysis" title="Social network analysis">Social network analysis</ref>
+<ref target="/wiki/Social_web" title="Social web">Social web</ref>
+<ref target="/wiki/Structural_endogamy" title="Structural endogamy">Structural endogamy</ref>
+<p>Models and processes</p>
+<ref target="/wiki/Social_network_aggregation" title="Social network aggregation">Aggregation</ref>
+<ref class="mw-redirect" href="/wiki/Social_network_change_detection" title="Social network change detection">Change detection</ref>
+<ref target="/wiki/Collaboration_graph" title="Collaboration graph">Collaboration graph</ref>
+<ref target="/wiki/Collaborative_consumption" title="Collaborative consumption">Collaborative consumption</ref>
+<ref target="/wiki/Giant_Global_Graph" title="Giant Global Graph">Giant Global Graph</ref>
+<ref target="/wiki/Lateral_communication" title="Lateral communication">Lateral communication</ref>
+<ref target="/wiki/Social_graph" title="Social graph">Social graph</ref>
+<ref target="/wiki/Social_network_analysis_software" title="Social network analysis software">Social network analysis software</ref>
+<ref class="mw-redirect" href="/wiki/Social_networking_potential" title="Social networking potential">Social networking potential</ref>
+<ref target="/wiki/Social_television" title="Social television">Social television</ref>
+<ref target="/wiki/Structural_cohesion" title="Structural cohesion">Structural cohesion</ref>
+<p>Economics</p>
+<ref target="/wiki/Collaborative_finance" title="Collaborative finance">Collaborative finance</ref>
+<ref target="/wiki/Social_commerce" title="Social commerce">Social commerce</ref>
+<p>Phenomena</p>
+<ref target="/wiki/Community_recognition" title="Community recognition">Community recognition</ref>
+<ref target="/wiki/Complex_contagion" title="Complex contagion">Complex contagion</ref>
+<ref target="/wiki/Consequential_strangers" title="Consequential strangers">Consequential strangers</ref>
+<ref target="/wiki/Friend_of_a_friend" title="Friend of a friend">Friend of a friend</ref>
+<ref target="/wiki/Friendship_paradox" title="Friendship paradox">Friendship paradox</ref>
+<ref class="mw-selflink selflink">Six degrees of separation</ref>
+<ref class="mw-redirect" href="/wiki/Social_media_addiction" title="Social media addiction">Social media addiction</ref>
+<ref target="/wiki/Social_invisibility" title="Social invisibility">Social invisibility</ref>
+<ref class="mw-redirect" href="/wiki/Social_network_game" title="Social network game">Social network game</ref>
+<ref target="/wiki/Social_occultation" title="Social occultation">Social occultation</ref>
+<ref target="/wiki/Tribe_(internet)" title="Tribe (internet)">Tribe</ref>
+<p>Related topics</p>
+<ref class="mw-redirect" href="/wiki/List_of_social_network_researchers" title="List of social network researchers">Researchers</ref>
+<ref target="/wiki/User_profile" title="User profile">User profile</ref>
+<ref class="mw-redirect" href="/wiki/Viral_messages" title="Viral messages">Viral messages</ref>
+<ref target="/wiki/Virtual_community" title="Virtual community">Virtual community</ref>
+
+<ref target="/wiki/Template:Psychology" title="Template:Psychology">v</ref><ref target="/wiki/Template_talk:Psychology" title="Template talk:Psychology">t</ref><ref class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Psychology&action=edit">e</ref><ref target="/wiki/Psychology" title="Psychology">Psychology</ref>
+<ref target="/wiki/History_of_psychology" title="History of psychology">History</ref>
+<ref target="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy</ref>
+<ref target="/wiki/Portal:Psychology" title="Portal:Psychology">Portal</ref>
+<ref target="/wiki/Psychologist" title="Psychologist">Psychologist</ref>
+<ref target="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic psychology</ref>
+<ref target="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</ref>
+<ref target="/wiki/Affective_science" title="Affective science">Affective science</ref>
+<ref target="/wiki/Affective_neuroscience" title="Affective neuroscience">Affective neuroscience</ref>
+<ref target="/wiki/Behavioural_genetics" title="Behavioural genetics">Behavioral genetics</ref>
+<ref target="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Behavioral neuroscience</ref>
+<ref target="/wiki/Behaviorism" title="Behaviorism">Behaviorism</ref>
+<ref target="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</ref>/<ref target="/wiki/Cognitivism_(psychology)" title="Cognitivism (psychology)">Cognitivism</ref>
+<ref target="/wiki/Cognitive_neuroscience" title="Cognitive neuroscience">Cognitive neuroscience</ref>
+<ref target="/wiki/Social_cognitive_neuroscience" title="Social cognitive neuroscience">Social</ref>
+<ref target="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</ref>
+<ref target="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</ref>
+<ref target="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</ref>
+<ref target="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</ref>
+<ref target="/wiki/Differential_psychology" title="Differential psychology">Differential</ref>
+<ref target="/wiki/Ecological_psychology" title="Ecological psychology">Ecological</ref>
+<ref target="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</ref>
+<ref target="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</ref>
+<ref target="/wiki/Gestalt_psychology" title="Gestalt psychology">Gestalt</ref>
+<ref target="/wiki/Intelligence" title="Intelligence">Intelligence</ref>
+<ref target="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</ref>
+<ref target="/wiki/Moral_psychology" title="Moral psychology">Moral</ref>
+<ref target="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</ref>
+<ref target="/wiki/Perception" title="Perception">Perception</ref>
+<ref target="/wiki/Personality_psychology" title="Personality psychology">Personality</ref>
+<ref target="/wiki/Positive_psychology" title="Positive psychology">Positive</ref>
+<ref target="/wiki/Psycholinguistics" title="Psycholinguistics">Psycholinguistics</ref>
+<ref target="/wiki/Psychophysiology" title="Psychophysiology">Psychophysiology</ref>
+<ref target="/wiki/Quantitative_psychology" title="Quantitative psychology">Quantitative</ref>
+<ref target="/wiki/Social_psychology" title="Social psychology">Social</ref>
+<ref target="/wiki/Theoretical_psychology" title="Theoretical psychology">Theoretical</ref>
+<ref target="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</ref>
+<ref target="/wiki/Anomalistic_psychology" title="Anomalistic psychology">Anomalistic</ref>
+<ref target="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</ref>
+<ref target="/wiki/Psychological_testing" title="Psychological testing">Assessment</ref>
+<ref target="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</ref>
+<ref target="/wiki/Coaching_psychology" title="Coaching psychology">Coaching</ref>
+<ref target="/wiki/Community_psychology" title="Community psychology">Community</ref>
+<ref target="/wiki/Consumer_behaviour" title="Consumer behaviour">Consumer</ref>
+<ref target="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</ref>
+<ref target="/wiki/Critical_psychology" title="Critical psychology">Critical</ref>
+<ref target="/wiki/Educational_psychology" title="Educational psychology">Educational</ref>
+<ref target="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</ref>
+<ref target="/wiki/Feminist_psychology" title="Feminist psychology">Feminist</ref>
+<ref target="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</ref>
+<ref target="/wiki/Health_psychology" title="Health psychology">Health</ref>
+<ref target="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</ref>
+<ref target="/wiki/Legal_psychology" title="Legal psychology">Legal</ref>
+<ref target="/wiki/Media_psychology" title="Media psychology">Media</ref>
+<ref target="/wiki/Medical_psychology" title="Medical psychology">Medical</ref>
+<ref target="/wiki/Military_psychology" title="Military psychology">Military</ref>
+<ref target="/wiki/Music_psychology" title="Music psychology">Music</ref>
+<ref target="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</ref>
+<ref class="mw-redirect" href="/wiki/Pastoral_psychology" title="Pastoral psychology">Pastoral</ref>
+<ref target="/wiki/Political_psychology" title="Political psychology">Political</ref>
+<ref target="/wiki/Psychometrics" title="Psychometrics">Psychometrics</ref>
+<ref target="/wiki/Psychotherapy" title="Psychotherapy">Psychotherapy</ref>
+<ref target="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</ref>
+<ref target="/wiki/School_psychology" title="School psychology">School</ref>
+<ref target="/wiki/Sport_psychology" title="Sport psychology">Sport and exercise</ref>
+<ref target="/wiki/Suicidology" title="Suicidology">Suicidology</ref>
+<ref target="/wiki/Systems_psychology" title="Systems psychology">Systems</ref>
+<ref target="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</ref>
+<ref target="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Methodologies</ref>
+<ref target="/wiki/Animal_testing" title="Animal testing">Animal testing</ref>
+<ref target="/wiki/Archival_research" title="Archival research">Archival research</ref>
+<ref target="/wiki/Behavioral_epigenetics" title="Behavioral epigenetics">Behavior epigenetics</ref>
+<ref target="/wiki/Case_study" title="Case study">Case study</ref>
+<ref target="/wiki/Content_analysis" title="Content analysis">Content analysis</ref>
+<ref target="/wiki/Experimental_psychology" title="Experimental psychology">Experiments</ref>
+<ref target="/wiki/Human_subject_research" title="Human subject research">Human subject research</ref>
+<ref target="/wiki/Interview_(research)" title="Interview (research)">Interviews</ref>
+<ref target="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</ref>
+<ref target="/wiki/Observation" title="Observation">Observation</ref>
+<ref target="/wiki/Psychophysics" title="Psychophysics">Psychophysics</ref>
+<ref target="/wiki/Qualitative_psychological_research" title="Qualitative psychological research">Qualitative research</ref>
+<ref target="/wiki/Quantitative_psychological_research" title="Quantitative psychological research">Quantitative research</ref>
+<ref target="/wiki/Self-report_inventory" title="Self-report inventory">Self-report inventory</ref>
+<ref target="/wiki/Survey_methodology" title="Survey methodology">Statistical surveys</ref>
+<ref target="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</ref>
+<ref target="/wiki/Wilhelm_Wundt" title="Wilhelm Wundt">Wilhelm Wundt</ref> (1832–1920)
+<ref target="/wiki/William_James" title="William James">William James</ref> (1842–1910)
+<ref target="/wiki/Ivan_Pavlov" title="Ivan Pavlov">Ivan Pavlov</ref> (1849–1936)
+<ref target="/wiki/Sigmund_Freud" title="Sigmund Freud">Sigmund Freud</ref> (1856–1939)
+<ref target="/wiki/Edward_Thorndike" title="Edward Thorndike">Edward Thorndike</ref> (1874–1949)
+<ref target="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</ref> (1875–1961)
+<ref target="/wiki/John_B._Watson" title="John B. Watson">John B. Watson</ref> (1878–1958)
+<ref target="/wiki/Clark_L._Hull" title="Clark L. Hull">Clark L. Hull</ref> (1884–1952)
+<ref target="/wiki/Kurt_Lewin" title="Kurt Lewin">Kurt Lewin</ref> (1890–1947)
+<ref target="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</ref> (1896–1980)
+<ref target="/wiki/Gordon_Allport" title="Gordon Allport">Gordon Allport</ref> (1897–1967)
+<ref target="/wiki/J._P._Guilford" title="J. P. Guilford">J. P. Guilford</ref> (1897–1987)
+<ref target="/wiki/Carl_Rogers" title="Carl Rogers">Carl Rogers</ref> (1902–1987)
+<ref target="/wiki/Erik_Erikson" title="Erik Erikson">Erik Erikson</ref> (1902–1994)
+<ref target="/wiki/B._F._Skinner" title="B. F. Skinner">B. F. Skinner</ref> (1904–1990)
+<ref target="/wiki/Donald_O._Hebb" title="Donald O. Hebb">Donald O. Hebb</ref> (1904–1985)
+<ref target="/wiki/Ernest_Hilgard" title="Ernest Hilgard">Ernest Hilgard</ref> (1904–2001)
+<ref target="/wiki/Harry_Harlow" title="Harry Harlow">Harry Harlow</ref> (1905–1981)
+<ref target="/wiki/Raymond_Cattell" title="Raymond Cattell">Raymond Cattell</ref> (1905–1998)
+<ref target="/wiki/Abraham_Maslow" title="Abraham Maslow">Abraham Maslow</ref> (1908–1970)
+<ref target="/wiki/Neal_E._Miller" title="Neal E. Miller">Neal E. Miller</ref> (1909–2002)
+<ref target="/wiki/Jerome_Bruner" title="Jerome Bruner">Jerome Bruner</ref> (1915–2016)
+<ref target="/wiki/Donald_T._Campbell" title="Donald T. Campbell">Donald T. Campbell</ref> (1916–1996)
+<ref target="/wiki/Hans_Eysenck" title="Hans Eysenck">Hans Eysenck</ref> (1916–1997)
+<ref target="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</ref> (1916–2001)
+<ref target="/wiki/David_McClelland" title="David McClelland">David McClelland</ref> (1917–1998)
+<ref target="/wiki/Leon_Festinger" title="Leon Festinger">Leon Festinger</ref> (1919–1989)
+<ref target="/wiki/George_Armitage_Miller" title="George Armitage Miller">George A. Miller</ref> (1920–2012)
+<ref target="/wiki/Richard_Lazarus" title="Richard Lazarus">Richard Lazarus</ref> (1922–2002)
+<ref target="/wiki/Stanley_Schachter" title="Stanley Schachter">Stanley Schachter</ref> (1922–1997)
+<ref target="/wiki/Robert_Zajonc" title="Robert Zajonc">Robert Zajonc</ref> (1923–2008)
+<ref target="/wiki/Albert_Bandura" title="Albert Bandura">Albert Bandura</ref> (b. 1925)
+<ref target="/wiki/Roger_Brown_(psychologist)" title="Roger Brown (psychologist)">Roger Brown</ref> (1925–1997)
+<ref target="/wiki/Endel_Tulving" title="Endel Tulving">Endel Tulving</ref> (b. 1927)
+<ref target="/wiki/Lawrence_Kohlberg" title="Lawrence Kohlberg">Lawrence Kohlberg</ref> (1927–1987)
+<ref target="/wiki/Noam_Chomsky" title="Noam Chomsky">Noam Chomsky</ref> (b. 1928)
+<ref target="/wiki/Ulric_Neisser" title="Ulric Neisser">Ulric Neisser</ref> (1928–2012)
+<ref target="/wiki/Jerome_Kagan" title="Jerome Kagan">Jerome Kagan</ref> (b. 1929)
+<ref target="/wiki/Walter_Mischel" title="Walter Mischel">Walter Mischel</ref> (1930–2018)
+<ref target="/wiki/Elliot_Aronson" title="Elliot Aronson">Elliot Aronson</ref> (b. 1932)
+<ref target="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</ref> (b. 1934)
+<ref target="/wiki/Paul_Ekman" title="Paul Ekman">Paul Ekman</ref> (b. 1934)
+<ref target="/wiki/Michael_Posner_(psychologist)" title="Michael Posner (psychologist)">Michael Posner</ref> (b. 1936)
+<ref target="/wiki/Amos_Tversky" title="Amos Tversky">Amos Tversky</ref> (1937–1996)
+<ref target="/wiki/Bruce_McEwen" title="Bruce McEwen">Bruce McEwen</ref> (b. 1938)
+<ref target="/wiki/Larry_Squire" title="Larry Squire">Larry Squire</ref> (b. 1941)
+<ref target="/wiki/Richard_E._Nisbett" title="Richard E. Nisbett">Richard E. Nisbett</ref> (b. 1941)
+<ref target="/wiki/Martin_Seligman" title="Martin Seligman">Martin Seligman</ref> (b. 1942)
+<ref target="/wiki/Ed_Diener" title="Ed Diener">Ed Diener</ref> (b. 1946)
+<ref target="/wiki/Shelley_E._Taylor" title="Shelley E. Taylor">Shelley E. Taylor</ref> (b. 1946)
+<ref target="/wiki/John_Robert_Anderson_(psychologist)" title="John Robert Anderson (psychologist)">John Anderson</ref> (b. 1947)
+<ref target="/wiki/Ronald_C._Kessler" title="Ronald C. Kessler">Ronald C. Kessler</ref> (b. 1947)
+<ref target="/wiki/Joseph_E._LeDoux" title="Joseph E. LeDoux">Joseph E. LeDoux</ref> (b. 1949)
+<ref target="/wiki/Richard_Davidson" title="Richard Davidson">Richard Davidson</ref> (b. 1951)
+<ref target="/wiki/Susan_Fiske" title="Susan Fiske">Susan Fiske</ref> (b. 1952)
+<ref target="/wiki/Roy_Baumeister" title="Roy Baumeister">Roy Baumeister</ref> (b. 1953)
+<ref target="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</ref>
+<ref target="/wiki/List_of_counseling_topics" title="List of counseling topics">Counseling topics</ref>
+<ref target="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</ref>
+<ref target="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Important publications</ref>
+<ref target="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</ref>
+<ref target="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</ref>
+<ref target="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</ref>
+<ref target="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</ref>
+<ref target="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</ref>
+<ref target="/wiki/List_of_psychological_schools" title="List of psychological schools">Schools of thought</ref>
+<ref target="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</ref>
+<ref target="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</ref>
+
+<ref class="extiw" href="https://en.wiktionary.org/wiki/psychology" title="wiktionary:psychology">Wiktionary definition</ref>
+<ref class="extiw" href="https://en.wiktionary.org/wiki/Category:en:Psychology" title="wiktionary:Category:en:Psychology">Wiktionary category</ref>
+<ref class="extiw" href="https://en.wikisource.org/wiki/Category:Psychology" title="wikisource:Category:Psychology">Wikisource</ref>
+<ref class="extiw" href="https://commons.wikimedia.org/wiki/category:Psychology" title="commons:category:Psychology">Wikimedia Commons</ref>
+<ref class="extiw" href="https://en.wikiquote.org/wiki/Psychology" title="wikiquote:Psychology">Wikiquote</ref>
+<ref class="extiw" href="https://en.wikinews.org/wiki/Special:Search/Psychology" title="wikinews:Special:Search/Psychology">Wikinews</ref>
+<ref class="extiw" href="https://en.wikibooks.org/wiki/Psychology" title="wikibooks:Psychology">Wikibooks</ref>
+
+
+
+
+
+<p>Retrieved from "<ref dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Six_degrees_of_separation&oldid=919754261">https://en.wikipedia.org/w/index.php?title=Six_degrees_of_separation&oldid=919754261</ref>"</p>
+<ref target="/wiki/Help:Category" title="Help:Category">Categories</ref>: <ref target="/wiki/Category:Social_networks" title="Category:Social networks">Social networks</ref><ref target="/wiki/Category:Sociological_theories" title="Category:Sociological theories">Sociological theories</ref>Hidden categories: <ref target="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</ref><ref target="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</ref><ref target="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</ref><ref target="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</ref><ref target="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</ref><ref target="/wiki/Category:Articles_with_unsourced_statements_from_July_2016" title="Category:Articles with unsourced statements from July 2016">Articles with unsourced statements from July 2016</ref>
+
+
+
+
+
+
+
+<head>Navigation menu</head>
+
+
+<p>Personal tools</h3></p>
+
+<p>Not logged in<ref accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</ref><ref accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</ref><ref target="/w/index.php?title=Special:CreateAccount&returnto=Six+degrees+of+separation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</ref><ref accesskey="o" href="/w/index.php?title=Special:UserLogin&returnto=Six+degrees+of+separation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</ref> </p>
+
+
+
+<p>Namespaces</h3></p>
+
+<ref accesskey="c" href="/wiki/Six_degrees_of_separation" title="View the content page [c]">Article</ref><ref accesskey="t" href="/wiki/Talk:Six_degrees_of_separation" rel="discussion" title="Discussion about the content page [t]">Talk</ref> 
+
+
+
+
+<p>Variants</p>
+</h3>
+
+
+
+
+
+
+<p>Views</h3></p>
+
+<ref target="/wiki/Six_degrees_of_separation">Read</ref><ref accesskey="e" href="/w/index.php?title=Six_degrees_of_separation&action=edit" title="Edit this page [e]">Edit</ref><ref accesskey="h" href="/w/index.php?title=Six_degrees_of_separation&action=history" title="Past revisions of this page [h]">View history</ref> 
+
+
+
+<p>More</h3></p>
+
+
+
+
+<h3>
+<p>Search</p>
+</h3>
+
+
+ 
+
+
+
+
+
+<ref class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></ref>
+
+<p>Navigation</h3></p>
+
+
+<ref accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</ref><ref target="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</ref><ref target="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</ref><ref target="/wiki/Portal:Current_events" title="Find background information on current events">Current events</ref><ref accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</ref><ref target="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en" title="Support us">Donate to Wikipedia</ref><ref target="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</ref> 
+
+
+
+<p>Interaction</h3></p>
+
+
+<ref target="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</ref><ref target="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</ref><ref target="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</ref><ref accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</ref><ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</ref> 
+
+
+
+<p>Tools</h3></p>
+
+
+<ref accesskey="j" href="/wiki/Special:WhatLinksHere/Six_degrees_of_separation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</ref><ref accesskey="k" href="/wiki/Special:RecentChangesLinked/Six_degrees_of_separation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</ref><ref accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</ref><ref accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</ref><ref target="/w/index.php?title=Six_degrees_of_separation&oldid=919754261" title="Permanent link to this revision of the page">Permanent link</ref><ref target="/w/index.php?title=Six_degrees_of_separation&action=info" title="More information about this page">Page information</ref><ref accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2855754" title="Link to connected data repository item [g]">Wikidata item</ref><ref target="/w/index.php?title=Special:CiteThisPage&page=Six_degrees_of_separation&id=919754261" title="Information on how to cite this page">Cite this page</ref> 
+
+
+
+<p>Print/export</h3></p>
+
+
+<ref target="/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Six+degrees+of+separation">Create a book</ref><ref target="/w/index.php?title=Special:ElectronPdf&page=Six+degrees+of+separation&action=show-download-screen">Download as PDF</ref><ref accesskey="p" href="/w/index.php?title=Six_degrees_of_separation&printable=yes" title="Printable version of this page [p]">Printable version</ref> 
+
+
+
+<p>Languages</h3></p>
+
+
+<ref class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%AA_%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA_%D9%85%D9%86_%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%B9%D8%AF" hreflang="ar" lang="ar" title="ست درجات من التباعد – Arabic">العربية</ref><ref class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Ayr%C4%B1l%C4%B1%C4%9F%C4%B1n_alt%C4%B1_d%C9%99r%C9%99c%C9%99si" hreflang="az" lang="az" title="Ayrılığın altı dərəcəsi – Azerbaijani">Azərbaycanca</ref><ref class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D0%BE%D1%80%D1%8B%D1%8F_%D1%88%D0%B0%D1%81%D1%86%D1%96_%D1%80%D1%83%D0%BA%D0%B0%D0%BF%D0%B0%D1%86%D1%96%D1%81%D0%BA%D0%B0%D0%BD%D0%BD%D1%8F%D1%9E" hreflang="be" lang="be" title="Тэорыя шасці рукапацісканняў – Belarusian">Беларуская</ref><ref class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sis_graus_de_separaci%C3%B3" hreflang="ca" lang="ca" title="Sis graus de separació – Catalan">Català</ref><ref class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C5%A0est_stup%C5%88%C5%AF_odlou%C4%8Den%C3%AD" hreflang="cs" lang="cs" title="Šest stupňů odloučení – Czech">Čeština</ref><ref class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kleine-Welt-Ph%C3%A4nomen" hreflang="de" lang="de" title="Kleine-Welt-Phänomen – German">Deutsch</ref><ref class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Seis_grados_de_separaci%C3%B3n" hreflang="es" lang="es" title="Seis grados de separación – Spanish">Español</ref><ref class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D8%B4_%D8%AF%D8%B1%D8%AC%D9%87_%D8%AC%D8%AF%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="شش درجه جدایی – Persian">فارسی</ref><ref class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Six_degr%C3%A9s_de_s%C3%A9paration" hreflang="fr" lang="fr" title="Six degrés de séparation – French">Français</ref><ref class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8E%D5%A5%D6%81_%D5%B1%D5%A5%D5%BC%D6%84%D5%BD%D5%A5%D5%B2%D5%B4%D5%B8%D6%82%D5%B4%D5%B6%D5%A5%D6%80%D5%AB_%D5%BF%D5%A5%D5%BD%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Վեց ձեռքսեղմումների տեսություն – Armenian">Հայերեն</ref><ref class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Enam_tingkat_pemisahan" hreflang="id" lang="id" title="Enam tingkat pemisahan – Indonesian">Bahasa Indonesia</ref><ref class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sei_gradi_di_separazione" hreflang="it" lang="it" title="Sei gradi di separazione – Italian">Italiano</ref><ref class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A9%D7%A9_%D7%93%D7%A8%D7%92%D7%95%D7%AA_%D7%A9%D7%9C_%D7%94%D7%A4%D7%A8%D7%93%D7%94" hreflang="he" lang="he" title="שש דרגות של הפרדה – Hebrew">עברית</ref><ref class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Hat_l%C3%A9p%C3%A9s_t%C3%A1vols%C3%A1g" hreflang="hu" lang="hu" title="Hat lépés távolság – Hungarian">Magyar</ref><ref class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A8%D0%B5%D1%81%D1%82_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8_%D0%BE%D0%B4%D0%B2%D0%BE%D0%B5%D0%BD%D0%BE%D1%81%D1%82" hreflang="mk" lang="mk" title="Шест степени одвоеност – Macedonian">Македонски</ref><ref class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Six_degrees_of_separation_(hypothese)" hreflang="nl" lang="nl" title="Six degrees of separation (hypothese) – Dutch">Nederlands</ref><ref class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%AD%E6%AC%A1%E3%81%AE%E9%9A%94%E3%81%9F%E3%82%8A" hreflang="ja" lang="ja" title="六次の隔たり – Japanese">日本語</ref><ref class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sze%C5%9B%C4%87_stopni_oddalenia" hreflang="pl" lang="pl" title="Sześć stopni oddalenia – Polish">Polski</ref><ref class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Teoria_dos_seis_graus_de_separa%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Teoria dos seis graus de separação – Portuguese">Português</ref><ref class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8_%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%BE%D0%B6%D0%B0%D1%82%D0%B8%D0%B9" hreflang="ru" lang="ru" title="Теория шести рукопожатий – Russian">Русский</ref><ref class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kuusi_erottavaa_askelta" hreflang="fi" lang="fi" title="Kuusi erottavaa askelta – Finnish">Suomi</ref><ref class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Six_degrees_of_separation" hreflang="sv" lang="sv" title="Six degrees of separation – Swedish">Svenska</ref><ref class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D1%96%D1%8F_%D1%88%D0%B5%D1%81%D1%82%D0%B8_%D1%80%D1%83%D0%BA%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D1%8C" hreflang="uk" lang="uk" title="Теорія шести рукостискань – Ukrainian">Українська</ref><ref class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94" hreflang="yue" lang="yue" title="六度分隔 – Cantonese">粵語</ref><ref class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%AD%E5%BA%A6%E5%88%86%E9%9A%94%E7%90%86%E8%AE%BA" hreflang="zh" lang="zh" title="六度分隔理论 – Chinese">中文</ref> 
+<ref class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2855754#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</ref> 
+
+
+
+
+
+ This page was last edited on 5 October 2019, at 15:46 (UTC).
+<p>Text is available under the <ref target="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</ref><ref target="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></ref>;</p>
+<p>additional terms may apply. By using this site, you agree to the <ref target="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</ref> and <ref target="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</ref>. Wikipedia® is a registered trademark of the <ref target="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</ref>, a non-profit organization.</p>
+
+
+<ref class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</ref>
+<ref target="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</ref>
+<ref target="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</ref>
+<ref target="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</ref>
+<ref target="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</ref>
+<ref target="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</ref>
+<ref class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Six_degrees_of_separation&mobileaction=toggle_view_mobile">Mobile view</ref>
+
+
+
+<ref target="https://wikimediafoundation.org/"></ref> 
+
+<ref target="https://www.mediawiki.org/"></ref> 
+
+
+
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.628","walltime":"0.775","ppvisitednodes":{"value":3312,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110010,"limit":2097152},"templateargumentsize":{"value":4897,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":100917,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 640.291 1 -total"," 57.59% 368.714 2 Template:Reflist"," 25.60% 163.941 4 Template:Cite_journal"," 19.58% 125.376 9 Template:Citation_needed"," 17.16% 109.856 9 Template:Fix"," 14.19% 90.861 19 Template:Cite_web"," 9.00% 57.608 18 Template:Category_handler"," 6.74% 43.124 9 Template:Delink"," 4.52% 28.956 5 Template:Cite_news"," 4.23% 27.101 1 Template:Redirect-distinguish6"]},"scribunto":{"limitreport-timeusage":{"value":"0.316","limit":"10.000"},"limitreport-memusage":{"value":6048114,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20191005154556","ttl":2592000,"transientcontent":false}}});});</p>
+<p>{"@context":"https:\/\/schema.org","@type":"Article","name":"Six degrees of separation","url":"https:\/\/en.wikipedia.org\/wiki\/Six_degrees_of_separation","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2855754","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2855754","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-08-20T08:09:08Z","dateModified":"2019-10-05T15:46:07Z","headline":"theory of inter-connectedness of all people"}</p>
+<p>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1319"});});</p>
+
+
