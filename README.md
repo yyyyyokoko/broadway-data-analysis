@@ -72,8 +72,7 @@ read input file broadway-shows-all.cvs;
 
 
 
-[Data]
-This folder contains all the data set files collected by our scripts, both before and after cleaning. 
+[Data Sets]
 
 1. broadway_grosses.csv 					
 This csv file contains Broadway Grosses data before cleaning;
