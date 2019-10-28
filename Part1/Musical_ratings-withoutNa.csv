@@ -1,0 +1,309 @@
+show,total_rating,critics_rating,readers_rating
+Cats,6.05,6.82,5.27
+The Mystery of Edwin Drood,6.90,7.93,5.88
+The Iceman Cometh,5.56,7.92,3.20
+Sunday in the Park with George,7.33,8.84,5.82
+The King and I,7.22,8.72,5.72
+Ain't Too Proud,5.21,7.18,3.24
+Aladdin,6.37,6.84,5.90
+Beetlejuice,5.54,6.05,5.04
+Betrayal,8.56,8.56,
+Chicago,8.49,9.50,7.47
+Come From Away,6.20,8.00,4.41
+Dear Evan Hansen,7.92,9.41,6.43
+Freestyle Love Supreme,8.27,8.27,
+Frozen,6.04,6.61,5.47
+Hadestown,7.22,8.21,6.23
+Hamilton,7.44,9.68,5.21
+Linda Vista,0.00,0.00,
+Mean Girls,5.41,7.00,3.82
+Sea Wall/A Life,7.69,7.69,
+Slave Play,0.00,0.00,
+The Book of Mormon,7.09,8.71,5.46
+The Great Society,6.31,6.31,
+The Height of the Storm,7.13,7.13,
+The Inheritance,0.00,0.00,
+The Lion King,8.34,8.75,7.92
+The Phantom of the Opera,7.07,6.83,7.30
+The Rose Tattoo,0.00,0.00,
+The Sound Inside,0.00,0.00,
+To Kill A Mockingbird,5.74,8.00,3.47
+Tootsie,5.83,7.65,4.00
+Waitress,6.28,7.70,4.87
+Wicked,6.57,5.33,7.82
+The Front Page,6.91,7.92,5.89
+The House of Blue Leaves,6.01,6.26,5.75
+Long Day's Journey Into Night,6.32,7.95,4.69
+Anything Goes,7.12,7.89,6.34
+Burn This,5.15,6.88,3.43
+Cabaret,7.11,8.09,6.13
+Dreamgirls,0.00,0.00,
+Les Liaisons Dangereuses,6.29,6.57,6.00
+All My Sons,6.76,7.94,5.57
+The Night of the Iguana,2.75,0.00,5.50
+Chess,0.00,0.00,
+Macbeth,6.09,6.00,6.19
+A Streetcar Named Desire,6.66,6.55,6.77
+Love Letters,6.02,7.38,4.67
+Born Yesterday,6.34,8.00,4.69
+Fiddler on the Roof,6.88,8.79,4.97
+Once On This Island,7.48,8.67,6.30
+Six Degrees of Separation,6.45,7.93,4.96
+Cat on a Hot Tin Roof,5.65,6.05,5.25
+Miss Saigon,6.26,6.94,5.59
+The Crucible,6.30,7.23,5.38
+Crazy for You,0.50,0.00,1.00
+Falsettos,6.58,8.32,4.85
+The Price,6.63,7.50,5.75
+Private Lives,6.39,6.79,6.00
+The Visit,6.86,7.58,6.15
+My Fair Lady,6.38,8.69,4.07
+She Loves Me,7.25,8.35,6.15
+Saint Joan,5.47,7.17,3.77
+Carousel,5.14,7.20,3.07
+Damn Yankees,2.75,0.00,5.50
+Sunset Boulevard,7.11,7.94,6.27
+The Glass Menagerie,6.50,7.53,5.47
+Picnic,5.47,6.75,4.20
+No Man's Land,7.36,7.93,6.79
+How to Succeed in Business Without Really Trying,7.23,6.96,7.50
+Master Class,6.31,7.75,4.86
+Smokey Joe's Cafe,0.00,0.00,
+The Father,6.89,7.44,6.34
+The Heiress,6.75,8.19,5.32
+Arcadia,6.21,7.00,5.42
+Present Laughter,6.57,7.67,5.48
+Skylight,6.51,8.08,4.95
+Hughie,5.99,6.40,5.58
+A Delicate Balance,6.18,7.24,5.12
+A View from the Bridge,6.26,8.19,4.32
+Forever Tango,5.81,6.60,5.02
+Jekyll & Hyde,4.00,4.63,3.38
+Side Show,7.12,7.88,6.36
+The Cherry Orchard,4.99,5.43,4.55
+Annie,6.84,7.57,6.10
+Twelfth Night,7.56,9.00,6.11
+The Gin Game,6.54,7.21,5.86
+The Little Foxes,6.60,8.38,4.83
+On the Town,7.60,8.47,6.72
+Death of a Salesman,7.15,8.18,6.12
+Jesus Christ Superstar,6.33,7.20,5.47
+The Real Thing,6.34,6.95,5.73
+True West,4.32,6.86,1.78
+Noises Off,6.76,8.00,5.51
+Follies,8.18,8.35,8.00
+Frankie and Johnny in the Clair de Lune,5.61,7.63,3.60
+The Elephant Man,6.87,7.76,5.98
+A Raisin in the Sun,7.47,8.52,6.42
+King Lear,5.17,7.17,3.18
+Jersey Boys,7.49,7.33,7.64
+The Color Purple,7.07,8.59,5.54
+Glengarry Glen Ross,6.24,6.57,5.91
+Mary Poppins,7.06,6.70,7.42
+Spring Awakening,6.98,8.54,5.41
+What the Constitution Means to Me,5.00,9.00,1.00
+King Kong,4.04,4.18,3.90
+The Cher Show,5.94,6.73,5.16
+Be More Chill,5.28,6.43,4.14
+The Prom,6.02,7.64,4.40
+Ink,6.21,8.05,4.38
+The Ferryman,6.74,9.08,4.40
+Hillary and Clinton,4.66,6.82,2.50
+Network,5.70,8.29,3.11
+Kinky Boots,7.23,7.33,7.12
+The Band's Visit,6.92,8.76,5.08
+Anastasia,6.60,7.13,6.07
+Choir Boy,5.99,8.23,3.75
+American Son,5.81,6.81,4.80
+The Waverly Gallery,7.05,7.94,6.17
+Mike Birbiglia's The New One,6.54,8.00,5.08
+School of Rock ,6.39,7.59,5.19
+The Lifespan of a Fact,5.46,7.76,3.15
+Head Over Heels,5.61,6.46,4.76
+The Play That Goes Wrong,6.08,7.22,4.94
+Torch Song,7.08,8.09,6.08
+The Illusionists ,2.76,0.00,5.53
+Celebrity Autobiography,2.43,0.00,4.86
+Springsteen On Broadway,6.65,8.60,4.69
+Bernhardt/Hamlet,5.89,7.57,4.21
+The Nap,5.64,6.82,4.46
+Straight White Men,5.55,7.17,3.92
+The Boys in the Band,6.41,7.87,4.95
+Escape to Margaritaville,4.66,5.50,3.81
+Three Tall Women,6.86,8.72,5.00
+Travesties,6.00,8.15,3.84
+Children of a Lesser God,6.34,6.69,6.00
+Lobby Hero,6.30,7.50,5.09
+Rocktopia,3.69,4.00,3.37
+Farinelli and the King,6.28,7.69,4.87
+The Parisian Woman,5.39,5.44,5.34
+Latin History for Morons,6.48,7.50,5.45
+The Children,6.80,7.85,5.75
+Meteor Shower,5.98,6.63,5.34
+Charlie and the Chocolate Factory,5.69,4.75,6.63
+Junk,6.16,7.72,4.61
+Home for the Holidays,4.37,3.40,5.33
+Time and the Conways,6.38,6.69,6.06
+War Paint,6.73,7.68,5.78
+Prince of Broadway,6.33,6.83,5.83
+Bandstand,6.39,7.53,5.25
+Groundhog Day,6.83,7.60,6.06
+Marvin's Room,6.17,7.36,4.97
+On Your Feet!,6.07,7.60,4.54
+Indecent,6.92,8.36,5.49
+Oslo,7.16,8.36,5.97
+Sweat,6.42,8.25,4.60
+Significant Other,6.70,7.40,6.00
+Cirque du Soleil Paramour,5.77,5.38,6.16
+In Transit,6.65,6.42,6.88
+The Present,6.52,6.81,6.23
+Jitney,6.36,8.53,4.18
+The Humans,6.72,8.69,4.75
+The Encounter,7.06,7.75,6.38
+Matilda The Musical,8.18,8.91,7.44
+The Illusionists ,2.76,0.00,5.53
+Heisenberg,6.61,7.55,5.66
+Frankie Valli and the Four Seasons On Broadway,3.50,0.00,7.00
+An American in Paris,6.71,7.83,5.58
+Fun Home,7.05,9.06,5.04
+An Act of God,5.95,7.25,4.66
+The Curious Incident of the Dog in the Night-Time,7.33,8.82,5.83
+Finding Neverland,5.69,6.05,5.32
+Fully Committed,5.58,6.94,4.22
+Motown The Musical,5.91,6.40,5.42
+Bright Star,6.39,6.70,6.08
+Eclipsed,6.27,8.23,4.30
+Blackbird,6.76,8.38,5.15
+American Psycho,6.12,7.19,5.05
+Tuck Everlasting,5.64,6.61,4.66
+Our Mother's Brief Affair,5.41,5.73,5.09
+Allegiance,6.68,6.81,6.55
+Misery,6.14,6.29,5.99
+China Doll,5.44,5.83,5.05
+King Charles III,6.80,8.47,5.12
+A Gentleman's Guide to Love and Murder,7.40,7.72,7.08
+Dames at Sea,5.65,6.22,5.07
+Hand to God,6.96,8.15,5.76
+Sylvia,6.22,7.53,4.91
+Fool For Love,6.63,7.82,5.44
+Old Times,6.42,7.33,5.50
+Amazing Grace,5.19,5.89,4.48
+Hedwig and the Angry Inch,7.22,8.83,5.60
+Penn & Teller On Broadway,2.75,0.00,5.50
+It Shoulda Been You,5.46,6.11,4.81
+Fish in the Dark,6.67,6.96,6.37
+On the Twentieth Century,7.84,8.22,7.45
+The Audience,6.57,7.64,5.50
+Gigi,5.89,6.05,5.72
+Airline Highway,5.90,6.59,5.20
+It's Only a Play,5.68,7.00,4.35
+Doctor Zhivago,4.80,4.81,4.80
+Living on Love,5.95,6.26,5.64
+The Heidi Chronicles,6.36,7.55,5.17
+Honeymoon in Vegas,6.95,7.32,6.58
+If/Then,6.48,7.25,5.71
+Constellations,7.15,8.06,6.24
+Disgraced,6.88,7.90,5.86
+You Can't Take It With You,6.39,8.50,4.27
+The River,6.20,6.60,5.80
+The Last Ship,7.15,7.24,7.06
+Rock of Ages,5.89,6.20,5.57
+Cinderella,6.51,7.45,5.57
+Once,7.66,8.33,6.99
+Pippin,7.87,8.72,7.02
+This Is Our Youth,6.98,8.25,5.71
+The Country House,5.98,6.46,5.50
+Lady Day at Emerson's Bar and Grill,7.53,8.44,6.62
+Bullets Over Broadway,6.77,7.29,6.24
+Newsies,7.12,8.00,6.25
+Rocky,6.33,7.22,5.45
+Violet,6.98,8.33,5.62
+Of Mice and Men,6.46,8.18,4.73
+Holler If Ya Hear Me,6.00,5.53,6.47
+The Cripple of Inishmaan,7.23,8.37,6.09
+The Realistic Joneses,5.72,7.33,4.10
+After Midnight,7.46,8.40,6.51
+All The Way,7.19,7.73,6.64
+Casa Valentina,7.21,7.64,6.77
+Mothers and Sons,6.09,6.69,5.49
+Act One,6.00,6.89,5.11
+The Bridges of Madison County,7.16,7.55,6.76
+The Velocity of Autumn,5.16,5.62,4.70
+Outside Mullingar,6.02,7.06,4.98
+Bronx Bombers,5.42,5.38,5.47
+Machinal,6.86,8.05,5.67
+A Night With Janis Joplin,6.29,6.59,5.98
+First Date,6.49,6.35,6.63
+Spider-Man Turn Off the Dark,5.77,5.05,6.48
+Big Fish,6.40,6.75,6.06
+The Snow Geese,6.06,6.27,5.85
+Romeo and Juliet,4.87,5.61,4.13
+The Winslow Boy,6.53,8.19,4.88
+A Time to Kill,6.64,5.75,7.52
+Soul Doctor,5.46,5.33,5.59
+The Trip to Bountiful,6.65,7.72,5.59
+Let It Be,5.89,5.90,5.88
+Vanya and Sonia and Masha and Spike,7.49,8.46,6.52
+The Nance,6.57,7.50,5.65
+The Assembled Parties,6.87,7.69,6.06
+Lucky Guy,6.56,7.32,5.81
+Ann,5.54,6.57,4.51
+Nice Work If You Can Get It,6.38,7.08,5.68
+The Big Knife,6.04,6.17,5.92
+Orphans,7.09,6.88,7.30
+The Testament of Mary,7.26,7.80,6.71
+Breakfast at Tiffany's,5.14,5.20,5.08
+Hands on a Hardbody,5.85,6.75,4.95
+Manilow on Broadway,3.50,0.00,7.00
+The Other Place,6.71,7.60,5.82
+Evita,6.09,7.13,5.06
+Golden Boy,7.28,8.38,6.19
+Peter and the Starcatcher,7.01,7.33,6.70
+Chaplin,6.16,6.29,6.04
+Dead Accounts,6.03,5.40,6.66
+Grace,6.19,6.88,5.50
+War Horse,7.45,8.38,6.53
+The Anarchist,5.18,5.56,4.80
+Cyrano de Bergerac,6.42,6.46,6.38
+An Enemy of the People,6.64,7.31,5.98
+The Performers,5.88,5.93,5.82
+Clybourne Park,7.24,8.60,5.88
+Sister Act,6.39,7.22,5.56
+End of the Rainbow,6.83,6.64,7.02
+Ghost The Musical,5.81,5.62,5.99
+Harvey,6.34,6.92,5.77
+The Columnist,7.00,7.57,6.42
+The Lyons,6.89,7.75,6.04
+Godspell,5.75,5.33,6.17
+Don't Dress For Dinner,5.31,5.36,5.26
+Other Desert Cities,6.72,8.17,5.28
+Venus in Fur,6.71,8.00,5.42
+Leap of Faith,5.98,5.78,6.19
+Magic/Bird,5.13,6.17,4.10
+Seminar,5.64,7.62,3.67
+Wit,7.11,8.00,6.22
+The Road to Mecca,5.43,6.63,4.24
+Stick Fly,6.01,6.64,5.38
+Chinglish,5.81,6.83,4.79
+On a Clear Day You Can See Forever,4.93,5.76,4.09
+Relatively Speaking,4.21,3.56,4.86
+The Mountaintop,5.09,5.19,4.99
+An Evening with Patti LuPone and Mandy Patinkin,6.71,7.92,5.50
+Lysistrata Jones,6.42,6.57,6.28
+Bonnie & Clyde,6.04,5.83,6.25
+The Addams Family,5.78,4.63,6.93
+Man and Boy,6.01,6.67,5.36
+Hair,2.92,0.00,5.85
+Catch Me If You Can,5.58,5.00,6.17
+Jerusalem,7.29,7.94,6.64
+Ghetto Klown,6.27,6.46,6.08
+The Normal Heart,8.28,8.75,7.81
+Bengal Tiger at the Baghdad Zoo,6.45,6.82,6.08
+The Importance of Being Earnest,7.45,8.50,6.40
+The People in the Picture,4.65,2.92,6.38
+Million Dollar Quartet,5.73,6.19,5.27
+Good People,6.53,7.88,5.18
+That Championship Season,4.34,3.28,5.40
+Waiting for Godot,6.24,7.93,4.56
+Pal Joey,0.00,0.00,
+A Bronx Tale,2.75,0.00,5.50
