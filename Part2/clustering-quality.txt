@@ -1,0 +1,18 @@
+The quality of the clusters using the clustering method AgglomerativeClustering(affinity='euclidean', compute_full_tree='auto',
+                        connectivity=None, distance_threshold=None,
+                        linkage='ward', memory=None, n_clusters=2,
+                        pooling_func='deprecated') has the following scores: 
+The average silhouette_score is : 0.7299715775670483
+The average calinski_harabaz score is : 726.8319399776999
+
+The quality of the clusters using the clustering method KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=3, n_init=10, n_jobs=None, precompute_distances='auto',
+       random_state=None, tol=0.0001, verbose=0) has the following scores: 
+The average silhouette_score is : 0.9080742009030208
+The average calinski_harabaz score is : 1188.0330086801603
+
+The quality of the clusters using the clustering method DBSCAN(algorithm='auto', eps=0.1, leaf_size=30, metric='euclidean',
+       metric_params=None, min_samples=2, n_jobs=None, p=None) has the following scores: 
+The average silhouette_score is : 0.8514004517011553
+The average calinski_harabaz score is : 326.8122914604064
+
