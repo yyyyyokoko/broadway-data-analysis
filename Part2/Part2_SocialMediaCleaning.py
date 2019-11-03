@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 from sklearn.neighbors import LocalOutlierFactor
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 def reassign_missing_w_mean(df,col_name):
     new_col_name = 'cleaned_'+col_name
@@ -46,43 +46,6 @@ def description(df,col_list):
     df_mean['sd'] = df1.std()
     print(df_mean)
 
-def correlation_plotting(df,col_list):
-    print('The correlation of '+str(col_list))
-    df_correlation = df[col_list]
-    print(df_correlation.corr())
-
-    plt.figure(figsize=(15, 5))
-    for i in range(0,3):
-        # Create subplot
-        plt.subplot(1,3,i+1)
-        if i == 2:
-            col2 = 0
-        else:
-            col2 = i+1
-        x = df[col_list[i]]
-        y = df[col_list[col2]]
-
-        ## set correlation line
-        par = np.polyfit(x, y, 1, full=True)
-        slope = par[0][0]
-        intercept = par[0][1]
-        xl = [min(x), max(x)]
-        yl = [slope * xx + intercept for xx in xl]
-
-        ## plotting
-        plt.scatter(x, y)
-        plt.plot(xl, yl, '-r')
-        titleLabel = "Correlation of"+ str(col_list[i]) +" and "+ str(col_list[col2])
-        plt.title(titleLabel)
-        plt.xlabel(col_list[i])
-        plt.ylabel(col_list[col2])
-    plt.subplots_adjust(left=None, bottom=None, right=None, top=None,
-                            wspace=1, hspace=1)
-    plt.show()
-    # Write to file
-    fileName = 'CorrelationPlot.png'
-    plt.savefig(fileName)
-
 
 def main(argv):
     ## read in the data set
@@ -122,11 +85,6 @@ def main(argv):
     ## save the file
     df.to_csv('part2cleanedSocialMedia.csv')
 
-    ## correlation of the 3 variables and plots
-    col_list = ['seats_sold', 'avg_ticket_price', 'percent_of_cap']
-    df = pd.read_csv('part2cleanedGrosses.csv' , sep=',', encoding='latin1')
-    df = df.drop('Unnamed: 0',axis= 1)
-    correlation_plotting(df, col_list)
 
 if __name__ == "__main__":
     main(sys.argv)
