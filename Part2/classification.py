@@ -9,17 +9,17 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 from sklearn.model_selection import train_test_split,KFold,cross_val_score
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score
-from sklearn import preprocessing 
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn import preprocessing, svm, metrics
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import StandardScaler
 from matplotlib.pyplot import figure
-import matplotlib.pyplot as plt
-
+from sklearn.metrics import roc_curve, roc_auc_score
 from sklearn import metrics
+import matplotlib.pyplot as plt
 import pprint
+
 
 def clean_data(gross, social):
     #In this function, we modify the datatype for further classfication 
@@ -70,6 +70,7 @@ def preprocess(gross, social):
 def build_model(df):
     #This function performs the Decision tree, random forest and KNN models 
     #Input the combined dataset and print out the model performance 
+    #generate the ROC curve and feature importance graph
 
     X = df.loc[:, :'FB Checkins'].reset_index(drop=True)
     y = df.loc[:, 'label'].reset_index(drop=True).values
@@ -82,10 +83,11 @@ def build_model(df):
      
     X_train, X_validate, Y_train, Y_validate = train_test_split(normDF, y, test_size=0.2, random_state=42)
 
-    #Decision Tree and KNN models
+    #Decision Tree, SVM and KNN models
     models = []
     models.append(('DT', DecisionTreeClassifier()))
     models.append(('KNN', KNeighborsClassifier(n_neighbors=5)))   
+    models.append(('SVM', svm.SVC(gamma='scale')))
 
     results = []
     names = []
@@ -94,33 +96,68 @@ def build_model(df):
         cv_results = cross_val_score(model, X_train, Y_train, cv=kfold, scoring='accuracy')
         results.append(cv_results)
         names.append(name)
-        msg = "%s: %f (%f)" % (name, cv_results.mean(), cv_results.std())
-        print("Training", msg)
+        msg = "%f (%f)" % (cv_results.mean(), cv_results.std())
+        
         model.fit(X_train, Y_train)
-        predictions = model.predict(X_validate)
-        result = "%s: %f " % (name, accuracy_score(Y_validate, predictions))
-        print("Testing", result)
+        y_pred = model.predict(X_validate)
+
+        print(name)
+        print("Confusion Matrix")
+        print(confusion_matrix(Y_validate,y_pred))
+        print(classification_report(Y_validate,y_pred))
+        print("Accuracy score of training data: ", msg)
+        print('Accuracy score of testing data: ', accuracy_score(Y_validate, y_pred.round()))
+        print("")
+
+    #ROC for DT
+    ns_probs = [0 for _ in range(len(Y_validate))]
+    model = DecisionTreeClassifier()
+    model.fit(X_train, Y_train)
+    lr_probs = model.predict_proba(X_validate)
+    lr_probs = lr_probs[:, 1]
+    ns_auc = roc_auc_score(Y_validate, ns_probs)
+    lr_auc = roc_auc_score(Y_validate, lr_probs)
+    # summarize scores
+    print('No Skill: ROC AUC=%.3f' % (ns_auc))
+    print('Logistic: ROC AUC=%.3f' % (lr_auc))
+    # calculate roc curves
+    ns_fpr, ns_tpr, _ = roc_curve(Y_validate, ns_probs)
+    lr_fpr, lr_tpr, _ = roc_curve(Y_validate, lr_probs)
+    # plot the roc curve for the model
+    plt.plot(ns_fpr, ns_tpr, linestyle='--', label='No Skill')
+    plt.plot(lr_fpr, lr_tpr, marker='.', label='Decisiton Tree')
+    # axis labels
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    # show the legend
+    plt.legend()
+    # show the plot
+    plt.show()
+
 
     #Random Forest Model, generating the feature importance plot
     sc = StandardScaler()
     X_train = sc.fit_transform(X_train)
     X_validate = sc.transform(X_validate)
 
-    rf = RandomForestRegressor(n_estimators = 1000, random_state = 42)
+    rf = RandomForestRegressor(n_estimators = 100, random_state = 42)
     rf.fit(X_train, Y_train)
     y_pred = rf.predict(X_validate)
 
     print("Random Forest Model")
+    print("Confusion Matrix")
     print(confusion_matrix(Y_validate,y_pred.round()))
     print(classification_report(Y_validate,y_pred.round()))
+    print("Accuracy score of training data: ", rf.score(X_train, Y_train))
     print('Accuracy score of testing data: ', accuracy_score(Y_validate, y_pred.round()))
 
-    figure(num=None, figsize=(10, 6), dpi=80, facecolor='w', edgecolor='k')
+    figure(num=None, figsize=(12, 6), facecolor='w', edgecolor='k')
     plt.title("Feature Importance, RF")
     feat_importances = pd.Series(rf.feature_importances_, index=X.columns).sort_values(ascending=True)
     feat_importances.plot(kind='barh')
     plt.show()
     return 
+
 
 if __name__ == "__main__":
     gross = pd.read_csv("part2cleanedGrosses.csv", index_col=0, encoding='latin-1')
@@ -128,3 +165,5 @@ if __name__ == "__main__":
     cleanedGross, cleanedSocial = clean_data(gross, social)
     combinedDf =  preprocess(cleanedGross, cleanedSocial)
     build_model(combinedDf)
+    ROC(combinedDf)
+
