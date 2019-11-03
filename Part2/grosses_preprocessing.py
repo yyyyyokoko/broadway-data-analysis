@@ -2,153 +2,221 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 from sklearn.neighbors import LocalOutlierFactor
+import sys
 
-pd.set_option('display.max_columns', 10)  # set max num of cols displayed
 
-gs = pd.read_csv("grosses_cleaned.csv")
+def main(argv):
 
-# convert date from string to date
-gs['week_ending'] = pd.to_datetime(gs['week_ending'])
+    # set max num of cols displayed
+    pd.set_option('display.max_columns', 10)
+
+    # read in data sets
+    gs = pd.read_csv("grosses_cleaned.csv")
+
+    # clean data
+    print("Cleaning data...")
+    gs = gross_cleaning(gs)
+    print()
+
+    # prints out stats summary of the selected attributes
+    print("Printing stats summary...")
+    print()
+    col_list = ['this_week_gross', 'avg_ticket_price', 'seats_sold', 'percent_of_cap', 'perfs']
+    description(gs, col_list)
+
+    # conduct outlier exploration and mark out outliers due to the strike
+    print("Exploring outliers using visualizations...")
+    gs = grosses_outlier_expo(gs)
+    print()
+
+    # conduct LOF and mark out outliers
+    print("Conducting LOF to detect anomaly...")
+    gs = grosses_lof(gs)
+
+    print()
+
+    # plot LOF outliers for Wicked grosses
+    print("Plotting outliers detected...")
+    plot_outliers(gs)
+    print()
+
+    # bin grosses
+    print("Binning grosses...")
+    gs = binning_grosses(gs)
+    print()
+
+    # bin percent_of_cap
+    print("Binning percent of cap...")
+    gs = binning_percent_cap(gs)
+    print()
+
+    # output preprocessed data
+    print("Outputting the dataset...")
+    gs.to_csv('part2cleanedGrosses.csv')
+    print()
+    print("Done!")
+##################################################
+
+def gross_cleaning(df):
+    """
+    gross_cleaning function takes in the grosses dataset,
+    cleans it and returns a further cleaned dataset
+    """
+    gs = df
+    # convert 'week_ending' from strings to datetime objects
+    gs['week_ending'] = pd.to_datetime(gs['week_ending'])
+
+    # generate year, month for future analysis
+    gs['year'] = gs['week_ending'].dt.year
+    gs['month'] = gs['week_ending'].dt.month
+
+    return gs
+
 
 ##################################################
-# Summary stats of the dataset
-gs.describe()
+def description(df,col_list):
+    """
+    the description function takes in a dataframe and a list of column names
+    and prints out a summary statistics table
+    which includes mean, median and standard deviation of each input attribute
+    """
+    df = df[col_list]
+    df_stats = pd.DataFrame()
+    df_stats['mean'] = df.mean()
+    df_stats['median'] = df.median()
+    df_stats['sd'] = df.std()
+    print(df_stats)
 
-# Attributes with potential outliers in
-# this_week_gross: the mean is 5*10^5, but min is 0, max triples the 3rd quantile
-# diff_in_dollars: extreme max
-# avg_ticket_price: the mean is 67, max is 511
-# seats_sold: extreme max
-# perfs: extreme max and 0s
-# percent_of_cap
-# diff_percent_of_cap
 
-
-# Double confirm with visualization
-gs.hist()
-# avg_ticket_price, this_week_gross
-
-# Issues worth noting
-# 0 values may indicate holiday seasons when theaters are closed
-# percent_of_cap: greater than 100% indicates oversales
-# Extreme values of diff_in_dollars and diff_percent_of_cap may be due to comparing with weeks when theaters are closed
 
 ##################################################
 
-# plot time series
-# weekly gross against time
-gs.plot(x='week_ending', y='this_week_gross', figsize=(12,6))
-plt.xlabel('Week')
-plt.ylabel('Weekly Grosses in USD')
-plt.title('Weekly Grosses over time in USD')
-#
-# avg_ticket_price against time
-gs.plot(x='week_ending', y='avg_ticket_price', figsize=(12,6))
-plt.xlabel('Week')
-plt.ylabel('Weekly average ticket price in USD')
-plt.title('Weekly average ticket price over time in USD');
-plt.show()
+def grosses_outlier_expo(df):
+    """
+    the grosses_outlier_expo takes in the grosses data set
+    plots two sets of time series data for exploring potential outliers
+    marks out the data of the strike in 2007
+    and returns a modified data set
+    """
+    gs = df
+
+    # Outlier detection approach 1: plot time series of grosses and average ticket price
+
+    wicked = gs[gs['show'] == 'Wicked']
+    mama = gs[gs['show']=='Mamma Mia!']
+
+    # avg_ticket_price against time
+    plt.plot(wicked['week_ending'] , wicked['avg_ticket_price'], label = 'Wicked')
+    plt.plot(mama[ 'week_ending'], mama['avg_ticket_price'], label = 'Mamma Mia!')
+    plt.legend(loc='upper left')
+    plt.xlabel('Time')
+    plt.ylabel('Weekly average ticket price in USD')
+    plt.title('Weekly average ticket price over time in USD: Wicked and Mamma Mia!')
+    #plt.show()
+    plt.savefig('price_over_time.png')
+    plt.close()
+
+    # Weekly grosses against time
+    plt.plot(wicked['week_ending'] , wicked['this_week_gross'], label = 'Wicked')
+    plt.plot(mama[ 'week_ending'], mama['this_week_gross'], label = 'Mamma Mia!')
+    plt.legend(loc='upper left')
+    plt.xlabel('Time')
+    plt.ylabel('Weekly grosses in USD')
+    plt.title('Weekly grosses over time in USD: Wicked and Mamma Mia!')
+    #plt.show()
+    plt.savefig('grosses_over_time.png')
+    plt.close()
+
+    # Mark broadway strike in the week of 11/25/2017
+    gs['strike'] = 0
+    gs.loc[(gs.this_week_gross == 0) & (gs.diff_in_dollars == 0), 'strike'] = -1
+
+    return(gs)
+
 ##################################################
-# outlier detection approach
-# grosses = avg_ticket_price * seats_sold
-
-wicked = gs[gs['show'] == 'Wicked']
-mama = gs[gs['show'] == 'Mamma Mia!']
-
-# avg_ticket_price against time
-plt.plot(wicked['week_ending'] , wicked['avg_ticket_price'])
-plt.plot(mama[ 'week_ending'], mama['avg_ticket_price'])
-plt.xlabel('Week')
-plt.ylabel('Weekly average ticket price in USD')
-plt.title('Weekly average ticket price over time in USD')
-plt.show()
-
-
-##################################################
-def lof(df):
+def grosses_lof(df):
+    """
+    grosses_lof takes in the grosses dataset and perform LOF anormaly detection algorithm on it
+    returns a modified dataset with an outlier identification column
+    """
+    gs = df
     outliers = []
-    clf = LocalOutlierFactor(n_neighbors=5, algorithm='auto', contamination=0.1, n_jobs=-1, p=2)
+    clf=LocalOutlierFactor(n_neighbors=5,algorithm='auto',contamination=0.1,n_jobs=-1,p=2)
     list = gs['show'].unique()
     for show in list:
-        data = gs.loc[gs['show'] == show].iloc[:, 2:-1]
-        if len(data) >= 5:
+        data= gs.loc[gs['show']==show].iloc[:,2:-1]
+        if len(data)>=5:
             outlier = clf.fit_predict(data)
-            outliers = np.append(outliers, outlier)
+            outliers=np.append(outliers,outlier)
         else:
-            for i in range(0, len(data)):
-                outliers = np.append(outliers, 0)
-    df['outlier_detection'] = outliers
-    return df
-
-
-##################################################
-# run LOF on gs
-gs = lof(gs)
+            for i in range(0,len(data)):
+                outliers = np.append(outliers,0)
+    gs['outlier_detection'] = outliers
+    return(gs)
 
 ##################################################
 
-total_zero_rows = gs[(gs.this_week_gross == 0) & (gs.diff_in_dollars == 0)] # gets all zero rows
+def plot_outliers(df):
+    """
+    plot_outliers takes in the grosses data with the outlier identifier column
+    and plot outliers identified  on grosses and prices over time for the show Wicked
+    """
+    gs = df
 
-lof_outliers = gs[gs['outlier_detection'] == -1]
+    wicked = gs[gs['show'] == 'Wicked']
+    wicked_outliers = wicked[wicked['outlier_detection'] == -1]
 
-wicked = gs[gs['show'] == 'Wicked']
-wicked_outliers = wicked[wicked['outlier_detection'] == -1]
-
-# in terms of average ticket price
-plt.plot(wicked['week_ending'], wicked['avg_ticket_price'])
-plt.scatter(wicked_outliers['week_ending'], wicked_outliers['avg_ticket_price'], color='red')
-plt.xlabel('Week')
-plt.ylabel('Weekly average ticket price in USD')
-plt.title('Weekly average ticket price over time in USD')
-plt.show()
-
-# in terms of average ticket price
-plt.plot(wicked['week_ending'], wicked['this_week_gross'])
-plt.scatter(wicked_outliers['week_ending'], wicked_outliers['this_week_gross'], color='red')
-plt.xlabel('Week')
-plt.ylabel('Weekly average ticket price in USD')
-plt.title('Weekly average ticket price over time in USD')
-plt.show()
+    # in terms of grosses
+    plt.plot(wicked['week_ending'] , wicked['this_week_gross'])
+    plt.scatter(wicked_outliers['week_ending'], wicked_outliers['this_week_gross'], color = 'red')
+    plt.xlabel('Time')
+    plt.ylabel('Weekly grosses in USD')
+    plt.title('Weekly grosses over time in USD with outliers detected by LOF')
+    #plt.show()
+    plt.savefig('grosses_over_time_with_outliers.png')
+    plt.close()
 
 ##################################################
-# Binning grosses
 
-# Take a look at min and max, excluding 0 values
-gs[gs['this_week_gross'] != 0].this_week_gross.describe()
+def binning_grosses(df):
+    """
+    binning_grosses takes in the grosses date set
+    and bin the grosses into 5 bins
+    prints out the value counts for each bin and
+    returns a modified data set with a new column called gross_binRange1
+    """
 
-# binning strategy 1:
-# 0 as the first group
-# the rest are divided based on their order of magnitude
+    gs = df
 
-gross_bin1= np.array([-1, 1, 100000, 500000, 1000000, 10000000])
-gs['gross_binRange1'] = pd.cut(gs['this_week_gross'], gross_bin1)
-# gs['gross_binRange1].value_counts
+    gs[gs['this_week_gross'] != 0].this_week_gross.describe()
 
-# gross_bin1 = [-1, 1, 100000, 500000, 1000000, 10000000]
-# gross_groupNames = range(1,6)
-# gross_binGroup1 = pd.cut(gs['this_week_gross'], gross_bin1, labels = gross_groupNames)
+    # binning strategy 1:
+    # 0 as the first group
+    # the rest are divided based on their order of magnitude
+
+    gross_bin1= np.array([-1, 1, 100000, 500000, 1000000, 10000000])
+    gs['gross_binRange1'] = pd.cut(gs['this_week_gross'], gross_bin1)
+    print(gs['gross_binRange1'].value_counts())
+
+    return(gs)
+##################################################
+
+def binning_percent_cap(df):
+    """
+    binning_percent_cap takes in the grosses date set
+    and bin the percent_of_cap into 8 bins
+    prints out the value counts for each bin and
+    returns a modified data set with a new column called percent_of_cap_binRange1
+    """
+    gs = df
+    # 0 as group 1
+    # 1-50%; 50%-60%, 60%-70%, 70%-80%, 80%-90%, 90-100%, >100%
+    percent_of_cap_bin1 = np.array([-1, 0, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 2])
+    gs['percent_of_cap_binRange1'] = pd.cut(gs['percent_of_cap'], percent_of_cap_bin1)
+    print(gs['percent_of_cap_binRange1'].value_counts())
+    return(gs)
 
 ##################################################
-# Binning avg_ticket_price
 
-# Take a look at min and max, excluding 0 values
-gs[gs['avg_ticket_price'] != 0].avg_ticket_price.describe()
-
-# binning strategy 1:
-# 0 as group 1
-price_bin1 = np.array([-1, 1, 20, 40, 60, 80, 100, 1000])
-gs['price_binRange1'] = pd.cut(gs['avg_ticket_price'], price_bin1)
-
-##################################################
-# Binning percent_of_cap
-
-# Take a look at min and max, excluding 0 values
-gs[gs['percent_of_cap'] != 0].percent_of_cap.describe()
-
-# binning strategy 1:
-# 0 as group 1
-# 1-50%; 50%-60%, 60%-70%, 70%-80%, 80%-90%, 90-100%, >100%
-percent_of_cap_bin1 = np.array([-1, 0, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 2])
-gs['percent_of_cap_binRange1'] = pd.cut(gs['percent_of_cap'], percent_of_cap_bin1)
-
-gs.to_csv('part2cleanedGrosses.csv')
+if __name__ == "__main__":
+    main(sys.argv)
