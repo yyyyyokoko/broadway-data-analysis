@@ -1,0 +1,70 @@
+antecedents,consequents,confidence,support_val
+frozenset({'Cats'}),frozenset({'The Phantom of the Opera'}),0.8455377574370709,0.4
+frozenset({'Mamma Mia!'}),frozenset({'Chicago'}),1.0,0.4
+frozenset({'The Lion King'}),frozenset({'Chicago'}),1.0,0.4
+frozenset({'Chicago'}),frozenset({'The Lion King'}),0.9564489112227806,0.4
+frozenset({'The Phantom of the Opera'}),frozenset({'Chicago'}),0.7223230490018149,0.4
+frozenset({'Chicago'}),frozenset({'The Phantom of the Opera'}),1.0,0.4
+frozenset({'Wicked'}),frozenset({'Chicago'}),1.0,0.4
+frozenset({'Les MisÂ¨Â¦rables'}),frozenset({'The Phantom of the Opera'}),0.9566891241578441,0.4
+frozenset({'Mamma Mia!'}),frozenset({'The Lion King'}),0.9986206896551725,0.4
+frozenset({'Mamma Mia!'}),frozenset({'The Phantom of the Opera'}),1.0,0.4
+frozenset({'The Lion King'}),frozenset({'The Phantom of the Opera'}),1.0,0.4
+frozenset({'The Lion King'}),frozenset({'Wicked'}),0.7267950963222416,0.4
+frozenset({'Wicked'}),frozenset({'The Lion King'}),0.9987966305655837,0.4
+frozenset({'Wicked'}),frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'The Lion King'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'Chicago'})",frozenset({'The Lion King'}),0.9986206896551725,0.4
+frozenset({'Mamma Mia!'}),"frozenset({'The Lion King', 'Chicago'})",0.9986206896551725,0.4
+"frozenset({'Mamma Mia!', 'The Phantom of the Opera'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'Chicago'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+frozenset({'Mamma Mia!'}),"frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.4
+"frozenset({'The Lion King', 'The Phantom of the Opera'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'The Lion King', 'Chicago'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'The Phantom of the Opera', 'Chicago'})",frozenset({'The Lion King'}),0.9564489112227806,0.4
+frozenset({'The Lion King'}),"frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.4
+frozenset({'Chicago'}),"frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9564489112227806,0.4
+"frozenset({'The Lion King', 'Chicago'})",frozenset({'Wicked'}),0.7267950963222416,0.4
+"frozenset({'The Lion King', 'Wicked'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'Chicago', 'Wicked'})",frozenset({'The Lion King'}),0.9987966305655837,0.4
+frozenset({'The Lion King'}),"frozenset({'Chicago', 'Wicked'})",0.7267950963222416,0.4
+frozenset({'Wicked'}),"frozenset({'The Lion King', 'Chicago'})",0.9987966305655837,0.4
+"frozenset({'The Phantom of the Opera', 'Wicked'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'Chicago', 'Wicked'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+frozenset({'Wicked'}),"frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.4
+"frozenset({'Mamma Mia!', 'The Lion King'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'The Phantom of the Opera'})",frozenset({'The Lion King'}),0.9986206896551725,0.4
+frozenset({'Mamma Mia!'}),"frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9986206896551725,0.4
+"frozenset({'The Lion King', 'The Phantom of the Opera'})",frozenset({'Wicked'}),0.7267950963222416,0.4
+"frozenset({'The Lion King', 'Wicked'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'The Phantom of the Opera', 'Wicked'})",frozenset({'The Lion King'}),0.9987966305655837,0.4
+frozenset({'The Lion King'}),"frozenset({'The Phantom of the Opera', 'Wicked'})",0.7267950963222416,0.4
+frozenset({'Wicked'}),"frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9987966305655837,0.4
+"frozenset({'Mamma Mia!', 'The Lion King', 'The Phantom of the Opera'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'The Lion King', 'Chicago'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'Mamma Mia!', 'The Phantom of the Opera', 'Chicago'})",frozenset({'The Lion King'}),0.9986206896551725,0.4
+"frozenset({'Mamma Mia!', 'The Lion King'})","frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.4
+"frozenset({'Mamma Mia!', 'The Phantom of the Opera'})","frozenset({'The Lion King', 'Chicago'})",0.9986206896551725,0.4
+"frozenset({'Mamma Mia!', 'Chicago'})","frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9986206896551725,0.4
+frozenset({'Mamma Mia!'}),"frozenset({'The Lion King', 'The Phantom of the Opera', 'Chicago'})",0.9986206896551725,0.4
+"frozenset({'The Lion King', 'The Phantom of the Opera', 'Chicago'})",frozenset({'Wicked'}),0.7267950963222416,0.4
+"frozenset({'The Lion King', 'The Phantom of the Opera', 'Wicked'})",frozenset({'Chicago'}),1.0,0.4
+"frozenset({'The Lion King', 'Chicago', 'Wicked'})",frozenset({'The Phantom of the Opera'}),1.0,0.4
+"frozenset({'The Phantom of the Opera', 'Chicago', 'Wicked'})",frozenset({'The Lion King'}),0.9987966305655837,0.4
+"frozenset({'The Lion King', 'The Phantom of the Opera'})","frozenset({'Chicago', 'Wicked'})",0.7267950963222416,0.4
+"frozenset({'The Lion King', 'Chicago'})","frozenset({'The Phantom of the Opera', 'Wicked'})",0.7267950963222416,0.4
+"frozenset({'The Lion King', 'Wicked'})","frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.4
+"frozenset({'The Phantom of the Opera', 'Wicked'})","frozenset({'The Lion King', 'Chicago'})",0.9987966305655837,0.4
+"frozenset({'Chicago', 'Wicked'})","frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9987966305655837,0.4
+frozenset({'The Lion King'}),"frozenset({'The Phantom of the Opera', 'Chicago', 'Wicked'})",0.7267950963222416,0.4
+frozenset({'Wicked'}),"frozenset({'The Lion King', 'The Phantom of the Opera', 'Chicago'})",0.9987966305655837,0.4
+frozenset({'The Lion King'}),frozenset({'Chicago'}),1.0,0.6
+frozenset({'Chicago'}),frozenset({'The Lion King'}),0.9564489112227806,0.6
+frozenset({'The Phantom of the Opera'}),frozenset({'Chicago'}),0.7223230490018149,0.6
+frozenset({'Chicago'}),frozenset({'The Phantom of the Opera'}),1.0,0.6
+frozenset({'The Lion King'}),frozenset({'The Phantom of the Opera'}),1.0,0.6
+"frozenset({'The Lion King', 'The Phantom of the Opera'})",frozenset({'Chicago'}),1.0,0.6
+"frozenset({'The Lion King', 'Chicago'})",frozenset({'The Phantom of the Opera'}),1.0,0.6
+"frozenset({'The Phantom of the Opera', 'Chicago'})",frozenset({'The Lion King'}),0.9564489112227806,0.6
+frozenset({'The Lion King'}),"frozenset({'The Phantom of the Opera', 'Chicago'})",1.0,0.6
+frozenset({'Chicago'}),"frozenset({'The Lion King', 'The Phantom of the Opera'})",0.9564489112227806,0.6
