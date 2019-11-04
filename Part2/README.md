@@ -23,9 +23,12 @@ Project_Part2_Report.pdf contains our writepups required by the project.
 
 The following csv files are the input file for both exploratory and predictive analysis:
 
-1. grosses_cleaned.csv 				
-2. part2cleanedGrosses.csv 			
-3. part2cleanedSocialMedia.csv
+1. grosses_cleaned.csv
+2. cleaned_SocialMedia.csv 				
+3. part2cleanedGrosses.csv 			
+4. part2cleanedSocialMedia.csv
+5. Musical_ratings-withoutNa-cleaned.csv
+
 
 
 [Scripts]
