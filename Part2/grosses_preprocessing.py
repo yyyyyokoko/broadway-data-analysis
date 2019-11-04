@@ -57,6 +57,7 @@ def main(argv):
     print("Done!")
 ##################################################
 
+
 def gross_cleaning(df):
     """
     gross_cleaning function takes in the grosses dataset,
@@ -74,7 +75,7 @@ def gross_cleaning(df):
 
 
 ##################################################
-def description(df,col_list):
+def description(df, col_list):
     """
     the description function takes in a dataframe and a list of column names
     and prints out a summary statistics table
@@ -88,8 +89,8 @@ def description(df,col_list):
     print(df_stats)
 
 
-
 ##################################################
+
 
 def grosses_outlier_expo(df):
     """
@@ -103,16 +104,16 @@ def grosses_outlier_expo(df):
     # Outlier detection approach 1: plot time series of grosses and average ticket price
 
     wicked = gs[gs['show'] == 'Wicked']
-    mama = gs[gs['show']=='Mamma Mia!']
+    mama = gs[gs['show'] == 'Mamma Mia!']
 
     # avg_ticket_price against time
     plt.plot(wicked['week_ending'] , wicked['avg_ticket_price'], label = 'Wicked')
-    plt.plot(mama[ 'week_ending'], mama['avg_ticket_price'], label = 'Mamma Mia!')
+    plt.plot(mama['week_ending'], mama['avg_ticket_price'], label='Mamma Mia!')
     plt.legend(loc='upper left')
     plt.xlabel('Time')
     plt.ylabel('Weekly average ticket price in USD')
     plt.title('Weekly average ticket price over time in USD: Wicked and Mamma Mia!')
-    #plt.show()
+    # plt.show()
     plt.savefig('price_over_time.png')
     plt.close()
 
@@ -123,7 +124,7 @@ def grosses_outlier_expo(df):
     plt.xlabel('Time')
     plt.ylabel('Weekly grosses in USD')
     plt.title('Weekly grosses over time in USD: Wicked and Mamma Mia!')
-    #plt.show()
+    # plt.show()
     plt.savefig('grosses_over_time.png')
     plt.close()
 
@@ -131,9 +132,11 @@ def grosses_outlier_expo(df):
     gs['strike'] = 0
     gs.loc[(gs.this_week_gross == 0) & (gs.diff_in_dollars == 0), 'strike'] = -1
 
-    return(gs)
+    return gs
 
 ##################################################
+
+
 def grosses_lof(df):
     """
     grosses_lof takes in the grosses dataset and perform LOF anormaly detection algorithm on it
@@ -141,20 +144,22 @@ def grosses_lof(df):
     """
     gs = df
     outliers = []
-    clf=LocalOutlierFactor(n_neighbors=5,algorithm='auto',contamination=0.1,n_jobs=-1,p=2)
+    clf = LocalOutlierFactor(n_neighbors=5, algorithm='auto', contamination=0.1, n_jobs=-1, p=2)
     list = gs['show'].unique()
     for show in list:
-        data= gs.loc[gs['show']==show].iloc[:,2:-1]
-        if len(data)>=5:
+        data = gs.loc[gs['show'] == show].iloc[:, 2:-1]
+        if len(data) >= 5:
             outlier = clf.fit_predict(data)
-            outliers=np.append(outliers,outlier)
+            outliers = np.append(outliers, outlier)
         else:
             for i in range(0,len(data)):
-                outliers = np.append(outliers,0)
+                outliers = np.append(outliers, 0)
     gs['outlier_detection'] = outliers
-    return(gs)
+
+    return gs
 
 ##################################################
+
 
 def plot_outliers(df):
     """
@@ -167,16 +172,17 @@ def plot_outliers(df):
     wicked_outliers = wicked[wicked['outlier_detection'] == -1]
 
     # in terms of grosses
-    plt.plot(wicked['week_ending'] , wicked['this_week_gross'])
-    plt.scatter(wicked_outliers['week_ending'], wicked_outliers['this_week_gross'], color = 'red')
+    plt.plot(wicked['week_ending'], wicked['this_week_gross'])
+    plt.scatter(wicked_outliers['week_ending'], wicked_outliers['this_week_gross'], color='red')
     plt.xlabel('Time')
     plt.ylabel('Weekly grosses in USD')
     plt.title('Weekly grosses over time in USD with outliers detected by LOF')
-    #plt.show()
+    # plt.show()
     plt.savefig('grosses_over_time_with_outliers.png')
     plt.close()
 
 ##################################################
+
 
 def binning_grosses(df):
     """
@@ -194,12 +200,13 @@ def binning_grosses(df):
     # 0 as the first group
     # the rest are divided based on their order of magnitude
 
-    gross_bin1= np.array([-1, 1, 100000, 500000, 1000000, 10000000])
+    gross_bin1 = np.array([-1, 1, 100000, 500000, 1000000, 10000000])
     gs['gross_binRange1'] = pd.cut(gs['this_week_gross'], gross_bin1)
     print(gs['gross_binRange1'].value_counts())
 
-    return(gs)
+    return gs
 ##################################################
+
 
 def binning_percent_cap(df):
     """
@@ -214,9 +221,10 @@ def binning_percent_cap(df):
     percent_of_cap_bin1 = np.array([-1, 0, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 2])
     gs['percent_of_cap_binRange1'] = pd.cut(gs['percent_of_cap'], percent_of_cap_bin1)
     print(gs['percent_of_cap_binRange1'].value_counts())
-    return(gs)
+    return gs
 
 ##################################################
+
 
 if __name__ == "__main__":
     main(sys.argv)
