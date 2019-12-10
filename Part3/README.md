@@ -84,44 +84,44 @@ The following URLS/files direct to to all the visualizations (9) we have created
 
 
 Visualization 1: https://plot.ly/~yyyyyokoko/25/#/ 
-Title: Follower Variation of Broadway Shows
-Location: Analysis -> "Exploratory Analysis
-File name: Followers.png
+- Title: Follower Variation of Broadway Shows 
+- Location: Analysis -> "Exploratory Analysis
+- File name: Followers.png
 
 Visualization 2: https://plot.ly/~yyyyyokoko/32/#/ 
-Title: FB likes vs. average weekly gross
-Location: Analysis -> Exploratory Analysis
-File name: FBlikes.png
+- Title: FB likes vs. average weekly gross
+- Location: Analysis -> Exploratory Analysis
+- File name: FBlikes.png
 
 Visualization 3: https://chart-studio.plot.ly/~janetlauyeung/76 
-Title: Critics' and Readers' Ratings for Broadway Shows
-Location: Analysis -> Exploratory Analysis
-File name: viz-ratings.png
+- Title: Critics' and Readers' Ratings for Broadway Shows
+- Location: Analysis -> Exploratory Analysis
+- File name: viz-ratings.png
 
 Visualization 4: https://plot.ly/~KaluluD/37/#/ 
-Title: Ratings vs. Average weekly grosses of recent 5 years
-Location: Analysis -> Hypothesis Testing
-File name: Ratings-grosses.PNG
+- Title: Ratings vs. Average weekly grosses of recent 5 years
+- Location: Analysis -> Hypothesis Testing
+- File name: Ratings-grosses.PNG
 
 Visualization 5: https://plot.ly/~KaluluD/39/#/
-Title: Average Ticket Price vs. Percent of Cap of recent 5 years
-Location: Analysis -> Exploratory Analysis
-File name: Price-cap.PNG
+- Title: Average Ticket Price vs. Percent of Cap of recent 5 years
+- Location: Analysis -> Exploratory Analysis
+- File name: Price-cap.PNG
 
 Visualization 6: https://public.tableau.com/profile/yunfei.zhang#!/vizhome/501_Broadway_Analysis_yearlytrend/Sheet2?publish=yes
-Title: The Growth of Broadway Show Gross Over Time
-Location: Analysis -> Exploratory Analysis
-File Name: yearly_grosses.png
+- Title: The Growth of Broadway Show Gross Over Time
+- Location: Analysis -> Exploratory Analysis
+- File Name: yearly_grosses.png
 
 Visualization 7: https://public.tableau.com/profile/yunfei.zhang#!/vizhome/501_Broadway_Analysis/Sheet3?publish=yes 
-Title: Average of Seats Sold and Ticket Price of Different Time Periods over Years
-Location: Analysis -> Hypothesis Testing
-File name: seasonal_trend.png
+- Title: Average of Seats Sold and Ticket Price of Different Time Periods over Years
+- Location: Analysis -> Hypothesis Testing
+- File name: seasonal_trend.png
 
 Visualization 8: topic distribution.png (using Matplotlib)
-Title: Distribution of Document Word Counts by Dominant Topic
-Location: Analysis -> NLP Tasks
+- Title: Distribution of Document Word Counts by Dominant Topic
+- Location: Analysis -> NLP Tasks
 
 Visualization 9: topic modeling.png (using WordCloud)
-Title: Topic key words in each topic
-Location: Analysis -> NLP Tasks
+- Title: Topic key words in each topic
+- Location: Analysis -> NLP Tasks
