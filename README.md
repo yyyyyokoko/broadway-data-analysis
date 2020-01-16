@@ -1,4 +1,4 @@
-# broadway-data-analysis
+# broadway-data-analysis project
 
 Group Members: 
 	Lujia Deng (ld781)
